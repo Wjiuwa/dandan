@@ -1,5 +1,5 @@
 {
-  "last_updated": null,
+  "last_updated": "2026-09-14T01:07:20.645517+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,14 +8,143 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": null,
+    "usd_ngn": 1327.101379,
     "source": "open.er-api.com",
-    "history": []
+    "history": [
+      {
+        "t": "2026-09-14T01:07:20.645517+00:00",
+        "rate": 1327.101379
+      }
+    ]
   },
   "news": {
-    "utilization": [],
-    "freight_margins": [],
-    "block_trades": [],
-    "fx_liquidity": []
+    "utilization": [
+      {
+        "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFlWWlnd0tGMnNRVzdCQWpqRmVQRGJzOC1OdlRVOGk4c3UyYk5XWTItNnRmRzVlby1CNDB0RnRTUnJzSTBWODFPRXZHeWhQSkhrS1B5QkdGV2pVQlR1M3RCZXkyNFR6TDRfYzNoWHZGX3llck5ORE9FWDdXcG5qRENHRHlnWTBpLUpVYTNjSUNCQUxabHZ4S1RjSlJpeC1Ya2VzOTlVU295anJaSDM0dkJWUGZqdGZuMWs00gHAAUFVX3lxTE9RWE9uVTNIazBibnFlVmNZU1ZPLUFCVDFWUkZiTll1Y2szZnVxTXFmLWp0WU1oOUpJU1hNbGVIdFFKaUYtOGJIRlA5bW9ZX182Q0x0dmdPbEVYaExOem5DcFktdU1lelRlMlpObFctME51dHFtZXpkWWo1WGEyaWNpU0VPQjlEX01pUVEtUVhwdEVGMmFMTzdWNFoteXRaTXhJTTBpX0ZpcjBwS01iMjJoZUxkeEdmU3lPa2pwdUk3bw?oc=5",
+        "published": "Fri, 11 Sep 2026 08:59:53 GMT",
+        "source": "Investors King"
+      },
+      {
+        "title": "Africa\u2019s largest refinery challenges Nigeria\u2019s crude supply system as middlemen add up to $4 per barrel - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXVHOHRHOGQxcmo5Q1dzcmxFQTJ5SFh6Mm1VMWRLbk9rNE9tRmdkUUMxTmtIV1ktNk9rNnEybUlWNDFtQVVVVmJPTkU1S3AzOVdDMFF0anNMbkV5MjhWU2psZjFUUEtpeXZJeVRyMW9uTWw2d2xuV0lmU0xvUGFSUnJwSTlDNGJ1X2ZYNlcxcmZjZmhkS2pVWmpYcFBuN2Q1elhVWTVzNnhreVczU2ZuR3NWUXBCRzNmRXFWTGY1NHNwaFJHdTJVcUVUNUhHS2N0eHlUWjd0RWs?oc=5",
+        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "source": "Business Insider Africa"
+      },
+      {
+        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
+        "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "source": "Punch Newspapers"
+      },
+      {
+        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUdka3dvTlZ3MDVsdnBJeGhKWG1zM3JGMkRZYzB2N1pXc0I0TEF3UWdpVHlJTE15THdjbUFxZmpFaTFjdnVWZDIyYVlqbjlJeUxoNW1DUkYyUlNMYkJSaFlTdTFHOG54UjJIUElneTdVV19jRHlHRGgyd2hwNTZJb01kSFAwQll1SnVyUW1pWjFmOS0zNlNzRWVsMkpQa1hHaU40XzZoei0zLUHSAbABQVVfeXFMTW53LTJTaEk5QVFaZi1QVU05T0lUMmptcWhPeFlFMG15M200TDJFcllhTXBEaEc0WGp5UlpNdTlSbktKd0oyUTdNQnFETkdXc19DV0JEc1ZhZEVOT2l0RkMyOE42Wm5QWmJ4b1U5R3hROHJDMGZNSlhRZ0FySVhocE5qYk5MTXlfQVJ6SVJtVWlNSy0tLUpwLUhNblZ6eGJ0RFdhR2VDand4dlZTNmsydlE?oc=5",
+        "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+        "source": "Vanguard News"
+      },
+      {
+        "title": "Dangote Refinery gets only 5 of 13 needed crude cargoes from NNPC - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVNvQklEaDY5THFYdjBkRlhnN0dtQWJoY01aWWhUNUZyMnAyME5VQXg2RlRQbUQ2RS1TQ21rWHg5SnJyUW5oM3F0VjU1dVN2aU5VOUpaT3VnUDV1MF9FbnhVZjQxR1E1OVVkRGtuRkhZUTlXckZnNC11cUkwaEczSFZRaExLU0VSXy1jQ2JRZlZvZ1RvdWp1UC1OcHFBUmY5VHpTVFRSZw?oc=5",
+        "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "source": "Business News Nigeria"
+      }
+    ],
+    "freight_margins": [
+      {
+        "title": "Dangote at Full Throttle as Nigeria Becomes a Net Fuel Exporter - Crude Oil Prices Today | OilPrice.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW01N0FEcTBmVDhMM0hUMko3QUZ0ZFh2WERuTGFoOUFnR0FhUWZiNzA5N1hjLXl0dkl5QVV5czU4TWJRVFlzR1QyelQ5enJSSXJmNm5neDQ3d1EyRG8wcUpWSW8yMnpNc25TRDAzRHIxTVBGSk9IQXRpMVB0dU9pVC1FZ1dKUVp3LU9JM2oxY1VPUHhyX1Z6UUxrMDI0UkRxbFRtMDRDVXZ3UdIBrwFBVV95cUxQMFRNQ2VaS1RIS1pvOGI0Nm1SX2NBLVduVGZCWkhfSTlkNWtmbVpSUHlIdTk4RGJKc2Nuci0wRzU0NFpaMFptdFBZYTd1Tk15NjBMbEhYMlp5WWF4aThWdXFkWjFTcDYxVVRfZjlleG9BaHkwZndkZTE5TmJaT0Q0aGg3ZlhabUJLVEtpdkZSZ05tNUZfRW04WEV4OTNqR0tmWGI1WFhHNW1HamdOV2sw?oc=5",
+        "published": "Sat, 25 Apr 2026 07:00:00 GMT",
+        "source": "Crude Oil Prices Today | OilPrice.com"
+      },
+      {
+        "title": "Dangote Says Global Fuel Shortage Could Outlast Iran War - Investors King",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVW5tVXZIcnpWbGI5U2ZmMTJYMlVXZ3BxM19CZ2ZUV0lodnFpUTJkUVRmM1dNOXluMjk4Ty1IYTJNeHJMdmxjeGVvVVVmWTd6bXNyMHVFSWdQZE5fcVQ5YmZQeTJaNGdfRmZzRG1JcXlVdTBmZDhFNEs3SWVDeGlkRG1XSE9GOWhTMlRjQWdYVEdNanVGWmstTkF30gGfAUFVX3lxTE5XNVllak02dVZBbWhoVVdMdFlha01Ca2dFMnFpZWt3X2ExQ2ZCRWJoMnFvdjhmdDE4Q01iQTZTVFJDWTZyZXJuUnNrbVpJX1RsaWpHLTMyczZ5NjBvcC1HaTFEeHkwU3UwcVlwSmptWW9mMi0xRGJFQWtJcTIyeGY0dFJGbFVJTy1PX19aQUktRGxrNEpialRRMjJ1b2toTQ?oc=5",
+        "published": "Wed, 09 Sep 2026 09:44:40 GMT",
+        "source": "Investors King"
+      },
+      {
+        "title": "Local refineries import 2m barrels Libyan crude amid domestic shortage - Punch Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1VQQllZQ1VNd05qVEFUUjNsSE9ZdXUxM2xrUkNNYzlmMHVFWG04cFl0M2lRdHBTTG8yWGNIUjlwNlY1c2FkSHRSUVFMQXlhS3pNQVdUOTdzWlBsSmJud3FOMlJvQktaUG5qeGxqakNOcFByaS1nR0tPSTIzZG1oNmhBSjN0am1UV0RFdEZCVmVqZm84N0E?oc=5",
+        "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "source": "Punch Newspapers"
+      },
+      {
+        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "The Whistler Newspaper"
+      },
+      {
+        "title": "Dangote Refinery positions as merchant refinery in global trade shift - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2pQTndMZ1d5dGV2XzBvbGxlbnBHamptQmZhWXZ6ZmZjbHNKNE95WU1sS18yTEhLZDVNeGU5WDBBM0Z1QnJveXdITDNDNVJOSTlkVVFrNl9XQnRwOWtSeUp0Ry03SU5Wb3lhdlZFdGctTl8ydUdManRaRWt6UjhKMEtlS1pqU2JOWDZ2Y1BaY0hmNzU5NEF0a296TFNHcEdvRGlwYjJkTVIyWWE1bEVNRUNGSVpLQQ?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "Business News Nigeria"
+      }
+    ],
+    "block_trades": [
+      {
+        "title": "Dangote Predicts Refinery Shares Could Rise From N525 To N10,000 - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVJjQjdoU3hkUUV6bzFpQ2dlUHptZXNtTF9PSmdkUktPU213ZktoQUhseVRrOFkwbU1HVTdBZWtobzFidFdRZFJzT3RmOVoyR2JfZlhFcVBSWjFaX3JqR3QtOFRwZi1zVGVTXzJzRlBvVm1wakk3MkZ5aU4tY0pJb2RpcXRuUWQ4eXJjb2JB?oc=5",
+        "published": "Sun, 13 Sep 2026 08:25:03 GMT",
+        "source": "Arise News"
+      },
+      {
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - thecable.ng",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
+        "published": "Mon, 07 Sep 2026 12:13:00 GMT",
+        "source": "thecable.ng"
+      },
+      {
+        "title": "Africa\u2019s largest refinery is going public. Here\u2019s how to buy its shares for about $4 - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1NIT2hoUHVNclRmOUtVYlZLUV9BMGRCZ0U4ZXpoX1IyT3RvYUFtMzRscjVpRjFmYmYwUDNEbFhhTkpPeUFKLTBYSFJjeHRUZ0lnYkhzSzlmVzlkUWo4MFBaZ1psSlFkTjVPdlBmVEdfemhoY09wT1lIbU1OdkF3XzlSVGllUzFZcHl5Q2F0RjJPRGpDMk9XNk50ak1VNTlPcHVfM1A2SlZFLS1WcGhEVnJFcV9EU09hTWVPSG12ZWdLRXBOLVlRVC0yRHF3T0lu?oc=5",
+        "published": "Wed, 09 Sep 2026 14:26:35 GMT",
+        "source": "Business Insider Africa"
+      },
+      {
+        "title": "Dangote Refinery IPO: Subscribe Now or Wait for NGX Listing? - youtu.be",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQekZiU1lsSlhBdkdmcTh0cE5mcmhlbVB1cUxReWlES085QkM5QTVWWnJra1dqVW1adGZlTGFtazhSYVk4bTBvOThqamNQcGR2ZGpoQS1kWXQ0MDc4?oc=5",
+        "published": "Sat, 12 Sep 2026 21:47:45 GMT",
+        "source": "youtu.be"
+      },
+      {
+        "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Capmad"
+      }
+    ],
+    "fx_liquidity": [
+      {
+        "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
+        "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "source": "PM News Nigeria"
+      },
+      {
+        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
+        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "MarketForces Africa"
+      },
+      {
+        "title": "Naira gains as FX inflows rise 26% year-on-year - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV83OEZMMkQweVVaZllfekNwMjh2WWVQRGRIcElqNEJxUmg5WVJscng4NUVHX3N0MWZycHVqc28tQVVMRnQzS3dYRlJOdzRGTUFHcEVZZEpzY2twRlA3aVJfLXRQLWZ2djlwMWZoWlpGTmt3dkJuOUhYZ29fUUM5U2NLR0RuaWwwb2UwNkJXZFhza08wRHhIYTdyRQ?oc=5",
+        "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+        "source": "Business News Nigeria"
+      },
+      {
+        "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
+        "published": "Mon, 17 Mar 2025 07:00:00 GMT",
+        "source": "Vanguard News"
+      },
+      {
+        "title": "Why naira keeps depreciating against dollar \u2013 Analysis - thestreetjournal.org",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEdqVEJKRWo3SXZpWHQyNlBwUXE0VG15WkJvalFfZHJSSVhzZ2J3S0VXUC1jRFdnNXh5UnJnWmE0NzlYNzhmRGRWNDRpMHhHZ1p3RkNwcVVaY0tqc25VUXZXS3NPdFRCajB0ZGswV1hXN1NrNTh3NktXb0ctR0FQVmlRQjNIVDdEdGc?oc=5",
+        "published": "Fri, 11 Aug 2023 07:00:00 GMT",
+        "source": "thestreetjournal.org"
+      }
+    ]
   }
 }
