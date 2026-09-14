@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Dangote Refinery IPO — Signal Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0A1210;
+    --panel: #101B18;
+    --panel-border: #223330;
+    --text: #EDF2F0;
+    --text-muted: #8CA39C;
+    --flame: #FF6A1A;
+    --teal: #2BB6A3;
+    --alert: #E8483A;
+  }
+  *{ box-sizing: border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    padding: 0 0 64px 0;
+  }
+  .wrap{
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 32px 20px 0 20px;
+  }
+  header{
+    border-bottom: 1px solid var(--panel-border);
+    padding-bottom: 20px;
+    margin-bottom: 28px;
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  h1{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: clamp(24px, 4vw, 34px);
+    margin: 0 0 6px 0;
+    letter-spacing: -0.01em;
+  }
+  header p{
+    margin:0;
+    color: var(--text-muted);
+    font-size: 14px;
+    max-width: 46ch;
+  }
+  .status{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-family:'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+  .dot{
+    width:8px; height:8px; border-radius:50%;
+    background: var(--teal);
+    flex-shrink:0;
+  }
+  .dot.stale{ background: var(--flame); }
+  .dot.unknown{ background: var(--text-muted); }
+
+  .hero{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 32px;
+  }
+  @media (max-width:600px){ .hero{ grid-template-columns: 1fr; } }
+
+  .card{
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    border-radius: 3px;
+    padding: 18px 20px;
+  }
+  .label{
+    font-size: 12px;
+    color: var(--text-muted);
+    margin: 0 0 10px 0;
+  }
+  .big-number{
+    font-family:'JetBrains Mono', monospace;
+    font-weight: 700;
+    font-size: 30px;
+    color: var(--text);
+    display:block;
+  }
+  .big-number small{
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-muted);
+    margin-left: 6px;
+  }
+  .sparkline{ margin-top: 10px; display:block; }
+
+  .signals{
+    display:flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .signal-card{
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    border-radius: 3px;
+    padding: 18px 20px;
+  }
+  .signal-head{
+    display:flex;
+    align-items:center;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+  .signal-head .mark{
+    width: 22px; height: 22px;
+    border: 1px solid var(--flame);
+    color: var(--flame);
+    border-radius: 3px;
+    display:flex; align-items:center; justify-content:center;
+    font-family:'JetBrains Mono', monospace;
+    font-size: 12px;
+    flex-shrink:0;
+  }
+  .signal-head h2{
+    font-family:'Space Grotesk', sans-serif;
+    font-size: 16px;
+    margin:0;
+    font-weight: 600;
+  }
+  .signal-what{
+    font-size: 13px;
+    color: var(--text-muted);
+    margin: 0 0 12px 0;
+  }
+  ul.feed{
+    list-style:none;
+    margin:0; padding:0;
+    display:flex; flex-direction:column; gap:10px;
+  }
+  ul.feed li{
+    border-top: 1px solid var(--panel-border);
+    padding-top: 10px;
+    font-size: 13.5px;
+  }
+  ul.feed li:first-child{ border-top:none; padding-top:0; }
+  ul.feed a{
+    color: var(--text);
+    text-decoration:none;
+  }
+  ul.feed a:hover{ color: var(--teal); }
+  .meta{
+    display:block;
+    color: var(--text-muted);
+    font-family:'JetBrains Mono', monospace;
+    font-size: 11px;
+    margin-top: 3px;
+  }
+  .empty{
+    color: var(--text-muted);
+    font-size: 13px;
+    font-style: italic;
+  }
+
+  footer{
+    max-width: 880px;
+    margin: 32px auto 0 auto;
+    padding: 20px 20px 0 20px;
+    border-top: 1px solid var(--panel-border);
+    color: var(--text-muted);
+    font-size: 12.5px;
+  }
+  footer strong{ color: var(--text); }
+  .timestamp{
+    font-family:'JetBrains Mono', monospace;
+    color: var(--text-muted);
+    font-size: 12px;
+    margin-top: 4px;
+    display:block;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Dangote Refinery — Signal Monitor</h1>
+      <p>Tracks real, publicly disclosed data behind the four things worth watching. No predicted prices, no target dates — those don't exist as verifiable data.</p>
+    </div>
+    <div class="status" id="status">
+      <span class="dot unknown" id="statusDot"></span>
+      <span id="statusText">Loading…</span>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="card">
+      <p class="label">IPO subscription window</p>
+      <span class="big-number" id="countdown">—</span>
+      <p class="label" style="margin-top:10px;">Offer price: ₦525 / share · opens Sep 14 · closes Oct 13, 2026</p>
+    </div>
+    <div class="card">
+      <p class="label">USD / NGN (official reference rate)</p>
+      <span class="big-number" id="fxRate">—</span>
+      <svg class="sparkline" id="sparkline" width="100%" height="40" viewBox="0 0 300 40" preserveAspectRatio="none"></svg>
+      <p class="label" style="margin-top:4px;">Source: open.er-api.com</p>
+    </div>
+  </section>
+
+  <section class="signals">
+    <div class="signal-card">
+      <div class="signal-head">
+        <span class="mark">1</span>
+        <h2>Capacity utilization &amp; crude allocation</h2>
+      </div>
+      <p class="signal-what">Refinery running below ~50% capacity, or NNPC unable to meet domestic crude commitments, signals a real margin risk.</p>
+      <ul class="feed" id="feed-utilization"><li class="empty">Loading…</li></ul>
+    </div>
+
+    <div class="signal-card">
+      <div class="signal-head">
+        <span class="mark">2</span>
+        <h2>Freight costs &amp; refining margins</h2>
+      </div>
+      <p class="signal-what">Forced imports of foreign crude, or a shrinking crack spread, would show up here before it shows up in the share price.</p>
+      <ul class="feed" id="feed-freight_margins"><li class="empty">Loading…</li></ul>
+    </div>
+
+    <div class="signal-card">
+      <div class="signal-head">
+        <span class="mark">3</span>
+        <h2>Block trades &amp; NGX activity</h2>
+      </div>
+      <p class="signal-what">Large early-investor sell-downs on the exchange, once the stock lists and trades.</p>
+      <ul class="feed" id="feed-block_trades"><li class="empty">Loading…</li></ul>
+    </div>
+
+    <div class="signal-card">
+      <div class="signal-head">
+        <span class="mark">4</span>
+        <h2>Naira liquidity &amp; FX pressure</h2>
+      </div>
+      <p class="signal-what">A dollar liquidity crunch can drive foreign portfolio managers to sell liquid equities regardless of company fundamentals.</p>
+      <ul class="feed" id="feed-fx_liquidity"><li class="empty">Loading…</li></ul>
+    </div>
+  </section>
+
+  <footer>
+    <p><strong>What this is:</strong> a feed of real disclosures, filings-related news, and FX data relevant to the Dangote Refinery IPO. <strong>What this isn't:</strong> a price predictor. Any specific future price or date for this stock is not derivable from public information — treat this as raw signal, not a forecast.</p>
+    <span class="timestamp" id="lastUpdated">Last updated: —</span>
+  </footer>
+</div>
+
+<script>
+const SUB_CLOSE = new Date("2026-10-13T23:59:00Z");
+
+function renderCountdown(){
+  const now = new Date();
+  const diffMs = SUB_CLOSE - now;
+  const el = document.getElementById('countdown');
+  if (diffMs <= 0) {
+    el.innerHTML = 'Closed <small>subscription window ended</small>';
+    return;
+  }
+  const days = Math.floor(diffMs / (1000*60*60*24));
+  const hours = Math.floor((diffMs % (1000*60*60*24)) / (1000*60*60));
+  el.innerHTML = `${days}d ${hours}h <small>until subscription closes</small>`;
+}
+
+function renderSparkline(history){
+  const svg = document.getElementById('sparkline');
+  svg.innerHTML = '';
+  if (!history || history.length < 2) return;
+  const rates = history.map(h => h.rate);
+  const min = Math.min(...rates), max = Math.max(...rates);
+  const range = (max - min) || 1;
+  const w = 300, h = 40, pad = 4;
+  const pts = rates.map((r, i) => {
+    const x = (i / (rates.length - 1)) * (w - pad*2) + pad;
+    const y = h - pad - ((r - min) / range) * (h - pad*2);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  const poly = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+  poly.setAttribute('points', pts);
+  poly.setAttribute('fill', 'none');
+  poly.setAttribute('stroke', '#2BB6A3');
+  poly.setAttribute('stroke-width', '2');
+  svg.appendChild(poly);
+}
+
+function renderFeed(id, items){
+  const ul = document.getElementById(id);
+  ul.innerHTML = '';
+  if (!items || items.length === 0){
+    ul.innerHTML = '<li class="empty">No recent items found in this cycle.</li>';
+    return;
+  }
+  items.forEach(item => {
+    const li = document.createElement('li');
+    const date = item.published ? new Date(item.published) : null;
+    const dateStr = date && !isNaN(date) ? date.toLocaleDateString('en-GB', {day:'numeric', month:'short', year:'numeric'}) : '';
+    li.innerHTML = `<a href="${item.link}" target="_blank" rel="noopener">${item.title}</a><span class="meta">${item.source || ''}${dateStr ? ' · ' + dateStr : ''}</span>`;
+    ul.appendChild(li);
+  });
+}
+
+async function loadData(){
+  try{
+    const res = await fetch('data/data.json?_=' + Date.now());
+    const data = await res.json();
+
+    if (data.fx && data.fx.usd_ngn){
+      document.getElementById('fxRate').innerHTML = `₦${data.fx.usd_ngn.toFixed(2)} <small>per $1</small>`;
+      renderSparkline(data.fx.history);
+    }
+
+    renderFeed('feed-utilization', data.news && data.news.utilization);
+    renderFeed('feed-freight_margins', data.news && data.news.freight_margins);
+    renderFeed('feed-block_trades', data.news && data.news.block_trades);
+    renderFeed('feed-fx_liquidity', data.news && data.news.fx_liquidity);
+
+    const dot = document.getElementById('statusDot');
+    const text = document.getElementById('statusText');
+    if (data.last_updated){
+      const updated = new Date(data.last_updated);
+      const hoursAgo = (Date.now() - updated) / 36e5;
+      dot.className = 'dot ' + (hoursAgo < 12 ? '' : 'stale');
+      text.textContent = 'Updated ' + updated.toLocaleString();
+      document.getElementById('lastUpdated').textContent = 'Last updated: ' + updated.toLocaleString();
+    } else {
+      dot.className = 'dot unknown';
+      text.textContent = 'Awaiting first data run';
+    }
+  } catch(e){
+    document.getElementById('statusText').textContent = 'Data not available yet';
+    console.error(e);
+  }
+}
+
+renderCountdown();
+setInterval(renderCountdown, 60000);
+loadData();
+</script>
+</body>
+</html>

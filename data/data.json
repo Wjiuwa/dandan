@@ -1,0 +1,21 @@
+{
+  "last_updated": null,
+  "ipo": {
+    "offer_price_ngn": 525,
+    "subscription_open": "2026-09-14",
+    "subscription_close": "2026-10-13",
+    "shares_offered": 4100000000,
+    "valuation_usd_billion": 49
+  },
+  "fx": {
+    "usd_ngn": null,
+    "source": "open.er-api.com",
+    "history": []
+  },
+  "news": {
+    "utilization": [],
+    "freight_margins": [],
+    "block_trades": [],
+    "fx_liquidity": []
+  }
+}
