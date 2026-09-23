@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T10:25:33.422813+00:00",
+  "last_updated": "2026-09-23T15:43:44.181205+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -162,16 +162,20 @@
       {
         "t": "2026-09-23T10:25:33.422813+00:00",
         "rate": 1328.371271
+      },
+      {
+        "t": "2026-09-23T15:43:44.181205+00:00",
+        "rate": 1328.371271
       }
     ]
   },
   "news": {
     "utilization": [
       {
-        "title": "Africa\u2019s largest refinery challenges Nigeria\u2019s crude supply system as middlemen add up to $4 per barrel - africa.businessinsider.com",
+        "title": "Africa\u2019s largest refinery challenges Nigeria\u2019s crude supply system as middlemen add up to $4 per barrel - Business Insider Africa",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXVHOHRHOGQxcmo5Q1dzcmxFQTJ5SFh6Mm1VMWRLbk9rNE9tRmdkUUMxTmtIV1ktNk9rNnEybUlWNDFtQVVVVmJPTkU1S3AzOVdDMFF0anNMbkV5MjhWU2psZjFUUEtpeXZJeVRyMW9uTWw2d2xuV0lmU0xvUGFSUnJwSTlDNGJ1X2ZYNlcxcmZjZmhkS2pVWmpYcFBuN2Q1elhVWTVzNnhreVczU2ZuR3NWUXBCRzNmRXFWTGY1NHNwaFJHdTJVcUVUNUhHS2N0eHlUWjd0RWs?oc=5",
         "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-        "source": "africa.businessinsider.com"
+        "source": "Business Insider Africa"
       },
       {
         "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
@@ -206,10 +210,10 @@
         "source": "Dabafinance"
       },
       {
-        "title": "Dangote at Full Throttle as Nigeria Becomes a Net Fuel Exporter - oilprice.com",
+        "title": "Dangote at Full Throttle as Nigeria Becomes a Net Fuel Exporter - Crude Oil Prices Today | OilPrice.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW01N0FEcTBmVDhMM0hUMko3QUZ0ZFh2WERuTGFoOUFnR0FhUWZiNzA5N1hjLXl0dkl5QVV5czU4TWJRVFlzR1QyelQ5enJSSXJmNm5neDQ3d1EyRG8wcUpWSW8yMnpNc25TRDAzRHIxTVBGSk9IQXRpMVB0dU9pVC1FZ1dKUVp3LU9JM2oxY1VPUHhyX1Z6UUxrMDI0UkRxbFRtMDRDVXZ3UdIBrwFBVV95cUxQMFRNQ2VaS1RIS1pvOGI0Nm1SX2NBLVduVGZCWkhfSTlkNWtmbVpSUHlIdTk4RGJKc2Nuci0wRzU0NFpaMFptdFBZYTd1Tk15NjBMbEhYMlp5WWF4aThWdXFkWjFTcDYxVVRfZjlleG9BaHkwZndkZTE5TmJaT0Q0aGg3ZlhabUJLVEtpdkZSZ05tNUZfRW04WEV4OTNqR0tmWGI1WFhHNW1HamdOV2sw?oc=5",
         "published": "Sat, 25 Apr 2026 07:00:00 GMT",
-        "source": "oilprice.com"
+        "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
         "title": "Dangote Refinery Capitalises on Strait of Hormuz Closure Profits - Discovery Alert",
@@ -231,12 +235,6 @@
       }
     ],
     "block_trades": [
-      {
-        "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - Channels Television",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5YYmR1S251Y2ZCaTZQaWVVVkdTbDlKUTE5aHJZdWpxMXNZaXk2TkZHMURVVmZ3Y01PRjdvc1EtdUZEck9RdU5ab05xZHEwZ0RuTlZuLVVGenRrd19hazNtTE1oZndIR3dkN05nLTN3UEJMSmxMd1Q2WEl4SnpVZDNsNlBnWTUyQ1RQYmp5UWE0QmlIa3NmanFWQ0t5Qmo2UTdvX1NxcXk5TkYyaldiLWdybjEydw?oc=5",
-        "published": "Mon, 14 Sep 2026 12:13:50 GMT",
-        "source": "Channels Television"
-      },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
@@ -260,6 +258,12 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
         "source": "Reuters"
+      },
+      {
+        "title": "Dangote Predicts Refinery Shares Could Rise From N525 To N10,000 - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVJjQjdoU3hkUUV6bzFpQ2dlUHptZXNtTF9PSmdkUktPU213ZktoQUhseVRrOFkwbU1HVTdBZWtobzFidFdRZFJzT3RmOVoyR2JfZlhFcVBSWjFaX3JqR3QtOFRwZi1zVGVTXzJzRlBvVm1wakk3MkZ5aU4tY0pJb2RpcXRuUWQ4eXJjb2JB?oc=5",
+        "published": "Sun, 13 Sep 2026 07:00:00 GMT",
+        "source": "Arise News"
       }
     ],
     "fx_liquidity": [
