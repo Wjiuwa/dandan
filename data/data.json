@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T10:42:10.817468+00:00",
+  "last_updated": "2026-09-24T16:04:48.820993+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -178,6 +178,10 @@
       {
         "t": "2026-09-24T10:42:10.817468+00:00",
         "rate": 1326.871066
+      },
+      {
+        "t": "2026-09-24T16:04:48.820993+00:00",
+        "rate": 1326.871066
       }
     ]
   },
@@ -208,18 +212,18 @@
         "source": "Investors King"
       },
       {
-        "title": "Nigeria exports 55.39m barrels amid Dangote crude shortage - Business News Nigeria",
+        "title": "Nigeria exports 55.39m barrels amid Dangote crude shortage - businessday.ng",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaHJjZkx6elpTbTQyLVNxeUt4VzdhT1NTS2JjRFFUZ2EzZjlLdWxkbVJRVlFNMS1HbmlDWExnWFFaNC00dTR5clRzcWd3elZiYTlxeU0wTkxoWVJxcGR3dURobW9vVHlrREc3dEZxZDNBci1QQzBuRVVXMlpLcmI0MGduWEsybnlHR0Ftd1lsa2NXTy1HQy12S01EOUxRUQ?oc=5",
         "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-        "source": "Business News Nigeria"
+        "source": "businessday.ng"
       }
     ],
     "freight_margins": [
       {
-        "title": "Dangote Refinery and the wrong question investors are asking - Business News Nigeria",
+        "title": "Dangote Refinery and the wrong question investors are asking - businessday.ng",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UZUZiZ0pQd045cl9qekd2T3hiLS1oMDVvN25fMFJ1UmZMR0JkRXJBdzZJMFEta3NYRTlJQmItTWJTZXlSeXIzag?oc=5",
-        "published": "Wed, 23 Sep 2026 16:18:45 GMT",
-        "source": "Business News Nigeria"
+        "published": "Wed, 23 Sep 2026 16:19:07 GMT",
+        "source": "businessday.ng"
       },
       {
         "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
@@ -234,16 +238,16 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
+        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
+        "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+        "source": "Dabafinance"
+      },
+      {
         "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
         "published": "Tue, 17 Mar 2026 20:23:03 GMT",
         "source": "Argus Media"
-      },
-      {
-        "title": "Nigeria Weighs Restart Of Petrol And Diesel Import Permits By Mid-February - Arise News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEZEZm5FeVhocGt5X3pkdVdDVXphMnFORnllVW9hTFVtTl9WNlJBUjYtbU9FS1hTdDdZaEhSTjdVQmlGSGVQUS1FVWQ0eHYxd0lIR0h4Q2Y5VnFnVk9MWGFJbXBFbE9JNVRJUllDd1J3R3pwWDhVRDBRZzllU0ZUZHc3VnU3RUVvR2RUN3V1eHl3M0NBYlRBQXpwSmo?oc=5",
-        "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-        "source": "Arise News"
       }
     ],
     "block_trades": [
@@ -266,10 +270,10 @@
         "source": "TheCable"
       },
       {
-        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
+        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - reuters.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "Reuters"
+        "source": "reuters.com"
       },
       {
         "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
@@ -280,16 +284,16 @@
     ],
     "fx_liquidity": [
       {
-        "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
+        "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - pmnewsnigeria.com",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
         "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-        "source": "PM News Nigeria"
+        "source": "pmnewsnigeria.com"
       },
       {
-        "title": "Naira gains as FX inflows rise 26% year-on-year - Business News Nigeria",
+        "title": "Naira gains as FX inflows rise 26% year-on-year - businessday.ng",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV83OEZMMkQweVVaZllfekNwMjh2WWVQRGRIcElqNEJxUmg5WVJscng4NUVHX3N0MWZycHVqc28tQVVMRnQzS3dYRlJOdzRGTUFHcEVZZEpzY2twRlA3aVJfLXRQLWZ2djlwMWZoWlpGTmt3dkJuOUhYZ29fUUM5U2NLR0RuaWwwb2UwNkJXZFhza08wRHhIYTdyRQ?oc=5",
         "published": "Wed, 03 Sep 2025 07:00:00 GMT",
-        "source": "Business News Nigeria"
+        "source": "businessday.ng"
       },
       {
         "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
