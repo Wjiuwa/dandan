@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T10:45:40.074593+00:00",
+  "last_updated": "2026-09-25T16:05:37.500747+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -194,6 +194,10 @@
       {
         "t": "2026-09-25T10:45:40.074593+00:00",
         "rate": 1327.932392
+      },
+      {
+        "t": "2026-09-25T16:05:37.500747+00:00",
+        "rate": 1327.932392
       }
     ]
   },
@@ -218,10 +222,10 @@
         "source": "Vanguard News"
       },
       {
-        "title": "Dangote Refinery Turns to UAE Crude as Domestic Supply Constraints Persist - investorsking.com",
+        "title": "Dangote Refinery Turns to UAE Crude as Domestic Supply Constraints Persist - Investors King",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzFEWF9mQ1lHc2xrMjQwMkdSZ1BpZ2QzNzJGakUxSnFzLUxDQVl0N09RTzNOUGNiUVJrMDZtSWhVWE5vc1BMUVpwRks3TkloeUhCbWxYeXBWQjRtS1E2NmNlNDlNSTcxWmJyNFh1SXpOM3JaY1E0dUpZN0dYRERnWUxxWUdpU0NuSTVsZWRIeWpXM3UyQnBtT3k2QTRZRVJEdkt3QmNXY19MSUJBTHJac0hB0gG3AUFVX3lxTE51TGJQN1dJY3duU1U2ZThwMEt1NnhtaTRUT3JVV1Rpb3poS0xPVXpNN2diT29kOXQtS1N0UmE0ZklQYjJEeEtPSGtuR3MxN0tya2V0RktYOTNLNHU0cWRjOUlFMEVVS3BjYjl3dW5QSEJIS1NkLXd2SzNoWk9iWFBmZ0h5UDQwaGZRcVFQdjIxb3BjejBBdi1LZjFoMUZpQWlFZFNwdGo3RnV0cnpaOGJsQTBEMTlrNA?oc=5",
         "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "source": "investorsking.com"
+        "source": "Investors King"
       },
       {
         "title": "Nigeria exports 55.39m barrels amid Dangote crude shortage - Business News Nigeria",
@@ -256,10 +260,10 @@
         "source": "Dabafinance"
       },
       {
-        "title": "Dangote imported $3.74bn crude in 2025 \u2013 CBN - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSmRiNTZkdVpFMUZCUFBFM3MyWXdWek0tUVdvSi1rMTFGV0ZKbHVzdTc2dFY5dzJHTG01OUlPeDFCWS1GUE1faUN2dGoxcm52UnM5LWtDcVJ2cHlXT3VmZFM1SEw5MWhSMlh0OWdHNA?oc=5",
-        "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
+        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - thewhistler.ng",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "thewhistler.ng"
       }
     ],
     "block_trades": [
@@ -320,10 +324,10 @@
         "source": "MarketForces Africa"
       },
       {
-        "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS15WUdWa2czTXdyc0poUmhGQjRVRVJYdU5GazJMSzBnQkF3bWxVU0lTRVhLLWdTeWFhMHZXX3dVLUlZcnlHWGdZVFRNcU5XaU1GSGVhUTAwdGw4b1J3cW9mblU2NmFxenlYT0lFaFFWNDl1Tm5KZWdJbnczQllUdlU4NzEtYWs?oc=5",
-        "published": "Fri, 11 Oct 2024 07:00:00 GMT",
-        "source": "Channels Television"
+        "title": "CBN Naira Float May Crash In A Short Time, Experts Warn - Independent Newspaper Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN0xNdWVVb0NQeFVjdnBPVFhXc3dsLVBlQjd3Q19wSUVmVDdCa04taVJNcGdkRzBRNDdaU05ubjE5SVhXTWRRYU8ySmlZZzY5Ry12VDB5SVdSRFpIaGpVQjRJVzI4RGk3TFF0OXQ0OVNDWThBRGpybERucGlDWU9KemVMYm0?oc=5",
+        "published": "Mon, 14 Aug 2023 07:00:00 GMT",
+        "source": "Independent Newspaper Nigeria"
       }
     ]
   }
