@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T10:27:53.353387+00:00",
+  "last_updated": "2026-09-26T15:18:50.079683+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -210,6 +210,10 @@
       {
         "t": "2026-09-26T10:27:53.353387+00:00",
         "rate": 1328.960147
+      },
+      {
+        "t": "2026-09-26T15:18:50.079683+00:00",
+        "rate": 1328.960147
       }
     ]
   },
@@ -222,10 +226,10 @@
         "source": "Business Insider Africa"
       },
       {
-        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - punchng.com",
+        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
         "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-        "source": "punchng.com"
+        "source": "Punch Newspapers"
       },
       {
         "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
@@ -254,10 +258,10 @@
         "source": "Business News Nigeria"
       },
       {
-        "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
+        "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - dabafinance.com",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODlxLVF2LWM5LTJsNXRXYVNVbDNVYVZUSnNTSFo1S3RvMjBDVkVnZ01LQjJ0cEQ5alZZVmhzSVNwX2ZqamFocDFUb29NV1B3dGwwMV9CWmZKYU5YS3ByaldvbWxmYXVYTWloX3JOeG15MDVKWE5hY2xqSXhqaE5UbkhaS0tycnFMWllwTFhnUHNIbUU?oc=5",
         "published": "Thu, 17 Sep 2026 05:49:13 GMT",
-        "source": "Dabafinance"
+        "source": "dabafinance.com"
       },
       {
         "title": "Dangote at Full Throttle as Nigeria Becomes a Net Fuel Exporter - Crude Oil Prices Today | OilPrice.com",
@@ -266,10 +270,10 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
+        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - dabafinance.com",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
         "published": "Sat, 22 Aug 2026 07:00:00 GMT",
-        "source": "Dabafinance"
+        "source": "dabafinance.com"
       },
       {
         "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
@@ -280,22 +284,22 @@
     ],
     "block_trades": [
       {
-        "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - channelstv.com",
+        "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - Channels Television",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5YYmR1S251Y2ZCaTZQaWVVVkdTbDlKUTE5aHJZdWpxMXNZaXk2TkZHMURVVmZ3Y01PRjdvc1EtdUZEck9RdU5ab05xZHEwZ0RuTlZuLVVGenRrd19hazNtTE1oZndIR3dkN05nLTN3UEJMSmxMd1Q2WEl4SnpVZDNsNlBnWTUyQ1RQYmp5UWE0QmlIa3NmanFWQ0t5Qmo2UTdvX1NxcXk5TkYyaldiLWdybjEydw?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "channelstv.com"
+        "source": "Channels Television"
       },
       {
-        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - thecable.ng",
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "source": "thecable.ng"
+        "source": "TheCable"
       },
       {
-        "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - punchng.com",
+        "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
         "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "source": "punchng.com"
+        "source": "Punch Newspapers"
       },
       {
         "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
