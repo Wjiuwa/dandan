@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T20:50:56.060315+00:00",
+  "last_updated": "2026-09-26T02:25:27.936498+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,7 +8,7 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1327.932392,
+    "usd_ngn": 1328.960147,
     "source": "open.er-api.com",
     "history": [
       {
@@ -202,15 +202,19 @@
       {
         "t": "2026-09-25T20:50:56.060315+00:00",
         "rate": 1327.932392
+      },
+      {
+        "t": "2026-09-26T02:25:27.936498+00:00",
+        "rate": 1328.960147
       }
     ]
   },
   "news": {
     "utilization": [
       {
-        "title": "Africa\u2019s largest refinery challenges Nigeria\u2019s crude supply system as middlemen add up to $4 per barrel - Business Insider Africa",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXVHOHRHOGQxcmo5Q1dzcmxFQTJ5SFh6Mm1VMWRLbk9rNE9tRmdkUUMxTmtIV1ktNk9rNnEybUlWNDFtQVVVVmJPTkU1S3AzOVdDMFF0anNMbkV5MjhWU2psZjFUUEtpeXZJeVRyMW9uTWw2d2xuV0lmU0xvUGFSUnJwSTlDNGJ1X2ZYNlcxcmZjZmhkS2pVWmpYcFBuN2Q1elhVWTVzNnhreVczU2ZuR3NWUXBCRzNmRXFWTGY1NHNwaFJHdTJVcUVUNUhHS2N0eHlUWjd0RWs?oc=5",
-        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "title": "Nigeria exports 55.39 million barrels as Dangote refinery faces crude supply shortfall - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORUhWSjRISWEtZWFJWm1SY3FRY1dCcFdjQU1oM3VBQzNYcnQ3Z2VQcTRYUWQ1cUJhZjExYng2WVIzVl9ZNVZHdXVqUkJNeGRSN2I5bjRDajdKQnVZSktBeGJzd0ZVczVUQ2RWc2tLUVNseV9KWFF3V1cwT0RCUU5PSnJicDAwUlpNeXFMM3hsX19SQzhrOFg4bDVjWE44S29sR2lIcFBVMEkyb1RLWTdLRTB2U01XYmRCUTFxUXVyUWJTR19OQTcwV3F1VG0yZ1QtNldTaXVGUF9SQQ?oc=5",
+        "published": "Mon, 20 Apr 2026 07:00:00 GMT",
         "source": "Business Insider Africa"
       },
       {
@@ -278,10 +282,10 @@
         "source": "channelstv.com"
       },
       {
-        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - thecable.ng",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "source": "TheCable"
+        "source": "thecable.ng"
       },
       {
         "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - punchng.com",
@@ -296,10 +300,10 @@
         "source": "Billionaires.Africa"
       },
       {
-        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - reuters.com",
+        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "reuters.com"
+        "source": "Reuters"
       }
     ],
     "fx_liquidity": [
