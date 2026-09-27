@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T20:19:14.519246+00:00",
+  "last_updated": "2026-09-27T02:21:40.763091+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,7 +8,7 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1328.960147,
+    "usd_ngn": 1328.77796,
     "source": "open.er-api.com",
     "history": [
       {
@@ -218,16 +218,20 @@
       {
         "t": "2026-09-26T20:19:14.519246+00:00",
         "rate": 1328.960147
+      },
+      {
+        "t": "2026-09-27T02:21:40.763091+00:00",
+        "rate": 1328.77796
       }
     ]
   },
   "news": {
     "utilization": [
       {
-        "title": "Nigeria exports 55.39 million barrels as Dangote refinery faces crude supply shortfall - africa.businessinsider.com",
+        "title": "Nigeria exports 55.39 million barrels as Dangote refinery faces crude supply shortfall - Business Insider Africa",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORUhWSjRISWEtZWFJWm1SY3FRY1dCcFdjQU1oM3VBQzNYcnQ3Z2VQcTRYUWQ1cUJhZjExYng2WVIzVl9ZNVZHdXVqUkJNeGRSN2I5bjRDajdKQnVZSktBeGJzd0ZVczVUQ2RWc2tLUVNseV9KWFF3V1cwT0RCUU5PSnJicDAwUlpNeXFMM3hsX19SQzhrOFg4bDVjWE44S29sR2lIcFBVMEkyb1RLWTdLRTB2U01XYmRCUTFxUXVyUWJTR19OQTcwV3F1VG0yZ1QtNldTaXVGUF9SQQ?oc=5",
         "published": "Mon, 20 Apr 2026 07:00:00 GMT",
-        "source": "africa.businessinsider.com"
+        "source": "Business Insider Africa"
       },
       {
         "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
@@ -236,10 +240,10 @@
         "source": "Punch Newspapers"
       },
       {
-        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - vanguardngr.com",
+        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUdka3dvTlZ3MDVsdnBJeGhKWG1zM3JGMkRZYzB2N1pXc0I0TEF3UWdpVHlJTE15THdjbUFxZmpFaTFjdnVWZDIyYVlqbjlJeUxoNW1DUkYyUlNMYkJSaFlTdTFHOG54UjJIUElneTdVV19jRHlHRGgyd2hwNTZJb01kSFAwQll1SnVyUW1pWjFmOS0zNlNzRWVsMkpQa1hHaU40XzZoei0zLUHSAbABQVVfeXFMTW53LTJTaEk5QVFaZi1QVU05T0lUMmptcWhPeFlFMG15M200TDJFcllhTXBEaEc0WGp5UlpNdTlSbktKd0oyUTdNQnFETkdXc19DV0JEc1ZhZEVOT2l0RkMyOE42Wm5QWmJ4b1U5R3hROHJDMGZNSlhRZ0FySVhocE5qYk5MTXlfQVJ6SVJtVWlNSy0tLUpwLUhNblZ6eGJ0RFdhR2VDand4dlZTNmsydlE?oc=5",
         "published": "Thu, 02 Apr 2026 07:00:00 GMT",
-        "source": "vanguardngr.com"
+        "source": "Vanguard News"
       },
       {
         "title": "Dangote Refinery Turns to UAE Crude as Domestic Supply Constraints Persist - Investors King",
@@ -248,10 +252,10 @@
         "source": "Investors King"
       },
       {
-        "title": "Nigeria exports 55.39m barrels amid Dangote crude shortage - Business News Nigeria",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaHJjZkx6elpTbTQyLVNxeUt4VzdhT1NTS2JjRFFUZ2EzZjlLdWxkbVJRVlFNMS1HbmlDWExnWFFaNC00dTR5clRzcWd3elZiYTlxeU0wTkxoWVJxcGR3dURobW9vVHlrREc3dEZxZDNBci1QQzBuRVVXMlpLcmI0MGduWEsybnlHR0Ftd1lsa2NXTy1HQy12S01EOUxRUQ?oc=5",
-        "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-        "source": "Business News Nigeria"
+        "title": "Dangote, Others Get Less Than 50% Crude Allocation As NUPRC Cites Pricing Disputes For Supply Gaps - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU4zdVlBZWE1c0lXT1d3Z1k2Y0JfSkFRaFdVamZQdG5HeGM1TmFzdTBlMi1scDBVampEYnE5amJwUWpTUDVyZm1kRVlJTExaQWdkdUxOallTdThoc2VnZmRVMVFZQ0dZZ3Iwai1KXy1LSm03UzhHMWFWc2ZDc1FrSzVHRm1IOTBRd0xEUVg1aWJ3dHpZXzRCdnZrNWdnR1ZpOVdmVEhBTF96aDNSYWp2bXRFTXNya3VkOEE?oc=5",
+        "published": "Wed, 06 May 2026 07:00:00 GMT",
+        "source": "Arise News"
       }
     ],
     "freight_margins": [
@@ -274,16 +278,16 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
+        "title": "Low Tanks, High Margins: Why Product Cracks Are at Records, and How Long They Are Likely to Last - Stillwater Associates",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZm5naGU4Y3RrQW9SYTJUYURJVHlQRGFWa08tMl9sZ1podi0xWTdqWEI4dk53UkZ4UUJvcUJyMHpJYVRCOUNiVXZNVUdjN1I1anlGYjdVSjZmemRDX2g4MjhUNHF2eU55Z2ZYeUd0eDU2RGw1azRwaWxka1ZPcEhWWXo5c0pyRXJINTk1U1NocFRQRWxxaEIxWUtINTI3NjlQRlhoSFpTaEhHdXl0cThFR3M1bDRMYkRIWjdfY1F5WXJheHBmUmc?oc=5",
+        "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+        "source": "Stillwater Associates"
+      },
+      {
         "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
         "published": "Sat, 22 Aug 2026 07:00:00 GMT",
         "source": "Dabafinance"
-      },
-      {
-        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
-        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-        "source": "The Whistler Newspaper"
       }
     ],
     "block_trades": [
@@ -326,22 +330,22 @@
         "source": "PM News Nigeria"
       },
       {
-        "title": "Naira gains as FX inflows rise 26% year-on-year - Business News Nigeria",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV83OEZMMkQweVVaZllfekNwMjh2WWVQRGRIcElqNEJxUmg5WVJscng4NUVHX3N0MWZycHVqc28tQVVMRnQzS3dYRlJOdzRGTUFHcEVZZEpzY2twRlA3aVJfLXRQLWZ2djlwMWZoWlpGTmt3dkJuOUhYZ29fUUM5U2NLR0RuaWwwb2UwNkJXZFhza08wRHhIYTdyRQ?oc=5",
-        "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+        "title": "Naira hits six-month high of \u20a61,514.86 on rising liquidity, external reserves - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTd2c0sxOU10Yk81bGdkQkNza2hzbUpQczh4YlNaMWFrdElsSUFnMXgxdG1yZUJaUE05ZEU0cjg0WHQzT09Bd2VBenF4c0M2YTlIbDhYSUlYYkZqeE1yd2pIYzl4bmRFc2FCckhYRU1aTm9oQzZEcXJlZVpqenBNSUM5dG94ckk1YVMwR3BWYWJsZEdtTGtSekZSYThsa0ZXaW05N0pyRjB1d05KNERneHZ4a2JlQ1NwMk8wcw?oc=5",
+        "published": "Fri, 05 Sep 2025 07:00:00 GMT",
         "source": "Business News Nigeria"
-      },
-      {
-        "title": "Global trade war: Naira value depreciates amid forex outflows - vanguardngr.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
-        "published": "Mon, 17 Mar 2025 07:00:00 GMT",
-        "source": "vanguardngr.com"
       },
       {
         "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
         "published": "Mon, 23 Mar 2026 07:00:00 GMT",
         "source": "MarketForces Africa"
+      },
+      {
+        "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
+        "published": "Mon, 17 Mar 2025 07:00:00 GMT",
+        "source": "Vanguard News"
       },
       {
         "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
