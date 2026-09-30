@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T21:37:10.816740+00:00",
+  "last_updated": "2026-09-30T02:51:18.301392+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,7 +8,7 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1329.375909,
+    "usd_ngn": 1327.241555,
     "source": "open.er-api.com",
     "history": [
       {
@@ -262,6 +262,10 @@
       {
         "t": "2026-09-29T21:37:10.816740+00:00",
         "rate": 1329.375909
+      },
+      {
+        "t": "2026-09-30T02:51:18.301392+00:00",
+        "rate": 1327.241555
       }
     ]
   },
@@ -274,10 +278,10 @@
         "source": "Punch Newspapers"
       },
       {
-        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - vanguardngr.com",
+        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUdka3dvTlZ3MDVsdnBJeGhKWG1zM3JGMkRZYzB2N1pXc0I0TEF3UWdpVHlJTE15THdjbUFxZmpFaTFjdnVWZDIyYVlqbjlJeUxoNW1DUkYyUlNMYkJSaFlTdTFHOG54UjJIUElneTdVV19jRHlHRGgyd2hwNTZJb01kSFAwQll1SnVyUW1pWjFmOS0zNlNzRWVsMkpQa1hHaU40XzZoei0zLUHSAbABQVVfeXFMTW53LTJTaEk5QVFaZi1QVU05T0lUMmptcWhPeFlFMG15M200TDJFcllhTXBEaEc0WGp5UlpNdTlSbktKd0oyUTdNQnFETkdXc19DV0JEc1ZhZEVOT2l0RkMyOE42Wm5QWmJ4b1U5R3hROHJDMGZNSlhRZ0FySVhocE5qYk5MTXlfQVJ6SVJtVWlNSy0tLUpwLUhNblZ6eGJ0RFdhR2VDand4dlZTNmsydlE?oc=5",
         "published": "Thu, 02 Apr 2026 07:00:00 GMT",
-        "source": "vanguardngr.com"
+        "source": "Vanguard News"
       },
       {
         "title": "Africa\u2019s largest refinery challenges Nigeria\u2019s crude supply system as middlemen add up to $4 per barrel - Business Insider Africa",
@@ -338,22 +342,22 @@
         "source": "Channels Television"
       },
       {
-        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
-        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "Reuters"
-      },
-      {
         "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
         "published": "Thu, 10 Sep 2026 07:00:00 GMT",
         "source": "Punch Newspapers"
       },
       {
-        "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - billionaires.africa",
+        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
+        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+        "source": "Reuters"
+      },
+      {
+        "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlp3SFBnMGt5UXlBdVJ1VHpHZGtvckhwcFlQUm9LaEhzU29pM25EN2pYZU1TLWFRNkhzb0E4NzJXQmtwZ3o2NW9od1NtTWZCRDVZc3c0X0hyNWFVRldzMGxsRFd5V2ZtVTZlLU14YVJuY3Y2SFVDcHdlRkRBSjBvalVhS3l4VzZ2cjctQUxaN3Y3NjJJbVVIRjE0Q2xrdXpzZGMwdURpZFlnbVBvNU5vdjIzbjZYdmpR?oc=5",
         "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-        "source": "billionaires.africa"
+        "source": "Billionaires.Africa"
       },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
