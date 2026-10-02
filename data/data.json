@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T18:12:05.164123+00:00",
+  "last_updated": "2026-10-02T03:00:06.602920+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,7 +8,7 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1328.645734,
+    "usd_ngn": 1327.682521,
     "source": "open.er-api.com",
     "history": [
       {
@@ -290,6 +290,10 @@
       {
         "t": "2026-10-01T18:12:05.164123+00:00",
         "rate": 1328.645734
+      },
+      {
+        "t": "2026-10-02T03:00:06.602920+00:00",
+        "rate": 1327.682521
       }
     ]
   },
@@ -346,16 +350,16 @@
         "source": "The Whistler Newspaper"
       },
       {
-        "title": "Nigeria\u2019s fuel, crude importation concern defies price war - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2JDYVo1dmZIbnAyTExFODRwRnBsamR5V3gyZEhDU1haVHU5V0JJS1l3WDZuNEFUZVdKM1dMZXZYRkpjWjhGLVNSWDJuT1FpUks2bk55aGNqVXd6TWFzZ2w2U1AyZ250ZGVoRGNwaEdJRU5RUlZ3UkdjZEt2SHdrcUlSRGtNMVFtRjB3Tg?oc=5",
-        "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "source": "The Guardian Nigeria News"
-      },
-      {
         "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
         "published": "Tue, 17 Mar 2026 20:23:03 GMT",
         "source": "Argus Media"
+      },
+      {
+        "title": "Nigeria\u2019s fuel, crude importation concern defies price war - The Guardian Nigeria News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2JDYVo1dmZIbnAyTExFODRwRnBsamR5V3gyZEhDU1haVHU5V0JJS1l3WDZuNEFUZVdKM1dMZXZYRkpjWjhGLVNSWDJuT1FpUks2bk55aGNqVXd6TWFzZ2w2U1AyZ250ZGVoRGNwaEdJRU5RUlZ3UkdjZEt2SHdrcUlSRGtNMVFtRjB3Tg?oc=5",
+        "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+        "source": "The Guardian Nigeria News"
       }
     ],
     "block_trades": [
@@ -366,10 +370,10 @@
         "source": "Channels Television"
       },
       {
-        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
+        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - reuters.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "Reuters"
+        "source": "reuters.com"
       },
       {
         "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
@@ -384,10 +388,10 @@
         "source": "Billionaires.Africa"
       },
       {
-        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - thecable.ng",
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "source": "thecable.ng"
+        "source": "TheCable"
       }
     ],
     "fx_liquidity": [
@@ -398,16 +402,16 @@
         "source": "PM News Nigeria"
       },
       {
-        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
-        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "source": "MarketForces Africa"
-      },
-      {
         "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
         "published": "Mon, 17 Mar 2025 07:00:00 GMT",
         "source": "Vanguard News"
+      },
+      {
+        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
+        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "MarketForces Africa"
       },
       {
         "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
@@ -416,10 +420,10 @@
         "source": "Channels Television"
       },
       {
-        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - arise.tv",
+        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
         "published": "Sat, 10 Feb 2024 08:00:00 GMT",
-        "source": "arise.tv"
+        "source": "Arise News"
       }
     ]
   }
