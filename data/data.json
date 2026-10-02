@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T03:00:06.602920+00:00",
+  "last_updated": "2026-10-02T11:31:56.847764+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -294,6 +294,10 @@
       {
         "t": "2026-10-02T03:00:06.602920+00:00",
         "rate": 1327.682521
+      },
+      {
+        "t": "2026-10-02T11:31:56.847764+00:00",
+        "rate": 1327.682521
       }
     ]
   },
@@ -370,10 +374,10 @@
         "source": "Channels Television"
       },
       {
-        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - reuters.com",
+        "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "reuters.com"
+        "source": "Reuters"
       },
       {
         "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
@@ -388,10 +392,10 @@
         "source": "Billionaires.Africa"
       },
       {
-        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
-        "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "source": "TheCable"
+        "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Capmad"
       }
     ],
     "fx_liquidity": [
@@ -408,10 +412,10 @@
         "source": "Vanguard News"
       },
       {
-        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
+        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - dmarketforces.com",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
         "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "source": "MarketForces Africa"
+        "source": "dmarketforces.com"
       },
       {
         "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
