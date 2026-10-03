@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T15:22:43.854610+00:00",
+  "last_updated": "2026-10-03T20:18:53.060866+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -318,6 +318,10 @@
       {
         "t": "2026-10-03T15:22:43.854610+00:00",
         "rate": 1330.635588
+      },
+      {
+        "t": "2026-10-03T20:18:53.060866+00:00",
+        "rate": 1330.635588
       }
     ]
   },
@@ -330,16 +334,16 @@
         "source": "Punch Newspapers"
       },
       {
-        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUdka3dvTlZ3MDVsdnBJeGhKWG1zM3JGMkRZYzB2N1pXc0I0TEF3UWdpVHlJTE15THdjbUFxZmpFaTFjdnVWZDIyYVlqbjlJeUxoNW1DUkYyUlNMYkJSaFlTdTFHOG54UjJIUElneTdVV19jRHlHRGgyd2hwNTZJb01kSFAwQll1SnVyUW1pWjFmOS0zNlNzRWVsMkpQa1hHaU40XzZoei0zLUHSAbABQVVfeXFMTW53LTJTaEk5QVFaZi1QVU05T0lUMmptcWhPeFlFMG15M200TDJFcllhTXBEaEc0WGp5UlpNdTlSbktKd0oyUTdNQnFETkdXc19DV0JEc1ZhZEVOT2l0RkMyOE42Wm5QWmJ4b1U5R3hROHJDMGZNSlhRZ0FySVhocE5qYk5MTXlfQVJ6SVJtVWlNSy0tLUpwLUhNblZ6eGJ0RFdhR2VDand4dlZTNmsydlE?oc=5",
-        "published": "Thu, 02 Apr 2026 07:00:00 GMT",
-        "source": "Vanguard News"
-      },
-      {
         "title": "Africa\u2019s largest refinery challenges Nigeria\u2019s crude supply system as middlemen add up to $4 per barrel - Business Insider Africa",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXVHOHRHOGQxcmo5Q1dzcmxFQTJ5SFh6Mm1VMWRLbk9rNE9tRmdkUUMxTmtIV1ktNk9rNnEybUlWNDFtQVVVVmJPTkU1S3AzOVdDMFF0anNMbkV5MjhWU2psZjFUUEtpeXZJeVRyMW9uTWw2d2xuV0lmU0xvUGFSUnJwSTlDNGJ1X2ZYNlcxcmZjZmhkS2pVWmpYcFBuN2Q1elhVWTVzNnhreVczU2ZuR3NWUXBCRzNmRXFWTGY1NHNwaFJHdTJVcUVUNUhHS2N0eHlUWjd0RWs?oc=5",
         "published": "Wed, 12 Aug 2026 07:00:00 GMT",
         "source": "Business Insider Africa"
+      },
+      {
+        "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZlX1FHY0Z0Z1pfR0hZOGtoak9nRXNaYTVjVU4zVmJiWVJxb1FiWkoweWJ2SExuWWtPYk9fVlpfOGtCRFh0VnY2WmM2X0x4bG1GT21qQndpYjB5M2stTE54eUg4c2JxdkJkWXFta0VrbkdVQjJ4cXJlQ3o4aFdzc3JHc0hUQXd2cllyV09ReG9LVmdkZW9LdDhGSGVlQm9iVlR2XzhZcmpUSXF5ajlDYUREWdIBuAFBVV95cUxNOUgwWmV5TU81emJXcVE1LWplQTE5UW9scVJ3SUtBRU1RVnZvOFpEUEhSMEJUWXZBckh1TGtNdlU1Q2ZaUURyNVJTUy1JUU5rMGxqM2pObDV6VFpFdVNrQ1ZOTkotMVV1aTlvMG95MmpMaERvWGlpQ0c3ZHRPdWZqSXBhclA0ZGNBQVA2b3JMcHp6OXllT1lVeElmQnZycU5lY0NTYkNYVnNkVGFoelU2cm9objBaa2pk?oc=5",
+        "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+        "source": "Vanguard News"
       },
       {
         "title": "Dangote Refinery Turns to UAE Crude as Domestic Supply Constraints Persist - Investors King",
@@ -348,18 +352,18 @@
         "source": "Investors King"
       },
       {
-        "title": "Dangote, Others Get Less Than 50% Crude Allocation As NUPRC Cites Pricing Disputes For Supply Gaps - Arise News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU4zdVlBZWE1c0lXT1d3Z1k2Y0JfSkFRaFdVamZQdG5HeGM1TmFzdTBlMi1scDBVampEYnE5amJwUWpTUDVyZm1kRVlJTExaQWdkdUxOallTdThoc2VnZmRVMVFZQ0dZZ3Iwai1KXy1LSm03UzhHMWFWc2ZDc1FrSzVHRm1IOTBRd0xEUVg1aWJ3dHpZXzRCdnZrNWdnR1ZpOVdmVEhBTF96aDNSYWp2bXRFTXNya3VkOEE?oc=5",
-        "published": "Wed, 06 May 2026 07:00:00 GMT",
-        "source": "Arise News"
+        "title": "Dangote raises fresh concerns over cost, availability of domestic crude - The Sun Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1YwTGRkZmFPcFA5RUszemhpVlR5akJVQk5QeG9RQWtOc0JnV3lnMHRWLWZFYndvczdEeXJHbTJDY0tXc0JsZlhDZ2xFX1pJazJ1UFNueG03TUlTMTA2OG5NVXJvS2hnNmZVSkEyQUJ4MGktNl9sZWpkUEZPUHI3YzR1SVZXWGlTR0NzMjZ1VUVWcHM?oc=5",
+        "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "source": "The Sun Nigeria"
       }
     ],
     "freight_margins": [
       {
-        "title": "Dangote at Full Throttle as Nigeria Becomes a Net Fuel Exporter - oilprice.com",
+        "title": "Dangote at Full Throttle as Nigeria Becomes a Net Fuel Exporter - Crude Oil Prices Today | OilPrice.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW01N0FEcTBmVDhMM0hUMko3QUZ0ZFh2WERuTGFoOUFnR0FhUWZiNzA5N1hjLXl0dkl5QVV5czU4TWJRVFlzR1QyelQ5enJSSXJmNm5neDQ3d1EyRG8wcUpWSW8yMnpNc25TRDAzRHIxTVBGSk9IQXRpMVB0dU9pVC1FZ1dKUVp3LU9JM2oxY1VPUHhyX1Z6UUxrMDI0UkRxbFRtMDRDVXZ3UdIBrwFBVV95cUxQMFRNQ2VaS1RIS1pvOGI0Nm1SX2NBLVduVGZCWkhfSTlkNWtmbVpSUHlIdTk4RGJKc2Nuci0wRzU0NFpaMFptdFBZYTd1Tk15NjBMbEhYMlp5WWF4aThWdXFkWjFTcDYxVVRfZjlleG9BaHkwZndkZTE5TmJaT0Q0aGg3ZlhabUJLVEtpdkZSZ05tNUZfRW04WEV4OTNqR0tmWGI1WFhHNW1HamdOV2sw?oc=5",
         "published": "Sat, 25 Apr 2026 07:00:00 GMT",
-        "source": "oilprice.com"
+        "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
         "title": "Dangote Refinery and the wrong question investors are asking - Business News Nigeria",
