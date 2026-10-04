@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T20:18:53.060866+00:00",
+  "last_updated": "2026-10-04T03:16:51.341798+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,7 +8,7 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1330.635588,
+    "usd_ngn": 1330.13992,
     "source": "open.er-api.com",
     "history": [
       {
@@ -322,6 +322,10 @@
       {
         "t": "2026-10-03T20:18:53.060866+00:00",
         "rate": 1330.635588
+      },
+      {
+        "t": "2026-10-04T03:16:51.341798+00:00",
+        "rate": 1330.13992
       }
     ]
   },
@@ -372,22 +376,22 @@
         "source": "Business News Nigeria"
       },
       {
+        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
+        "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+        "source": "Dabafinance"
+      },
+      {
         "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
         "published": "Fri, 20 Feb 2026 08:00:00 GMT",
         "source": "The Whistler Newspaper"
       },
       {
-        "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
-        "published": "Tue, 17 Mar 2026 20:23:03 GMT",
-        "source": "Argus Media"
-      },
-      {
-        "title": "Nigeria\u2019s fuel, crude importation concern defies price war - The Guardian Nigeria News",
+        "title": "Nigeria\u2019s fuel, crude importation concern defies price war - guardian.ng",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2JDYVo1dmZIbnAyTExFODRwRnBsamR5V3gyZEhDU1haVHU5V0JJS1l3WDZuNEFUZVdKM1dMZXZYRkpjWjhGLVNSWDJuT1FpUks2bk55aGNqVXd6TWFzZ2w2U1AyZ250ZGVoRGNwaEdJRU5RUlZ3UkdjZEt2SHdrcUlSRGtNMVFtRjB3Tg?oc=5",
         "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "source": "The Guardian Nigeria News"
+        "source": "guardian.ng"
       }
     ],
     "block_trades": [
