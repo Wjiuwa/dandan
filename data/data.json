@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T12:15:03.884823+00:00",
+  "last_updated": "2026-10-07T22:24:09.971260+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -370,6 +370,10 @@
       {
         "t": "2026-10-07T12:15:03.884823+00:00",
         "rate": 1328.1192
+      },
+      {
+        "t": "2026-10-07T22:24:09.971260+00:00",
+        "rate": 1328.1192
       }
     ]
   },
@@ -464,24 +468,18 @@
         "source": "TheCable"
       },
       {
-        "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlp3SFBnMGt5UXlBdVJ1VHpHZGtvckhwcFlQUm9LaEhzU29pM25EN2pYZU1TLWFRNkhzb0E4NzJXQmtwZ3o2NW9od1NtTWZCRDVZc3c0X0hyNWFVRldzMGxsRFd5V2ZtVTZlLU14YVJuY3Y2SFVDcHdlRkRBSjBvalVhS3l4VzZ2cjctQUxaN3Y3NjJJbVVIRjE0Q2xrdXpzZGMwdURpZFlnbVBvNU5vdjIzbjZYdmpR?oc=5",
-        "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-        "source": "Billionaires.Africa"
+        "title": "Dangote Predicts Refinery Shares Could Rise From N525 To N10,000 - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVJjQjdoU3hkUUV6bzFpQ2dlUHptZXNtTF9PSmdkUktPU213ZktoQUhseVRrOFkwbU1HVTdBZWtobzFidFdRZFJzT3RmOVoyR2JfZlhFcVBSWjFaX3JqR3QtOFRwZi1zVGVTXzJzRlBvVm1wakk3MkZ5aU4tY0pJb2RpcXRuUWQ4eXJjb2JB?oc=5",
+        "published": "Sun, 13 Sep 2026 07:00:00 GMT",
+        "source": "Arise News"
       }
     ],
     "fx_liquidity": [
       {
-        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
-        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
-        "source": "Arise News"
-      },
-      {
-        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
-        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "source": "MarketForces Africa"
+        "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
+        "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "source": "PM News Nigeria"
       },
       {
         "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
@@ -490,16 +488,22 @@
         "source": "Vanguard News"
       },
       {
+        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
+        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "MarketForces Africa"
+      },
+      {
+        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
+        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
+        "source": "Arise News"
+      },
+      {
         "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS15WUdWa2czTXdyc0poUmhGQjRVRVJYdU5GazJMSzBnQkF3bWxVU0lTRVhLLWdTeWFhMHZXX3dVLUlZcnlHWGdZVFRNcU5XaU1GSGVhUTAwdGw4b1J3cW9mblU2NmFxenlYT0lFaFFWNDl1Tm5KZWdJbnczQllUdlU4NzEtYWs?oc=5",
         "published": "Fri, 11 Oct 2024 07:00:00 GMT",
         "source": "Channels Television"
-      },
-      {
-        "title": "Nigeria\u2019s reserves on a 4-day free fall - TheCable",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TVU9SLTV2SVJzQUNFQWhHa1pnYVVZQUhvZ2NiZUtUd1FUN0RGSDcyZWo2NzN2VTRCU2g2b2stUDJPWEhqamg2WThHZ3BIdlpkc0F4a3JnZU00Q3VNcWxGRGg3dFQ4cE9CSVVmdVVMVUE?oc=5",
-        "published": "Mon, 15 Apr 2024 03:55:07 GMT",
-        "source": "TheCable"
       }
     ]
   }
