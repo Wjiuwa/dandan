@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T22:37:23.050195+00:00",
+  "last_updated": "2026-10-09T03:31:35.189961+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,7 +8,7 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1330.207024,
+    "usd_ngn": 1331.013867,
     "source": "open.er-api.com",
     "history": [
       {
@@ -386,6 +386,10 @@
       {
         "t": "2026-10-08T22:37:23.050195+00:00",
         "rate": 1330.207024
+      },
+      {
+        "t": "2026-10-09T03:31:35.189961+00:00",
+        "rate": 1331.013867
       }
     ]
   },
@@ -464,7 +468,7 @@
       {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
-        "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
       },
       {
