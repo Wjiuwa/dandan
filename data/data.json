@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T11:32:09.723585+00:00",
+  "last_updated": "2026-10-10T16:32:24.247372+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -406,6 +406,10 @@
       {
         "t": "2026-10-10T11:32:09.723585+00:00",
         "rate": 1331.267014
+      },
+      {
+        "t": "2026-10-10T16:32:24.247372+00:00",
+        "rate": 1331.267014
       }
     ]
   },
@@ -462,16 +466,16 @@
         "source": "Dabafinance"
       },
       {
-        "title": "Low Tanks, High Margins: Why Product Cracks Are at Records, and How Long They Are Likely to Last - Stillwater Associates",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZm5naGU4Y3RrQW9SYTJUYURJVHlQRGFWa08tMl9sZ1podi0xWTdqWEI4dk53UkZ4UUJvcUJyMHpJYVRCOUNiVXZNVUdjN1I1anlGYjdVSjZmemRDX2g4MjhUNHF2eU55Z2ZYeUd0eDU2RGw1azRwaWxka1ZPcEhWWXo5c0pyRXJINTk1U1NocFRQRWxxaEIxWUtINTI3NjlQRlhoSFpTaEhHdXl0cThFR3M1bDRMYkRIWjdfY1F5WXJheHBmUmc?oc=5",
-        "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-        "source": "Stillwater Associates"
-      },
-      {
         "title": "Dangote Refinery gets only 5 of 13 needed crude cargoes from NNPC - Businessday NG",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVNvQklEaDY5THFYdjBkRlhnN0dtQWJoY01aWWhUNUZyMnAyME5VQXg2RlRQbUQ2RS1TQ21rWHg5SnJyUW5oM3F0VjU1dVN2aU5VOUpaT3VnUDV1MF9FbnhVZjQxR1E1OVVkRGtuRkhZUTlXckZnNC11cUkwaEczSFZRaExLU0VSXy1jQ2JRZlZvZ1RvdWp1UC1OcHFBUmY5VHpTVFRSZ9IBrAFBVV95cUxOaUVJVE1PQlhIWkllZWE5MDlQcWVhNHJCOG0wTTlaTUlkVnd3RWZGM2t6RURIY05lWmJaa1p4Q1psQWpmNGhxbThuYXYzMEluUGJ5WGFhY0pEWTNNeWhNcGFDajVmZFIydGpVNzBTeHlHNHQ2a1JIbGttazRudi1kWmt6TjhFNmlEVUdNN2U2bE9seUdTQjBhemljUjcyZXloekk2TWxOMXJVaXlM?oc=5",
         "published": "Thu, 05 Mar 2026 08:00:00 GMT",
         "source": "Businessday NG"
+      },
+      {
+        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "The Whistler Newspaper"
       }
     ],
     "block_trades": [
