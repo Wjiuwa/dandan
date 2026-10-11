@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T02:44:25.749466+00:00",
+  "last_updated": "2026-10-11T11:45:38.578908+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -418,6 +418,10 @@
       {
         "t": "2026-10-11T02:44:25.749466+00:00",
         "rate": 1330.995081
+      },
+      {
+        "t": "2026-10-11T11:45:38.578908+00:00",
+        "rate": 1330.995081
       }
     ]
   },
@@ -488,6 +492,12 @@
     ],
     "block_trades": [
       {
+        "title": "Investing in Scale: What the Dangote Refinery IPO Means for Institutional Portfolios - Businessday NG",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2x3UHNBMVhfaFZOMU5kQUppMG4tT0JEZGhwbmxfdDE2dUNlSnNjZGF3M2tUakx2M2tzQnI0cWlISTBGQUZDa09XeFlVdUZ4dS14aWt6MkNybVh5OE5SWF82aEZubUl6eUNkcFc2dzIzN3Q0Skg2RzJBSnc1bHgtV205MWdiR2wtak1KOExoLXA1OElQVkVuUGlpSGkyd1NWQnRVRmJkTExnQ1pjeTlZZ0E4V2VDZ2pqWXN4NmxRTXVudllVbTZGQ0dCc29iR2fSAdQBQVVfeXFMTlA5R3hEQ3BZc0h5NkoxYTUyZ1g5VnZELTRmZUJ1V0RxM0FTdGw5X3F4eVFwRmFaZGtad3p3ejJGdnpLdXdHdmNmdDlRZ1YxNC1EUlhCeEk3LTZwampleHRmUThZNXhsSmdaT2JoS3NfV3phcFB2OXdjdkxHMFluSDZrREtVd09CMmotdGdqN00zUjdyY1hFcnFqYmFKcEZwamUyd3B3TkRoQTgwVmNSaEtjTU5SX19zS2lRQVFrZlpZUmhkdXBfdkNJWXRuOHgwOEN1TkM?oc=5",
+        "published": "Thu, 08 Oct 2026 12:57:03 GMT",
+        "source": "Businessday NG"
+      },
+      {
         "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - Channels Television",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5YYmR1S251Y2ZCaTZQaWVVVkdTbDlKUTE5aHJZdWpxMXNZaXk2TkZHMURVVmZ3Y01PRjdvc1EtdUZEck9RdU5ab05xZHEwZ0RuTlZuLVVGenRrd19hazNtTE1oZndIR3dkN05nLTN3UEJMSmxMd1Q2WEl4SnpVZDNsNlBnWTUyQ1RQYmp5UWE0QmlIa3NmanFWQ0t5Qmo2UTdvX1NxcXk5TkYyaldiLWdybjEydw?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
@@ -510,12 +520,6 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
         "source": "TheCable"
-      },
-      {
-        "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlp3SFBnMGt5UXlBdVJ1VHpHZGtvckhwcFlQUm9LaEhzU29pM25EN2pYZU1TLWFRNkhzb0E4NzJXQmtwZ3o2NW9od1NtTWZCRDVZc3c0X0hyNWFVRldzMGxsRFd5V2ZtVTZlLU14YVJuY3Y2SFVDcHdlRkRBSjBvalVhS3l4VzZ2cjctQUxaN3Y3NjJJbVVIRjE0Q2xrdXpzZGMwdURpZFlnbVBvNU5vdjIzbjZYdmpR?oc=5",
-        "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-        "source": "Billionaires.Africa"
       }
     ],
     "fx_liquidity": [
