@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T13:48:25.861421+00:00",
+  "last_updated": "2026-10-12T23:55:33.404401+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -438,6 +438,10 @@
       {
         "t": "2026-10-12T13:48:25.861421+00:00",
         "rate": 1330.171897
+      },
+      {
+        "t": "2026-10-12T23:55:33.404401+00:00",
+        "rate": 1330.171897
       }
     ]
   },
@@ -526,16 +530,16 @@
         "source": "Channels Television"
       },
       {
-        "title": "How investors will buy and trade Dangote shares through NSE - Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzcwaVcxNm1xNmR2NloyWDMzbHJCWmVhZmFzVjFPX2RJSm9NSjhsUmtTaTNmRkVZWVlheGl5bjdIRi01dTA3S2pzM25udm1WV250UmI2T3NZQlVWWUtIcVhBazNDYlN0dlFidFo2NGtkNURRZ2F3R1NKU1RGclNpMGlFX19wVS1RVUxSSE9hLVllX3Z3VS1ocGdFUWlsYVJDRWlwVVY5dUcwSU1jbWpFOXVIYmdBaGR2Z0o5RUpMR1JEazlrQkdLbGhn?oc=5",
-        "published": "Sun, 11 Oct 2026 15:45:00 GMT",
-        "source": "Business Daily"
-      },
-      {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
+      },
+      {
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
+        "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+        "source": "TheCable"
       }
     ],
     "fx_liquidity": [
