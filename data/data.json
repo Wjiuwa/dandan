@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T16:07:21.943402+00:00",
+  "last_updated": "2026-10-14T21:04:52.134550+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -466,6 +466,10 @@
       {
         "t": "2026-10-14T16:07:21.943402+00:00",
         "rate": 1331.275645
+      },
+      {
+        "t": "2026-10-14T21:04:52.134550+00:00",
+        "rate": 1331.275645
       }
     ]
   },
@@ -574,6 +578,12 @@
         "source": "PM News Nigeria"
       },
       {
+        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
+        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "MarketForces Africa"
+      },
+      {
         "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
         "published": "Mon, 17 Mar 2025 07:00:00 GMT",
@@ -586,16 +596,10 @@
         "source": "Channels Television"
       },
       {
-        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
-        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "source": "MarketForces Africa"
-      },
-      {
-        "title": "How Nigeria\u2019s Currency Lost 140.96% Of Its Value Under Emefiele- Investigation - The Whistler Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN24wLW9RaUhDMWpqeEtNa2pCQl9LaFRndGs2bXViSmdvcm5nU181cGMwYkRjc1Z0WDM2WHFDQnAxYzQwd1lBcUY4Qk0tLTZqQnAyZ1FJaGhSNHQzLXIwZDVPM09kUGxfellnQUR3RmkxNm5uanpYUDN0LTdqNlZpWEVwNVNYdFlsNlFPdkt3Y3VWeHpFQXlGTzFRbzZSeC1f?oc=5",
-        "published": "Thu, 26 Nov 2020 08:00:00 GMT",
-        "source": "The Whistler Newspaper"
+        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
+        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
+        "source": "Arise News"
       }
     ]
   }
