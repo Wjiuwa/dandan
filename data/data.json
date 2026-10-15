@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T10:31:02.082225+00:00",
+  "last_updated": "2026-10-15T15:55:12.725990+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -478,6 +478,10 @@
       {
         "t": "2026-10-15T10:31:02.082225+00:00",
         "rate": 1331.826337
+      },
+      {
+        "t": "2026-10-15T15:55:12.725990+00:00",
+        "rate": 1331.826337
       }
     ]
   },
@@ -580,16 +584,16 @@
     ],
     "fx_liquidity": [
       {
-        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
-        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "source": "MarketForces Africa"
-      },
-      {
         "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
         "published": "Tue, 24 Feb 2026 08:00:00 GMT",
         "source": "PM News Nigeria"
+      },
+      {
+        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
+        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "MarketForces Africa"
       },
       {
         "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
@@ -598,16 +602,16 @@
         "source": "Vanguard News"
       },
       {
-        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
-        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
-        "source": "Arise News"
-      },
-      {
         "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS15WUdWa2czTXdyc0poUmhGQjRVRVJYdU5GazJMSzBnQkF3bWxVU0lTRVhLLWdTeWFhMHZXX3dVLUlZcnlHWGdZVFRNcU5XaU1GSGVhUTAwdGw4b1J3cW9mblU2NmFxenlYT0lFaFFWNDl1Tm5KZWdJbnczQllUdlU4NzEtYWs?oc=5",
         "published": "Fri, 11 Oct 2024 07:00:00 GMT",
         "source": "Channels Television"
+      },
+      {
+        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
+        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
+        "source": "Arise News"
       }
     ]
   }
