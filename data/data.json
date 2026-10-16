@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T15:43:31.480835+00:00",
+  "last_updated": "2026-10-16T20:12:48.967242+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1331.189609,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-14T17:11:50.625635+00:00",
-        "rate": 1327.101379
-      },
       {
         "t": "2026-09-14T21:08:59.051629+00:00",
         "rate": 1327.101379
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-16T15:43:31.480835+00:00",
         "rate": 1331.189609
+      },
+      {
+        "t": "2026-10-16T20:12:48.967242+00:00",
+        "rate": 1331.189609
       }
     ]
   },
@@ -546,16 +546,16 @@
         "source": "The Whistler Newspaper"
       },
       {
+        "title": "Marketers import cheaper fuel as Dangote Refinery slashes petrol production - Legit.ng",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnRjSHRobnkwZkI0N0FLZ0MtanRPcU43UE9Xd3RTbmEzTnFHZDJJcGJwSjh2c0NBRTExWmlMLVdkT2RyOXdMVWdiM1NSdG9IZVllWk5scUl6czlPN1JkeUYtUDBfU21ySG5kQ0FzYzBxQktZVC1SMDFsVDBXcjJaQlJSZUk2QzhLaENYWHhWTjR3czVCZjdWVGFScVVrMU9ZbnhBbFZNZUgtTEdES2ZpRTBNUW5LcG0yYmN3T2lYMlViS3Ru?oc=5",
+        "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "source": "Legit.ng"
+      },
+      {
         "title": "Dangote Refinery positions as merchant refinery in global trade shift - Businessday NG",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2pQTndMZ1d5dGV2XzBvbGxlbnBHamptQmZhWXZ6ZmZjbHNKNE95WU1sS18yTEhLZDVNeGU5WDBBM0Z1QnJveXdITDNDNVJOSTlkVVFrNl9XQnRwOWtSeUp0Ry03SU5Wb3lhdlZFdGctTl8ydUdManRaRWt6UjhKMEtlS1pqU2JOWDZ2Y1BaY0hmNzU5NEF0a296TFNHcEdvRGlwYjJkTVIyWWE1bEVNRUNGSVpLQdIBuwFBVV95cUxOOVBINUdueHVZUmg1WFl3eFJuRjlzaGNqUGlHZ2IteFdFUFpNYkJoR3phRkNndUxsR2VTV2pmTlR1R1drS1IydTJXWkUwdW5lT28yQ2dXU05WRVBYTEs5dGZyb2VtRHhQSnNFdFYwU2ZIUXBSb2lDdzRRSzRqYk8zWDRQQUlkZ3JFUVo5ZFo1SWtRQm03ZS1pbnlwLVlrc2RVRkhNMXNkVVNmeTdpalJqbmpUZHlrWnpKZWJV?oc=5",
         "published": "Fri, 20 Feb 2026 08:00:00 GMT",
         "source": "Businessday NG"
-      },
-      {
-        "title": "Nigeria\u2019s fuel, crude importation concern defies price war - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2JDYVo1dmZIbnAyTExFODRwRnBsamR5V3gyZEhDU1haVHU5V0JJS1l3WDZuNEFUZVdKM1dMZXZYRkpjWjhGLVNSWDJuT1FpUks2bk55aGNqVXd6TWFzZ2w2U1AyZ250ZGVoRGNwaEdJRU5RUlZ3UkdjZEt2SHdrcUlSRGtNMVFtRjB3Tg?oc=5",
-        "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "source": "The Guardian Nigeria News"
       }
     ],
     "block_trades": [
@@ -610,16 +610,16 @@
         "source": "Vanguard News"
       },
       {
-        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
-        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
-        "source": "Arise News"
-      },
-      {
         "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS15WUdWa2czTXdyc0poUmhGQjRVRVJYdU5GazJMSzBnQkF3bWxVU0lTRVhLLWdTeWFhMHZXX3dVLUlZcnlHWGdZVFRNcU5XaU1GSGVhUTAwdGw4b1J3cW9mblU2NmFxenlYT0lFaFFWNDl1Tm5KZWdJbnczQllUdlU4NzEtYWs?oc=5",
         "published": "Fri, 11 Oct 2024 07:00:00 GMT",
         "source": "Channels Television"
+      },
+      {
+        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
+        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
+        "source": "Arise News"
       }
     ]
   }
