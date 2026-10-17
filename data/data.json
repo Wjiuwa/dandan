@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T01:59:36.677213+00:00",
+  "last_updated": "2026-10-17T09:51:35.886943+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1332.43205,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-15T02:18:30.453770+00:00",
-        "rate": 1326.465215
-      },
       {
         "t": "2026-09-15T10:38:18.798449+00:00",
         "rate": 1326.465215
@@ -490,22 +486,26 @@
       {
         "t": "2026-10-17T01:59:36.677213+00:00",
         "rate": 1332.43205
+      },
+      {
+        "t": "2026-10-17T09:51:35.886943+00:00",
+        "rate": 1332.43205
       }
     ]
   },
   "news": {
     "utilization": [
       {
-        "title": "Africa\u2019s top oil producer admits crude supply limits behind Dangote\u2019s imports as the continent's largest refinery expands - Business Insider Africa",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVVpV0dWY2U3Y0JtTm13ZldYYlF4bUcwQ3h2ajRLLWxNT2NHUmVicDl5RGlabWhxYnlJc21BbmRhWm9JYzdMN0tIc1ZRd3VFandHaDJVemllRGZjRUlsc0hLSWdPRDlXelByb3VmZVNXRkJWNHM4Y3NmWXJHN0V5OUxWX3NldENFUG5WeEVHdExXTG11bF9iT29xSmRuVGkxdDRVZnNINXEzSVh6WjI2dkdDVm45ekgzLWhsUWZJeThLa2JQcG5iUEltXzN0cFBLWG9QYy1R?oc=5",
-        "published": "Sat, 10 Oct 2026 17:26:41 GMT",
-        "source": "Business Insider Africa"
-      },
-      {
         "title": "Crude Contracts and Royalties Limit Oil Available for Dangote Refinery - https://www.nigeriahousingmarket.com/",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0tmdDJTNWxCZnFOMDVxN2xzNjRpNWd3dWs1SmowUThkWk9NTlk3Y0MzNGFCXzNBU19kbE0tT1VkanZMb1g2bDc4dlI0QkxWbm1hT0pLakpmSUlOVkt1Nmh5TG5wUVloaUhXQ1piVEthbjJDdHpIcklNSTlsVTViNWQzUUQ3NWc4YjlhZ2lHNXkyeERPMzU3VQ?oc=5",
         "published": "Mon, 12 Oct 2026 11:01:32 GMT",
         "source": "https://www.nigeriahousingmarket.com/"
+      },
+      {
+        "title": "Africa\u2019s top oil producer admits crude supply limits behind Dangote\u2019s imports as the continent's largest refinery expands - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVVpV0dWY2U3Y0JtTm13ZldYYlF4bUcwQ3h2ajRLLWxNT2NHUmVicDl5RGlabWhxYnlJc21BbmRhWm9JYzdMN0tIc1ZRd3VFandHaDJVemllRGZjRUlsc0hLSWdPRDlXelByb3VmZVNXRkJWNHM4Y3NmWXJHN0V5OUxWX3NldENFUG5WeEVHdExXTG11bF9iT29xSmRuVGkxdDRVZnNINXEzSVh6WjI2dkdDVm45ekgzLWhsUWZJeThLa2JQcG5iUEltXzN0cFBLWG9QYy1R?oc=5",
+        "published": "Sat, 10 Oct 2026 17:26:41 GMT",
+        "source": "Business Insider Africa"
       },
       {
         "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
@@ -534,9 +534,9 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODlxLVF2LWM5LTJsNXRXYVNVbDNVYVZUSnNTSFo1S3RvMjBDVkVnZ01LQjJ0cEQ5alZZVmhzSVNwX2ZqamFocDFUb29NV1B3dGwwMV9CWmZKYU5YS3ByaldvbWxmYXVYTWloX3JOeG15MDVKWE5hY2xqSXhqaE5UbkhaS0tycnFMWllwTFhnUHNIbUU?oc=5",
-        "published": "Thu, 17 Sep 2026 05:49:13 GMT",
+        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
+        "published": "Sat, 22 Aug 2026 07:00:00 GMT",
         "source": "Dabafinance"
       },
       {
@@ -578,16 +578,16 @@
         "source": "THISDAYLIVE"
       },
       {
-        "title": "How investors will buy and trade Dangote shares through NSE - Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzcwaVcxNm1xNmR2NloyWDMzbHJCWmVhZmFzVjFPX2RJSm9NSjhsUmtTaTNmRkVZWVlheGl5bjdIRi01dTA3S2pzM25udm1WV250UmI2T3NZQlVWWUtIcVhBazNDYlN0dlFidFo2NGtkNURRZ2F3R1NKU1RGclNpMGlFX19wVS1RVUxSSE9hLVllX3Z3VS1ocGdFUWlsYVJDRWlwVVY5dUcwSU1jbWpFOXVIYmdBaGR2Z0o5RUpMR1JEazlrQkdLbGhn?oc=5",
-        "published": "Sun, 11 Oct 2026 15:45:00 GMT",
-        "source": "Business Daily"
-      },
-      {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
+      },
+      {
+        "title": "How investors will buy and trade Dangote shares through NSE - Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzcwaVcxNm1xNmR2NloyWDMzbHJCWmVhZmFzVjFPX2RJSm9NSjhsUmtTaTNmRkVZWVlheGl5bjdIRi01dTA3S2pzM25udm1WV250UmI2T3NZQlVWWUtIcVhBazNDYlN0dlFidFo2NGtkNURRZ2F3R1NKU1RGclNpMGlFX19wVS1RVUxSSE9hLVllX3Z3VS1ocGdFUWlsYVJDRWlwVVY5dUcwSU1jbWpFOXVIYmdBaGR2Z0o5RUpMR1JEazlrQkdLbGhn?oc=5",
+        "published": "Sun, 11 Oct 2026 15:45:00 GMT",
+        "source": "Business Daily"
       }
     ],
     "fx_liquidity": [
