@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T14:35:42.782054+00:00",
+  "last_updated": "2026-10-17T19:48:20.242423+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1332.43205,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-15T15:51:52.967454+00:00",
-        "rate": 1326.465215
-      },
       {
         "t": "2026-09-15T20:36:09.616096+00:00",
         "rate": 1326.465215
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-17T14:35:42.782054+00:00",
         "rate": 1332.43205
+      },
+      {
+        "t": "2026-10-17T19:48:20.242423+00:00",
+        "rate": 1332.43205
       }
     ]
   },
@@ -534,9 +534,9 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
-        "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+        "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODlxLVF2LWM5LTJsNXRXYVNVbDNVYVZUSnNTSFo1S3RvMjBDVkVnZ01LQjJ0cEQ5alZZVmhzSVNwX2ZqamFocDFUb29NV1B3dGwwMV9CWmZKYU5YS3ByaldvbWxmYXVYTWloX3JOeG15MDVKWE5hY2xqSXhqaE5UbkhaS0tycnFMWllwTFhnUHNIbUU?oc=5",
+        "published": "Thu, 17 Sep 2026 05:49:13 GMT",
         "source": "Dabafinance"
       },
       {
@@ -560,9 +560,9 @@
     ],
     "block_trades": [
       {
-        "title": "Dangote\u2019s refinery IPO sparks new listing talks at NGX - Billionaires.Africa",
+        "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO sparks new listing talks at Nigeria\u2019s stock exchange - Billionaires.Africa",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWURfS3I3U0g0U1AwUXE1dXljVTFVVkVGc2RxUFU5cjBXQ3RBbFBzWncxV0F5VUNvZ1BBQVF4SmlERmF6ejc4YWJ5STY4eWRfb1RUQ1lMTUVNeERydDJhc0tERlE4cDEtRFN4eE80bGZfZDVmVEVjc1BVcEtsYjZ1MXlrbV9HcFRXdTNYWDYxUEliWUg5bTF6Si01NUdJVG81S3RmcGhkcFVXV0VHNF9wOURnV2pKODRBNGxCd0VOTUVkUEJNNEVTTlFfUHZnaF9Nek44bTVBZnBJd0Vx?oc=5",
-        "published": "Sat, 17 Oct 2026 10:15:34 GMT",
+        "published": "Sat, 17 Oct 2026 10:33:25 GMT",
         "source": "Billionaires.Africa"
       },
       {
@@ -572,16 +572,16 @@
         "source": "The Guardian Nigeria News"
       },
       {
-        "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - Channels Television",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5YYmR1S251Y2ZCaTZQaWVVVkdTbDlKUTE5aHJZdWpxMXNZaXk2TkZHMURVVmZ3Y01PRjdvc1EtdUZEck9RdU5ab05xZHEwZ0RuTlZuLVVGenRrd19hazNtTE1oZndIR3dkN05nLTN3UEJMSmxMd1Q2WEl4SnpVZDNsNlBnWTUyQ1RQYmp5UWE0QmlIa3NmanFWQ0t5Qmo2UTdvX1NxcXk5TkYyaldiLWdybjEydw?oc=5",
-        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "Channels Television"
-      },
-      {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
+      },
+      {
+        "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - Channels Television",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5YYmR1S251Y2ZCaTZQaWVVVkdTbDlKUTE5aHJZdWpxMXNZaXk2TkZHMURVVmZ3Y01PRjdvc1EtdUZEck9RdU5ab05xZHEwZ0RuTlZuLVVGenRrd19hazNtTE1oZndIR3dkN05nLTN3UEJMSmxMd1Q2WEl4SnpVZDNsNlBnWTUyQ1RQYmp5UWE0QmlIa3NmanFWQ0t5Qmo2UTdvX1NxcXk5TkYyaldiLWdybjEydw?oc=5",
+        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+        "source": "Channels Television"
       },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
