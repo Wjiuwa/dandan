@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T09:51:35.886943+00:00",
+  "last_updated": "2026-10-17T14:35:42.782054+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1332.43205,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-15T10:38:18.798449+00:00",
-        "rate": 1326.465215
-      },
       {
         "t": "2026-09-15T15:51:52.967454+00:00",
         "rate": 1326.465215
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-17T09:51:35.886943+00:00",
         "rate": 1332.43205
+      },
+      {
+        "t": "2026-10-17T14:35:42.782054+00:00",
+        "rate": 1332.43205
       }
     ]
   },
@@ -560,6 +560,12 @@
     ],
     "block_trades": [
       {
+        "title": "Dangote\u2019s refinery IPO sparks new listing talks at NGX - Billionaires.Africa",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWURfS3I3U0g0U1AwUXE1dXljVTFVVkVGc2RxUFU5cjBXQ3RBbFBzWncxV0F5VUNvZ1BBQVF4SmlERmF6ejc4YWJ5STY4eWRfb1RUQ1lMTUVNeERydDJhc0tERlE4cDEtRFN4eE80bGZfZDVmVEVjc1BVcEtsYjZ1MXlrbV9HcFRXdTNYWDYxUEliWUg5bTF6Si01NUdJVG81S3RmcGhkcFVXV0VHNF9wOURnV2pKODRBNGxCd0VOTUVkUEJNNEVTTlFfUHZnaF9Nek44bTVBZnBJd0Vx?oc=5",
+        "published": "Sat, 17 Oct 2026 10:15:34 GMT",
+        "source": "Billionaires.Africa"
+      },
+      {
         "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
         "published": "Mon, 12 Oct 2026 04:00:00 GMT",
@@ -572,22 +578,16 @@
         "source": "Channels Television"
       },
       {
-        "title": "Ecobank Enables Sales of Dangote Shares Across Africa for Retail, Institutional Investors - THISDAYLIVE",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWd2UHQ2ZE9EMzNvSWllN0VkVXpXcFJRaFVMU0QyNHBCUlpHQU41MjJfSEV6Q2RMYlNzS0ZoV1IycGVORGg1UU5zdHJkRGdSSkxnYmRFRlFhdjhmV3hjeldmeDVJQmMxM0NyUTZwOFdFcVktdTNvOHh2SkFnTlFHTTNMT1lqQXZ1a1RiOGIzYlRoelBnS1plNmlnbTFhNmdBeGtmRDQ2ZzNTbGZBX05VVnVoWEprU2hXS3JkTU5GZk5uQ0lsWnRZ?oc=5",
-        "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-        "source": "THISDAYLIVE"
-      },
-      {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
       },
       {
-        "title": "How investors will buy and trade Dangote shares through NSE - Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzcwaVcxNm1xNmR2NloyWDMzbHJCWmVhZmFzVjFPX2RJSm9NSjhsUmtTaTNmRkVZWVlheGl5bjdIRi01dTA3S2pzM25udm1WV250UmI2T3NZQlVWWUtIcVhBazNDYlN0dlFidFo2NGtkNURRZ2F3R1NKU1RGclNpMGlFX19wVS1RVUxSSE9hLVllX3Z3VS1ocGdFUWlsYVJDRWlwVVY5dUcwSU1jbWpFOXVIYmdBaGR2Z0o5RUpMR1JEazlrQkdLbGhn?oc=5",
-        "published": "Sun, 11 Oct 2026 15:45:00 GMT",
-        "source": "Business Daily"
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
+        "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+        "source": "TheCable"
       }
     ],
     "fx_liquidity": [
