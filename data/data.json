@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T19:48:20.242423+00:00",
+  "last_updated": "2026-10-18T01:58:55.257331+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1332.43205,
+    "usd_ngn": 1332.354946,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-15T20:36:09.616096+00:00",
-        "rate": 1326.465215
-      },
       {
         "t": "2026-09-16T02:11:48.896783+00:00",
         "rate": 1328.880494
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-17T19:48:20.242423+00:00",
         "rate": 1332.43205
+      },
+      {
+        "t": "2026-10-18T01:58:55.257331+00:00",
+        "rate": 1332.354946
       }
     ]
   },
@@ -572,16 +572,16 @@
         "source": "The Guardian Nigeria News"
       },
       {
-        "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
-        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "source": "Capmad"
-      },
-      {
         "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - Channels Television",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5YYmR1S251Y2ZCaTZQaWVVVkdTbDlKUTE5aHJZdWpxMXNZaXk2TkZHMURVVmZ3Y01PRjdvc1EtdUZEck9RdU5ab05xZHEwZ0RuTlZuLVVGenRrd19hazNtTE1oZndIR3dkN05nLTN3UEJMSmxMd1Q2WEl4SnpVZDNsNlBnWTUyQ1RQYmp5UWE0QmlIa3NmanFWQ0t5Qmo2UTdvX1NxcXk5TkYyaldiLWdybjEydw?oc=5",
         "published": "Mon, 14 Sep 2026 07:00:00 GMT",
         "source": "Channels Television"
+      },
+      {
+        "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Capmad"
       },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
