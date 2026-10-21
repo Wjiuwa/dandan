@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T10:46:53.198062+00:00",
+  "last_updated": "2026-10-21T16:15:46.166161+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1332.684114,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-19T09:53:43.119868+00:00",
-        "rate": 1329.829645
-      },
       {
         "t": "2026-09-19T14:59:03.952222+00:00",
         "rate": 1329.829645
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-21T10:46:53.198062+00:00",
         "rate": 1332.684114
+      },
+      {
+        "t": "2026-10-21T16:15:46.166161+00:00",
+        "rate": 1332.684114
       }
     ]
   },
@@ -514,15 +514,15 @@
         "source": "Punch Newspapers"
       },
       {
-        "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZlX1FHY0Z0Z1pfR0hZOGtoak9nRXNaYTVjVU4zVmJiWVJxb1FiWkoweWJ2SExuWWtPYk9fVlpfOGtCRFh0VnY2WmM2X0x4bG1GT21qQndpYjB5M2stTE54eUg4c2JxdkJkWXFta0VrbkdVQjJ4cXJlQ3o4aFdzc3JHc0hUQXd2cllyV09ReG9LVmdkZW9LdDhGSGVlQm9iVlR2XzhZcmpUSXF5ajlDYUREWdIBuAFBVV95cUxNOUgwWmV5TU81emJXcVE1LWplQTE5UW9scVJ3SUtBRU1RVnZvOFpEUEhSMEJUWXZBckh1TGtNdlU1Q2ZaUURyNVJTUy1JUU5rMGxqM2pObDV6VFpFdVNrQ1ZOTkotMVV1aTlvMG95MmpMaERvWGlpQ0c3ZHRPdWZqSXBhclA0ZGNBQVA2b3JMcHp6OXllT1lVeElmQnZycU5lY0NTYkNYVnNkVGFoelU2cm9objBaa2pk?oc=5",
-        "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUdka3dvTlZ3MDVsdnBJeGhKWG1zM3JGMkRZYzB2N1pXc0I0TEF3UWdpVHlJTE15THdjbUFxZmpFaTFjdnVWZDIyYVlqbjlJeUxoNW1DUkYyUlNMYkJSaFlTdTFHOG54UjJIUElneTdVV19jRHlHRGgyd2hwNTZJb01kSFAwQll1SnVyUW1pWjFmOS0zNlNzRWVsMkpQa1hHaU40XzZoei0zLUHSAbABQVVfeXFMTW53LTJTaEk5QVFaZi1QVU05T0lUMmptcWhPeFlFMG15M200TDJFcllhTXBEaEc0WGp5UlpNdTlSbktKd0oyUTdNQnFETkdXc19DV0JEc1ZhZEVOT2l0RkMyOE42Wm5QWmJ4b1U5R3hROHJDMGZNSlhRZ0FySVhocE5qYk5MTXlfQVJ6SVJtVWlNSy0tLUpwLUhNblZ6eGJ0RFdhR2VDand4dlZTNmsydlE?oc=5",
+        "published": "Thu, 02 Apr 2026 07:00:00 GMT",
         "source": "Vanguard News"
       },
       {
-        "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFlWWlnd0tGMnNRVzdCQWpqRmVQRGJzOC1OdlRVOGk4c3UyYk5XWTItNnRmRzVlby1CNDB0RnRTUnJzSTBWODFPRXZHeWhQSkhrS1B5QkdGV2pVQlR1M3RCZXkyNFR6TDRfYzNoWHZGX3llck5ORE9FWDdXcG5qRENHRHlnWTBpLUpVYTNjSUNCQUxabHZ4S1RjSlJpeC1Ya2VzOTlVU295anJaSDM0dkJWUGZqdGZuMWs00gHAAUFVX3lxTE9RWE9uVTNIazBibnFlVmNZU1ZPLUFCVDFWUkZiTll1Y2szZnVxTXFmLWp0WU1oOUpJU1hNbGVIdFFKaUYtOGJIRlA5bW9ZX182Q0x0dmdPbEVYaExOem5DcFktdU1lelRlMlpObFctME51dHFtZXpkWWo1WGEyaWNpU0VPQjlEX01pUVEtUVhwdEVGMmFMTzdWNFoteXRaTXhJTTBpX0ZpcjBwS01iMjJoZUxkeEdmU3lPa2pwdUk3bw?oc=5",
-        "published": "Fri, 11 Sep 2026 08:59:53 GMT",
+        "title": "Dangote Refinery Turns to UAE Crude as Domestic Supply Constraints Persist - Investors King",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzFEWF9mQ1lHc2xrMjQwMkdSZ1BpZ2QzNzJGakUxSnFzLUxDQVl0N09RTzNOUGNiUVJrMDZtSWhVWE5vc1BMUVpwRks3TkloeUhCbWxYeXBWQjRtS1E2NmNlNDlNSTcxWmJyNFh1SXpOM3JaY1E0dUpZN0dYRERnWUxxWUdpU0NuSTVsZWRIeWpXM3UyQnBtT3k2QTRZRVJEdkt3QmNXY19MSUJBTHJac0hB0gG3AUFVX3lxTE51TGJQN1dJY3duU1U2ZThwMEt1NnhtaTRUT3JVV1Rpb3poS0xPVXpNN2diT29kOXQtS1N0UmE0ZklQYjJEeEtPSGtuR3MxN0tya2V0RktYOTNLNHU0cWRjOUlFMEVVS3BjYjl3dW5QSEJIS1NkLXd2SzNoWk9iWFBmZ0h5UDQwaGZRcVFQdjIxb3BjejBBdi1LZjFoMUZpQWlFZFNwdGo3RnV0cnpaOGJsQTBEMTlrNA?oc=5",
+        "published": "Mon, 29 Jun 2026 07:00:00 GMT",
         "source": "Investors King"
       }
     ],
@@ -546,16 +546,16 @@
         "source": "The Whistler Newspaper"
       },
       {
+        "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
+        "published": "Tue, 17 Mar 2026 20:23:03 GMT",
+        "source": "Argus Media"
+      },
+      {
         "title": "Dangote Refinery positions as merchant refinery in global trade shift - Businessday NG",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2pQTndMZ1d5dGV2XzBvbGxlbnBHamptQmZhWXZ6ZmZjbHNKNE95WU1sS18yTEhLZDVNeGU5WDBBM0Z1QnJveXdITDNDNVJOSTlkVVFrNl9XQnRwOWtSeUp0Ry03SU5Wb3lhdlZFdGctTl8ydUdManRaRWt6UjhKMEtlS1pqU2JOWDZ2Y1BaY0hmNzU5NEF0a296TFNHcEdvRGlwYjJkTVIyWWE1bEVNRUNGSVpLQdIBuwFBVV95cUxOOVBINUdueHVZUmg1WFl3eFJuRjlzaGNqUGlHZ2IteFdFUFpNYkJoR3phRkNndUxsR2VTV2pmTlR1R1drS1IydTJXWkUwdW5lT28yQ2dXU05WRVBYTEs5dGZyb2VtRHhQSnNFdFYwU2ZIUXBSb2lDdzRRSzRqYk8zWDRQQUlkZ3JFUVo5ZFo1SWtRQm03ZS1pbnlwLVlrc2RVRkhNMXNkVVNmeTdpalJqbmpUZHlrWnpKZWJV?oc=5",
         "published": "Fri, 20 Feb 2026 08:00:00 GMT",
         "source": "Businessday NG"
-      },
-      {
-        "title": "Nigeria\u2019s fuel, crude importation concern defies price war - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2JDYVo1dmZIbnAyTExFODRwRnBsamR5V3gyZEhDU1haVHU5V0JJS1l3WDZuNEFUZVdKM1dMZXZYRkpjWjhGLVNSWDJuT1FpUks2bk55aGNqVXd6TWFzZ2w2U1AyZ250ZGVoRGNwaEdJRU5RUlZ3UkdjZEt2SHdrcUlSRGtNMVFtRjB3Tg?oc=5",
-        "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "source": "The Guardian Nigeria News"
       }
     ],
     "block_trades": [
@@ -564,12 +564,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWURfS3I3U0g0U1AwUXE1dXljVTFVVkVGc2RxUFU5cjBXQ3RBbFBzWncxV0F5VUNvZ1BBQVF4SmlERmF6ejc4YWJ5STY4eWRfb1RUQ1lMTUVNeERydDJhc0tERlE4cDEtRFN4eE80bGZfZDVmVEVjc1BVcEtsYjZ1MXlrbV9HcFRXdTNYWDYxUEliWUg5bTF6Si01NUdJVG81S3RmcGhkcFVXV0VHNF9wOURnV2pKODRBNGxCd0VOTUVkUEJNNEVTTlFfUHZnaF9Nek44bTVBZnBJd0Vx?oc=5",
         "published": "Sat, 17 Oct 2026 10:33:25 GMT",
         "source": "Billionaires.Africa"
-      },
-      {
-        "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
-        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-        "source": "The Guardian Nigeria News"
       },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
@@ -584,10 +578,16 @@
         "source": "Capmad"
       },
       {
-        "title": "How investors will buy and trade Dangote shares through NSE - Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzcwaVcxNm1xNmR2NloyWDMzbHJCWmVhZmFzVjFPX2RJSm9NSjhsUmtTaTNmRkVZWVlheGl5bjdIRi01dTA3S2pzM25udm1WV250UmI2T3NZQlVWWUtIcVhBazNDYlN0dlFidFo2NGtkNURRZ2F3R1NKU1RGclNpMGlFX19wVS1RVUxSSE9hLVllX3Z3VS1ocGdFUWlsYVJDRWlwVVY5dUcwSU1jbWpFOXVIYmdBaGR2Z0o5RUpMR1JEazlrQkdLbGhn?oc=5",
-        "published": "Sun, 11 Oct 2026 07:00:00 GMT",
-        "source": "Business Daily"
+        "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
+        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+        "source": "The Guardian Nigeria News"
+      },
+      {
+        "title": "Dangote Predicts Refinery Shares Could Rise From N525 To N10,000 - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVJjQjdoU3hkUUV6bzFpQ2dlUHptZXNtTF9PSmdkUktPU213ZktoQUhseVRrOFkwbU1HVTdBZWtobzFidFdRZFJzT3RmOVoyR2JfZlhFcVBSWjFaX3JqR3QtOFRwZi1zVGVTXzJzRlBvVm1wakk3MkZ5aU4tY0pJb2RpcXRuUWQ4eXJjb2JB?oc=5",
+        "published": "Sun, 13 Sep 2026 07:00:00 GMT",
+        "source": "Arise News"
       }
     ],
     "fx_liquidity": [
