@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T02:19:47.315359+00:00",
+  "last_updated": "2026-10-22T10:48:11.390117+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1334.416429,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-20T02:12:10.225274+00:00",
-        "rate": 1335.694724
-      },
       {
         "t": "2026-09-20T10:14:40.278031+00:00",
         "rate": 1335.694724
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-22T02:19:47.315359+00:00",
         "rate": 1334.416429
+      },
+      {
+        "t": "2026-10-22T10:48:11.390117+00:00",
+        "rate": 1334.416429
       }
     ]
   },
@@ -534,9 +534,9 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODlxLVF2LWM5LTJsNXRXYVNVbDNVYVZUSnNTSFo1S3RvMjBDVkVnZ01LQjJ0cEQ5alZZVmhzSVNwX2ZqamFocDFUb29NV1B3dGwwMV9CWmZKYU5YS3ByaldvbWxmYXVYTWloX3JOeG15MDVKWE5hY2xqSXhqaE5UbkhaS0tycnFMWllwTFhnUHNIbUU?oc=5",
-        "published": "Thu, 17 Sep 2026 05:49:13 GMT",
+        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
+        "published": "Sat, 22 Aug 2026 07:00:00 GMT",
         "source": "Dabafinance"
       },
       {
@@ -560,6 +560,12 @@
     ],
     "block_trades": [
       {
+        "title": "Dangote buys 25% of Kenya Pipeline in block trade of state-held shares - Oil & Gas Middle East",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLTl4dC1TZXZZTW80UkZVNGRMWVJYaEw1WFJ2U2RnbWNnbWFET2JGSUFfZ2RSVGlCbXZHc3BnR1JuNFRSdjNZSnQ5RHNSLVdxZmoyeG1VcUhwTEdJN05fS1dKc2pQX0pZMW9tOEszVkNsZEpsV1hBTw?oc=5",
+        "published": "Thu, 22 Oct 2026 04:42:14 GMT",
+        "source": "Oil & Gas Middle East"
+      },
+      {
         "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO sparks new listing talks at Nigeria\u2019s stock exchange - Billionaires.Africa",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWURfS3I3U0g0U1AwUXE1dXljVTFVVkVGc2RxUFU5cjBXQ3RBbFBzWncxV0F5VUNvZ1BBQVF4SmlERmF6ejc4YWJ5STY4eWRfb1RUQ1lMTUVNeERydDJhc0tERlE4cDEtRFN4eE80bGZfZDVmVEVjc1BVcEtsYjZ1MXlrbV9HcFRXdTNYWDYxUEliWUg5bTF6Si01NUdJVG81S3RmcGhkcFVXV0VHNF9wOURnV2pKODRBNGxCd0VOTUVkUEJNNEVTTlFfUHZnaF9Nek44bTVBZnBJd0Vx?oc=5",
         "published": "Sat, 17 Oct 2026 10:33:25 GMT",
@@ -582,12 +588,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
         "published": "Mon, 12 Oct 2026 07:00:00 GMT",
         "source": "The Guardian Nigeria News"
-      },
-      {
-        "title": "Dangote Predicts Refinery Shares Could Rise From N525 To N10,000 - Arise News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVJjQjdoU3hkUUV6bzFpQ2dlUHptZXNtTF9PSmdkUktPU213ZktoQUhseVRrOFkwbU1HVTdBZWtobzFidFdRZFJzT3RmOVoyR2JfZlhFcVBSWjFaX3JqR3QtOFRwZi1zVGVTXzJzRlBvVm1wakk3MkZ5aU4tY0pJb2RpcXRuUWQ4eXJjb2JB?oc=5",
-        "published": "Sun, 13 Sep 2026 07:00:00 GMT",
-        "source": "Arise News"
       }
     ],
     "fx_liquidity": [
