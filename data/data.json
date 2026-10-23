@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T02:25:20.802828+00:00",
+  "last_updated": "2026-10-23T10:40:14.328493+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1324.6032,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-21T02:12:13.035942+00:00",
-        "rate": 1332.834401
-      },
       {
         "t": "2026-09-21T11:21:23.658050+00:00",
         "rate": 1332.834401
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-23T02:25:20.802828+00:00",
         "rate": 1324.6032
+      },
+      {
+        "t": "2026-10-23T10:40:14.328493+00:00",
+        "rate": 1324.6032
       }
     ]
   },
@@ -616,9 +616,9 @@
         "source": "Arise News"
       },
       {
-        "title": "5 reasons Naira is depreciating - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nalEwc3lHbUtpZFkyV0tBdGRrNjZ1dDJqZ3dFbVBCWnNiTWkzam41Z1EzbS01WW00eEkzZ0J3X2RNb1hZR3htREhueFJEb2FhSEhNdVRVUzFHWlE1MkpkVy0yYVlnOG5EdjBKN3ZZWdIBdEFVX3lxTE5rUkR0UnFqcC11NHVTNWFyZFlta1JpZFJPd0s0dERoV1lRUWsyZXZBWEoxc2FZSDFfaVp4bUZpaGRrYkdWSXVNbkNTaXdNUUhlSWdvc0gzQjI1ZmhDSFF0bl96UkdIMnBEUmFNT0kzc0tTLXhs?oc=5",
-        "published": "Fri, 11 Aug 2023 07:00:00 GMT",
+        "title": "Foreign investors pull out N266bn from Nigeria in 3 yrs - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzhkT1liSjRFLXZ3YlZaMnFvdnJUTHZCX2JxcUJsS1lqaTRqRmdsSHRNU1BfS1ZaNTZSV0YwNDMzRnAxYXVRbW9vMW81ZW10REJPYWM3aFJmQ0ZtYmpJRTRKZjRCWkdEOUdjSXRDX3FjN2REWnZOdW5MR0JqRU5RaTVTYUZMd1VJTlc3c29VWFhZY0tzeGo40gGcAUFVX3lxTE1nQ2s2SmpIb1k5NDdZeFVCUElIMUsyMTBlX0VhVHV0U0VYWDlocGNLR3VxWFRwamtMZ25hclNaS1c3REFKWTc1c1ZfTGU1U1RkSjVOMTlLbGt6Mk9BODhybkJlZ1V0TnZqVGkxSXpjaGI1azVaTWJGQ3ZtWHhNNS1XNlpVbEdoem1UMVpMOWZ5aXV1Ry1xQ2FQTjQ3eA?oc=5",
+        "published": "Tue, 08 Sep 2026 07:00:00 GMT",
         "source": "Vanguard News"
       }
     ]
