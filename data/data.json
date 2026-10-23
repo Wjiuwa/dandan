@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T10:40:14.328493+00:00",
+  "last_updated": "2026-10-23T16:04:18.692550+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1324.6032,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-21T11:21:23.658050+00:00",
-        "rate": 1332.834401
-      },
       {
         "t": "2026-09-21T17:21:05.254307+00:00",
         "rate": 1332.834401
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-23T10:40:14.328493+00:00",
         "rate": 1324.6032
+      },
+      {
+        "t": "2026-10-23T16:04:18.692550+00:00",
+        "rate": 1324.6032
       }
     ]
   },
@@ -552,13 +552,19 @@
         "source": "Businessday NG"
       },
       {
-        "title": "Nigeria\u2019s fuel, crude importation concern defies price war - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2JDYVo1dmZIbnAyTExFODRwRnBsamR5V3gyZEhDU1haVHU5V0JJS1l3WDZuNEFUZVdKM1dMZXZYRkpjWjhGLVNSWDJuT1FpUks2bk55aGNqVXd6TWFzZ2w2U1AyZ250ZGVoRGNwaEdJRU5RUlZ3UkdjZEt2SHdrcUlSRGtNMVFtRjB3Tg?oc=5",
-        "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "source": "The Guardian Nigeria News"
+        "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
+        "published": "Tue, 17 Mar 2026 20:23:03 GMT",
+        "source": "Argus Media"
       }
     ],
     "block_trades": [
+      {
+        "title": "How Dangote\u2019s IPO positioning the capital market as Nigeria\u2019s economic driver - Blueprint Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlRwdFJrT3RtRE12d1lZNXVMMmV0QnVrNFdoSmszUmpWOUhUQ2JlQzhxUmZLNTljSkFjalBNX1lmZnpXUEdNanNnVDhjQUNoa1lFWXB4cUg1a3VQbEJpZl9uS2txeWN3VDBMUDA3VzhqRmJxOXBEbXotXzJLclk2aTZKOW94Y055ZHhpaGR6NnpOMW1JcDBkWFkyZkxwZw?oc=5",
+        "published": "Fri, 23 Oct 2026 14:34:19 GMT",
+        "source": "Blueprint Newspapers"
+      },
       {
         "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO could boost active investors fivefold, NGX Group CEO says - Billionaires.Africa",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTRVTGdBNVdUdnVXS2EycHhrNUlhd0JIQUNMeENMbHVXQjBPck1qRXVPT19SU2NLcGpsNkJROEFJQUVGQ1FtUkQ0VF82UmFIc1hTOW5KV1pTMDI5dm12Z2RqcmJ3ZWllRF8xQXFsU1EwTUxJRUZLczdVbnBSQXdCMmloR1U0Qlp6VVJ6Z2NxMzJsUi10aVE4bm9Ldmh3MlB3TllZQldveWhLamU3UnQtWmR6cWJEUHNYZTlDWmNHRW03ZUZ3MzdfYWJwOEtabF9kZWtFU2FFYXllLTlfT3l1V2JYaw?oc=5",
@@ -582,12 +588,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
-      },
-      {
-        "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
-        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-        "source": "The Guardian Nigeria News"
       }
     ],
     "fx_liquidity": [
