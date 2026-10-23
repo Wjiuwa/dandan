@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T20:57:18.720845+00:00",
+  "last_updated": "2026-10-23T02:25:20.802828+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1334.416429,
+    "usd_ngn": 1324.6032,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-20T19:55:37.197612+00:00",
-        "rate": 1335.694724
-      },
       {
         "t": "2026-09-21T02:12:13.035942+00:00",
         "rate": 1332.834401
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-22T20:57:18.720845+00:00",
         "rate": 1334.416429
+      },
+      {
+        "t": "2026-10-23T02:25:20.802828+00:00",
+        "rate": 1324.6032
       }
     ]
   },
@@ -560,9 +560,9 @@
     ],
     "block_trades": [
       {
-        "title": "Dangote Refinery IPO Could Boost Nigeria\u2019s Investors - Billionaires.Africa",
+        "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO could boost active investors fivefold, NGX Group CEO says - Billionaires.Africa",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTRVTGdBNVdUdnVXS2EycHhrNUlhd0JIQUNMeENMbHVXQjBPck1qRXVPT19SU2NLcGpsNkJROEFJQUVGQ1FtUkQ0VF82UmFIc1hTOW5KV1pTMDI5dm12Z2RqcmJ3ZWllRF8xQXFsU1EwTUxJRUZLczdVbnBSQXdCMmloR1U0Qlp6VVJ6Z2NxMzJsUi10aVE4bm9Ldmh3MlB3TllZQldveWhLamU3UnQtWmR6cWJEUHNYZTlDWmNHRW03ZUZ3MzdfYWJwOEtabF9kZWtFU2FFYXllLTlfT3l1V2JYaw?oc=5",
-        "published": "Thu, 22 Oct 2026 15:48:37 GMT",
+        "published": "Thu, 22 Oct 2026 15:50:23 GMT",
         "source": "Billionaires.Africa"
       },
       {
