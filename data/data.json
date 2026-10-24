@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T15:01:08.295835+00:00",
+  "last_updated": "2026-10-24T19:57:02.045983+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1329.799836,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-22T15:54:22.027730+00:00",
-        "rate": 1330.691027
-      },
       {
         "t": "2026-09-22T20:37:15.838678+00:00",
         "rate": 1330.691027
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-24T15:01:08.295835+00:00",
         "rate": 1329.799836
+      },
+      {
+        "t": "2026-10-24T19:57:02.045983+00:00",
+        "rate": 1329.799836
       }
     ]
   },
@@ -514,16 +514,16 @@
         "source": "Punch Newspapers"
       },
       {
-        "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZlX1FHY0Z0Z1pfR0hZOGtoak9nRXNaYTVjVU4zVmJiWVJxb1FiWkoweWJ2SExuWWtPYk9fVlpfOGtCRFh0VnY2WmM2X0x4bG1GT21qQndpYjB5M2stTE54eUg4c2JxdkJkWXFta0VrbkdVQjJ4cXJlQ3o4aFdzc3JHc0hUQXd2cllyV09ReG9LVmdkZW9LdDhGSGVlQm9iVlR2XzhZcmpUSXF5ajlDYUREWdIBuAFBVV95cUxNOUgwWmV5TU81emJXcVE1LWplQTE5UW9scVJ3SUtBRU1RVnZvOFpEUEhSMEJUWXZBckh1TGtNdlU1Q2ZaUURyNVJTUy1JUU5rMGxqM2pObDV6VFpFdVNrQ1ZOTkotMVV1aTlvMG95MmpMaERvWGlpQ0c3ZHRPdWZqSXBhclA0ZGNBQVA2b3JMcHp6OXllT1lVeElmQnZycU5lY0NTYkNYVnNkVGFoelU2cm9objBaa2pk?oc=5",
-        "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-        "source": "Vanguard News"
-      },
-      {
         "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFlWWlnd0tGMnNRVzdCQWpqRmVQRGJzOC1OdlRVOGk4c3UyYk5XWTItNnRmRzVlby1CNDB0RnRTUnJzSTBWODFPRXZHeWhQSkhrS1B5QkdGV2pVQlR1M3RCZXkyNFR6TDRfYzNoWHZGX3llck5ORE9FWDdXcG5qRENHRHlnWTBpLUpVYTNjSUNCQUxabHZ4S1RjSlJpeC1Ya2VzOTlVU295anJaSDM0dkJWUGZqdGZuMWs00gHAAUFVX3lxTE9RWE9uVTNIazBibnFlVmNZU1ZPLUFCVDFWUkZiTll1Y2szZnVxTXFmLWp0WU1oOUpJU1hNbGVIdFFKaUYtOGJIRlA5bW9ZX182Q0x0dmdPbEVYaExOem5DcFktdU1lelRlMlpObFctME51dHFtZXpkWWo1WGEyaWNpU0VPQjlEX01pUVEtUVhwdEVGMmFMTzdWNFoteXRaTXhJTTBpX0ZpcjBwS01iMjJoZUxkeEdmU3lPa2pwdUk3bw?oc=5",
         "published": "Fri, 11 Sep 2026 08:59:53 GMT",
         "source": "Investors King"
+      },
+      {
+        "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZlX1FHY0Z0Z1pfR0hZOGtoak9nRXNaYTVjVU4zVmJiWVJxb1FiWkoweWJ2SExuWWtPYk9fVlpfOGtCRFh0VnY2WmM2X0x4bG1GT21qQndpYjB5M2stTE54eUg4c2JxdkJkWXFta0VrbkdVQjJ4cXJlQ3o4aFdzc3JHc0hUQXd2cllyV09ReG9LVmdkZW9LdDhGSGVlQm9iVlR2XzhZcmpUSXF5ajlDYUREWdIBuAFBVV95cUxNOUgwWmV5TU81emJXcVE1LWplQTE5UW9scVJ3SUtBRU1RVnZvOFpEUEhSMEJUWXZBckh1TGtNdlU1Q2ZaUURyNVJTUy1JUU5rMGxqM2pObDV6VFpFdVNrQ1ZOTkotMVV1aTlvMG95MmpMaERvWGlpQ0c3ZHRPdWZqSXBhclA0ZGNBQVA2b3JMcHp6OXllT1lVeElmQnZycU5lY0NTYkNYVnNkVGFoelU2cm9objBaa2pk?oc=5",
+        "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+        "source": "Vanguard News"
       }
     ],
     "freight_margins": [
@@ -572,25 +572,31 @@
         "source": "Blueprint Newspapers"
       },
       {
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
+        "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+        "source": "TheCable"
+      },
+      {
         "title": "Dangote buys 25% of Kenya Pipeline in block trade of state-held shares - Oil & Gas Middle East",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLTl4dC1TZXZZTW80UkZVNGRMWVJYaEw1WFJ2U2RnbWNnbWFET2JGSUFfZ2RSVGlCbXZHc3BnR1JuNFRSdjNZSnQ5RHNSLVdxZmoyeG1VcUhwTEdJN05fS1dKc2pQX0pZMW9tOEszVkNsZEpsV1hBTw?oc=5",
         "published": "Thu, 22 Oct 2026 04:42:14 GMT",
         "source": "Oil & Gas Middle East"
       },
       {
-        "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
-        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-        "source": "The Guardian Nigeria News"
-      },
-      {
-        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
-        "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "source": "TheCable"
+        "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Capmad"
       }
     ],
     "fx_liquidity": [
+      {
+        "title": "Naira Drops Against Dollar, Euro, Pound As FX Outflow Rises - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1pqcXY3ck9LbWpNQU8xQ19MQWxJNDdHdnphVTRuRVB2NS12WXVzVGd0UXFxNFVwbHdUMlp3bVd1eTh6Wmt6NnY1enZwMEdYR1V3SDd0S3h4bkw3cUQ3aml4VTdNdDNlT1pIYnhwbENkUUZOelllUkFkcVJkaG1KY3pJck85OWg2NDZzTg?oc=5",
+        "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+        "source": "MarketForces Africa"
+      },
       {
         "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
@@ -610,16 +616,10 @@
         "source": "Arise News"
       },
       {
-        "title": "5 reasons Naira is depreciating - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nalEwc3lHbUtpZFkyV0tBdGRrNjZ1dDJqZ3dFbVBCWnNiTWkzam41Z1EzbS01WW00eEkzZ0J3X2RNb1hZR3htREhueFJEb2FhSEhNdVRVUzFHWlE1MkpkVy0yYVlnOG5EdjBKN3ZZWdIBdEFVX3lxTE5rUkR0UnFqcC11NHVTNWFyZFlta1JpZFJPd0s0dERoV1lRUWsyZXZBWEoxc2FZSDFfaVp4bUZpaGRrYkdWSXVNbkNTaXdNUUhlSWdvc0gzQjI1ZmhDSFF0bl96UkdIMnBEUmFNT0kzc0tTLXhs?oc=5",
-        "published": "Fri, 11 Aug 2023 07:00:00 GMT",
+        "title": "Foreign investors pull out N266bn from Nigeria in 3 yrs - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzhkT1liSjRFLXZ3YlZaMnFvdnJUTHZCX2JxcUJsS1lqaTRqRmdsSHRNU1BfS1ZaNTZSV0YwNDMzRnAxYXVRbW9vMW81ZW10REJPYWM3aFJmQ0ZtYmpJRTRKZjRCWkdEOUdjSXRDX3FjN2REWnZOdW5MR0JqRU5RaTVTYUZMd1VJTlc3c29VWFhZY0tzeGo4?oc=5",
+        "published": "Tue, 08 Sep 2026 07:00:00 GMT",
         "source": "Vanguard News"
-      },
-      {
-        "title": "Naira stays at N755/$ on low demand - Businessday NG",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VjdZMGFYS1prdUptb1htOTZVc2dnazF4b1pNWUVRUXVPMnJvc0ZLUFZnT0t3bmpRN01kVktrOWxtaFhZMDdPWF9jVHhwT1VKRWNIeWFUdjNfTjdWVlJ0b0ZhcGlzTnBVY0RmVTdnT0pRbWd0QXRzUEt30gF_QVVfeXFMUGUxaG8tcWFpTmtIUHpUS1ljeUdLT3dkZ3Y1dWZLM2UzUnNRNWRCWUVVYVA3MTQyOUczbEpTU2FKVTdBdmd4SWZpWTRXWUMtNnY0cjlJUjNzaFZFZDR3UTdTdVdEdVhjVTJDTHl1OFRVVlpvcHJ1dG5yd3d3OWcxNA?oc=5",
-        "published": "Fri, 03 Mar 2023 08:00:00 GMT",
-        "source": "Businessday NG"
       }
     ]
   }
