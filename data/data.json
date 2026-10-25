@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T02:10:02.636871+00:00",
+  "last_updated": "2026-10-25T10:20:24.694017+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1325.718117,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-23T02:17:17.195045+00:00",
-        "rate": 1328.371271
-      },
       {
         "t": "2026-09-23T10:25:33.422813+00:00",
         "rate": 1328.371271
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-25T02:10:02.636871+00:00",
         "rate": 1325.718117
+      },
+      {
+        "t": "2026-10-25T10:20:24.694017+00:00",
+        "rate": 1325.718117
       }
     ]
   },
@@ -546,16 +546,16 @@
         "source": "The Whistler Newspaper"
       },
       {
-        "title": "Dangote Says Global Fuel Shortage Could Outlast Iran War - Investors King",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVW5tVXZIcnpWbGI5U2ZmMTJYMlVXZ3BxM19CZ2ZUV0lodnFpUTJkUVRmM1dNOXluMjk4Ty1IYTJNeHJMdmxjeGVvVVVmWTd6bXNyMHVFSWdQZE5fcVQ5YmZQeTJaNGdfRmZzRG1JcXlVdTBmZDhFNEs3SWVDeGlkRG1XSE9GOWhTMlRjQWdYVEdNanVGWmstTkF30gGfAUFVX3lxTE5XNVllak02dVZBbWhoVVdMdFlha01Ca2dFMnFpZWt3X2ExQ2ZCRWJoMnFvdjhmdDE4Q01iQTZTVFJDWTZyZXJuUnNrbVpJX1RsaWpHLTMyczZ5NjBvcC1HaTFEeHkwU3UwcVlwSmptWW9mMi0xRGJFQWtJcTIyeGY0dFJGbFVJTy1PX19aQUktRGxrNEpialRRMjJ1b2toTQ?oc=5",
-        "published": "Wed, 09 Sep 2026 09:44:40 GMT",
-        "source": "Investors King"
-      },
-      {
         "title": "Dangote Refinery positions as merchant refinery in global trade shift - Businessday NG",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2pQTndMZ1d5dGV2XzBvbGxlbnBHamptQmZhWXZ6ZmZjbHNKNE95WU1sS18yTEhLZDVNeGU5WDBBM0Z1QnJveXdITDNDNVJOSTlkVVFrNl9XQnRwOWtSeUp0Ry03SU5Wb3lhdlZFdGctTl8ydUdManRaRWt6UjhKMEtlS1pqU2JOWDZ2Y1BaY0hmNzU5NEF0a296TFNHcEdvRGlwYjJkTVIyWWE1bEVNRUNGSVpLQdIBuwFBVV95cUxOOVBINUdueHVZUmg1WFl3eFJuRjlzaGNqUGlHZ2IteFdFUFpNYkJoR3phRkNndUxsR2VTV2pmTlR1R1drS1IydTJXWkUwdW5lT28yQ2dXU05WRVBYTEs5dGZyb2VtRHhQSnNFdFYwU2ZIUXBSb2lDdzRRSzRqYk8zWDRQQUlkZ3JFUVo5ZFo1SWtRQm03ZS1pbnlwLVlrc2RVRkhNMXNkVVNmeTdpalJqbmpUZHlrWnpKZWJV?oc=5",
         "published": "Fri, 20 Feb 2026 08:00:00 GMT",
         "source": "Businessday NG"
+      },
+      {
+        "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
+        "published": "Tue, 17 Mar 2026 20:23:03 GMT",
+        "source": "Argus Media"
       }
     ],
     "block_trades": [
