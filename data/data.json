@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T20:06:53.289446+00:00",
+  "last_updated": "2026-10-26T02:10:54.951560+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1325.718117,
+    "usd_ngn": 1334.299722,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-23T20:48:20.471965+00:00",
-        "rate": 1328.371271
-      },
       {
         "t": "2026-09-24T02:04:01.301313+00:00",
         "rate": 1326.871066
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-25T20:06:53.289446+00:00",
         "rate": 1325.718117
+      },
+      {
+        "t": "2026-10-26T02:10:54.951560+00:00",
+        "rate": 1334.299722
       }
     ]
   },
@@ -598,6 +598,12 @@
         "source": "MarketForces Africa"
       },
       {
+        "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
+        "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "source": "PM News Nigeria"
+      },
+      {
         "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
         "published": "Mon, 23 Mar 2026 07:00:00 GMT",
@@ -614,12 +620,6 @@
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nalEwc3lHbUtpZFkyV0tBdGRrNjZ1dDJqZ3dFbVBCWnNiTWkzam41Z1EzbS01WW00eEkzZ0J3X2RNb1hZR3htREhueFJEb2FhSEhNdVRVUzFHWlE1MkpkVy0yYVlnOG5EdjBKN3ZZWdIBdEFVX3lxTE5rUkR0UnFqcC11NHVTNWFyZFlta1JpZFJPd0s0dERoV1lRUWsyZXZBWEoxc2FZSDFfaVp4bUZpaGRrYkdWSXVNbkNTaXdNUUhlSWdvc0gzQjI1ZmhDSFF0bl96UkdIMnBEUmFNT0kzc0tTLXhs?oc=5",
         "published": "Fri, 11 Aug 2023 07:00:00 GMT",
         "source": "Vanguard News"
-      },
-      {
-        "title": "Nigeria\u2019s reserves on a 4-day free fall - TheCable",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TVU9SLTV2SVJzQUNFQWhHa1pnYVVZQUhvZ2NiZUtUd1FUN0RGSDcyZWo2NzN2VTRCU2g2b2stUDJPWEhqamg2WThHZ3BIdlpkc0F4a3JnZU00Q3VNcWxGRGg3dFQ4cE9CSVVmdVVMVUE?oc=5",
-        "published": "Mon, 15 Apr 2024 03:55:07 GMT",
-        "source": "TheCable"
       }
     ]
   }
