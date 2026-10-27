@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T22:02:38.648956+00:00",
+  "last_updated": "2026-10-27T02:47:26.149194+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1334.299722,
+    "usd_ngn": 1359.911907,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-24T20:54:12.632475+00:00",
-        "rate": 1326.871066
-      },
       {
         "t": "2026-09-25T02:21:05.551147+00:00",
         "rate": 1327.932392
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-26T22:02:38.648956+00:00",
         "rate": 1334.299722
+      },
+      {
+        "t": "2026-10-27T02:47:26.149194+00:00",
+        "rate": 1359.911907
       }
     ]
   },
@@ -572,16 +572,16 @@
         "source": "Billionaires.Africa"
       },
       {
-        "title": "How Dangote\u2019s IPO positioning the capital market as Nigeria\u2019s economic driver - Blueprint Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlRwdFJrT3RtRE12d1lZNXVMMmV0QnVrNFdoSmszUmpWOUhUQ2JlQzhxUmZLNTljSkFjalBNX1lmZnpXUEdNanNnVDhjQUNoa1lFWXB4cUg1a3VQbEJpZl9uS2txeWN3VDBMUDA3VzhqRmJxOXBEbXotXzJLclk2aTZKOW94Y055ZHhpaGR6NnpOMW1JcDBkWFkyZkxwZw?oc=5",
-        "published": "Fri, 23 Oct 2026 14:34:19 GMT",
-        "source": "Blueprint Newspapers"
-      },
-      {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
         "source": "TheCable"
+      },
+      {
+        "title": "How Dangote\u2019s IPO positioning the capital market as Nigeria\u2019s economic driver - Blueprint Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlRwdFJrT3RtRE12d1lZNXVMMmV0QnVrNFdoSmszUmpWOUhUQ2JlQzhxUmZLNTljSkFjalBNX1lmZnpXUEdNanNnVDhjQUNoa1lFWXB4cUg1a3VQbEJpZl9uS2txeWN3VDBMUDA3VzhqRmJxOXBEbXotXzJLclk2aTZKOW94Y055ZHhpaGR6NnpOMW1JcDBkWFkyZkxwZw?oc=5",
+        "published": "Fri, 23 Oct 2026 14:34:19 GMT",
+        "source": "Blueprint Newspapers"
       },
       {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
@@ -591,12 +591,6 @@
       }
     ],
     "fx_liquidity": [
-      {
-        "title": "Naira Drops Against Dollar, Euro, Pound As FX Outflow Rises - MarketForces Africa",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1pqcXY3ck9LbWpNQU8xQ19MQWxJNDdHdnphVTRuRVB2NS12WXVzVGd0UXFxNFVwbHdUMlp3bVd1eTh6Wmt6NnY1enZwMEdYR1V3SDd0S3h4bkw3cUQ3aml4VTdNdDNlT1pIYnhwbENkUUZOelllUkFkcVJkaG1KY3pJck85OWg2NDZzTg?oc=5",
-        "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-        "source": "MarketForces Africa"
-      },
       {
         "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
@@ -616,10 +610,16 @@
         "source": "Arise News"
       },
       {
-        "title": "Foreign investors pull out N266bn from Nigeria in 3 yrs - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzhkT1liSjRFLXZ3YlZaMnFvdnJUTHZCX2JxcUJsS1lqaTRqRmdsSHRNU1BfS1ZaNTZSV0YwNDMzRnAxYXVRbW9vMW81ZW10REJPYWM3aFJmQ0ZtYmpJRTRKZjRCWkdEOUdjSXRDX3FjN2REWnZOdW5MR0JqRU5RaTVTYUZMd1VJTlc3c29VWFhZY0tzeGo40gGcAUFVX3lxTE1nQ2s2SmpIb1k5NDdZeFVCUElIMUsyMTBlX0VhVHV0U0VYWDlocGNLR3VxWFRwamtMZ25hclNaS1c3REFKWTc1c1ZfTGU1U1RkSjVOMTlLbGt6Mk9BODhybkJlZ1V0TnZqVGkxSXpjaGI1azVaTWJGQ3ZtWHhNNS1XNlpVbEdoem1UMVpMOWZ5aXV1Ry1xQ2FQTjQ3eA?oc=5",
-        "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+        "title": "5 reasons Naira is depreciating - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nalEwc3lHbUtpZFkyV0tBdGRrNjZ1dDJqZ3dFbVBCWnNiTWkzam41Z1EzbS01WW00eEkzZ0J3X2RNb1hZR3htREhueFJEb2FhSEhNdVRVUzFHWlE1MkpkVy0yYVlnOG5EdjBKN3ZZWdIBdEFVX3lxTE5rUkR0UnFqcC11NHVTNWFyZFlta1JpZFJPd0s0dERoV1lRUWsyZXZBWEoxc2FZSDFfaVp4bUZpaGRrYkdWSXVNbkNTaXdNUUhlSWdvc0gzQjI1ZmhDSFF0bl96UkdIMnBEUmFNT0kzc0tTLXhs?oc=5",
+        "published": "Fri, 11 Aug 2023 07:00:00 GMT",
         "source": "Vanguard News"
+      },
+      {
+        "title": "Nigeria\u2019s reserves on a 4-day free fall - TheCable",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TVU9SLTV2SVJzQUNFQWhHa1pnYVVZQUhvZ2NiZUtUd1FUN0RGSDcyZWo2NzN2VTRCU2g2b2stUDJPWEhqamg2WThHZ3BIdlpkc0F4a3JnZU00Q3VNcWxGRGg3dFQ4cE9CSVVmdVVMVUE?oc=5",
+        "published": "Mon, 15 Apr 2024 03:55:07 GMT",
+        "source": "TheCable"
       }
     ]
   }
