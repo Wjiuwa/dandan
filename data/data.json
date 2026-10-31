@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T16:28:11.218788+00:00",
+  "last_updated": "2026-10-31T20:46:22.389004+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1345.473177,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-29T21:37:10.816740+00:00",
-        "rate": 1329.375909
-      },
       {
         "t": "2026-09-30T02:51:18.301392+00:00",
         "rate": 1327.241555
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-31T16:28:11.218788+00:00",
         "rate": 1345.473177
+      },
+      {
+        "t": "2026-10-31T20:46:22.389004+00:00",
+        "rate": 1345.473177
       }
     ]
   },
@@ -534,22 +534,22 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "Africa\u2019s largest oil producer records first Libyan crude import as local supply frustrates Dangote refinery - Business Insider Africa",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYlEyTjhObWtmTW9UU0ZvSU9xU29GMml1NlJZNnVYSmlMLUtyTVBiU0VieWl5QWtISDJxUVZ1ZGd6TjRlS1duWldZQTBmanphbWJ4WmJ1eTBSTHVDLWRaeTduNHhUeEtsbFhwVW5ZNlM4M203aWtTaWI2Q1h4R2ZaTHlLUF8tYTM5c2x1cFdaMXB2VmdYZWh6b0QzX0hCZFV1WFkyOXZybmFTT1V1RFc0LUVrXzV4cWkwZ29XX2dYQnBoWUlzVERWV2pZNW92c2JF?oc=5",
-        "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "source": "Business Insider Africa"
-      },
-      {
-        "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmVqQlhBWkVMTEhKeGRrRWM5UkhDU1JWRndXNlc0RXBheWp5VENNUEtHRGZxczJxU2E3ZmRrelRKNWpGaklKQ0xjMl9YNFZ2OWpESjZRcmw1bTkyczlrVnRWX2tzUFkwektnamdsTHcwMTZ1TE1FbW9lV29jUzNnb3BmOVhLUmxQdm9VdA?oc=5",
-        "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-        "source": "Dabafinance"
+        "title": "Geopolitical developments contribute to elevated diesel prices - U.S. Energy Information Administration (EIA) (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU0MzMTR4YkZyNWxnV0d1MEJjN3lsWktNM191R0VwVnY1V040UU1KaEhCT3k2eXl5RWlZZ3JUZjJTV05WSUNWYS0yR2NVbkJuRVFPUFBRdFg3a3VQNFl0Z0hSVQ?oc=5",
+        "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+        "source": "U.S. Energy Information Administration (EIA) (.gov)"
       },
       {
         "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
         "published": "Fri, 20 Feb 2026 08:00:00 GMT",
         "source": "The Whistler Newspaper"
+      },
+      {
+        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
+        "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+        "source": "Dabafinance"
       },
       {
         "title": "Dangote Refinery positions as merchant refinery in global trade shift - Businessday NG",
@@ -572,22 +572,22 @@
         "source": "TheCable"
       },
       {
+        "title": "Dangote buys 25% of Kenya Pipeline in block trade of state-held shares - Oil & Gas Middle East",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLTl4dC1TZXZZTW80UkZVNGRMWVJYaEw1WFJ2U2RnbWNnbWFET2JGSUFfZ2RSVGlCbXZHc3BnR1JuNFRSdjNZSnQ5RHNSLVdxZmoyeG1VcUhwTEdJN05fS1dKc2pQX0pZMW9tOEszVkNsZEpsV1hBTw?oc=5",
+        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+        "source": "Oil & Gas Middle East"
+      },
+      {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
       },
       {
-        "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
-        "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "Dangote buys 25% of Kenya Pipeline in block trade of state-held shares - Oil & Gas Middle East",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLTl4dC1TZXZZTW80UkZVNGRMWVJYaEw1WFJ2U2RnbWNnbWFET2JGSUFfZ2RSVGlCbXZHc3BnR1JuNFRSdjNZSnQ5RHNSLVdxZmoyeG1VcUhwTEdJN05fS1dKc2pQX0pZMW9tOEszVkNsZEpsV1hBTw?oc=5",
-        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-        "source": "Oil & Gas Middle East"
+        "title": "\u200eInvesting in Scale: What Dangote Refinery IPO means for institutional portfolios - The Guardian Nigeria News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjRMTXFrWno0bF9vMktYb2F6Slc4ZUpYajRiV0s4X2IxUXhxUENldWNFbXczSm5ZSm1yWi1YaUtwTV9FOFdWYlpFM2lwSFplM2tpcXcySjVVYXNEdGdzRGJHWi1leXdrYUFvNUtuNUtpa2hFTmdZWXU4SFdpdklUd19URkJLTDNlaUdMVDNqVncyejNDckxGZmRtQVRtUnlBS20zVHpjbnI?oc=5",
+        "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "source": "The Guardian Nigeria News"
       }
     ],
     "fx_liquidity": [
