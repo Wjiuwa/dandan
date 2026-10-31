@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T21:45:51.527723+00:00",
+  "last_updated": "2026-10-31T03:07:27.302883+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1346.223823,
+    "usd_ngn": 1345.473177,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-09-29T03:09:14.353327+00:00",
-        "rate": 1329.375909
-      },
       {
         "t": "2026-09-29T11:45:56.262746+00:00",
         "rate": 1329.375909
@@ -490,6 +486,10 @@
       {
         "t": "2026-10-30T21:45:51.527723+00:00",
         "rate": 1346.223823
+      },
+      {
+        "t": "2026-10-31T03:07:27.302883+00:00",
+        "rate": 1345.473177
       }
     ]
   },
@@ -500,6 +500,12 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVVpV0dWY2U3Y0JtTm13ZldYYlF4bUcwQ3h2ajRLLWxNT2NHUmVicDl5RGlabWhxYnlJc21BbmRhWm9JYzdMN0tIc1ZRd3VFandHaDJVemllRGZjRUlsc0hLSWdPRDlXelByb3VmZVNXRkJWNHM4Y3NmWXJHN0V5OUxWX3NldENFUG5WeEVHdExXTG11bF9iT29xSmRuVGkxdDRVZnNINXEzSVh6WjI2dkdDVm45ekgzLWhsUWZJeThLa2JQcG5iUEltXzN0cFBLWG9QYy1R?oc=5",
         "published": "Sat, 10 Oct 2026 07:00:00 GMT",
         "source": "Business Insider Africa"
+      },
+      {
+        "title": "Prioritising crude allocation will lower inflation - Businessday NG",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2lHTkFPdXF6b29pekllbEZIeVlnSGljWU93blhOOHZfQW9MQkNiZjRXcktyTWtNQ2loUGJTdWZ0SUx1QjJvbXdNVkFEa0U0cnBaSGFZeG5fZmI0SmRqYmhJMjkySWJfV2xMU29RT0xwTUZPYU5od0JhUTBIOGNNaFd6dFRjYS1TbHhCSm04WUFzVVhwODBUU1dB0gGaAUFVX3lxTE9naUdOQU91cXpvb2l6SWVsRkh5WWdIaWNZT3duWE44dl9Bb0xCQ2JmNFdyS3JNa01DaWhQYlN1ZnRJTHVCMm9td01WQURrRTRycFpIYVl4bl9mYjRKZGpiaEkyOTJJYl9XbExTb1FPTHBNRk9hTmh3QmFRMEg4Y01oV3p0VGNhLVNseEJKbThZQXNVWHA4MFRTV0E?oc=5",
+        "published": "Thu, 29 Oct 2026 11:23:49 GMT",
+        "source": "Businessday NG"
       },
       {
         "title": "Crude Contracts and Royalties Limit Oil Available for Dangote Refinery - https://www.nigeriahousingmarket.com/",
@@ -518,21 +524,9 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFlWWlnd0tGMnNRVzdCQWpqRmVQRGJzOC1OdlRVOGk4c3UyYk5XWTItNnRmRzVlby1CNDB0RnRTUnJzSTBWODFPRXZHeWhQSkhrS1B5QkdGV2pVQlR1M3RCZXkyNFR6TDRfYzNoWHZGX3llck5ORE9FWDdXcG5qRENHRHlnWTBpLUpVYTNjSUNCQUxabHZ4S1RjSlJpeC1Ya2VzOTlVU295anJaSDM0dkJWUGZqdGZuMWs00gHAAUFVX3lxTE9RWE9uVTNIazBibnFlVmNZU1ZPLUFCVDFWUkZiTll1Y2szZnVxTXFmLWp0WU1oOUpJU1hNbGVIdFFKaUYtOGJIRlA5bW9ZX182Q0x0dmdPbEVYaExOem5DcFktdU1lelRlMlpObFctME51dHFtZXpkWWo1WGEyaWNpU0VPQjlEX01pUVEtUVhwdEVGMmFMTzdWNFoteXRaTXhJTTBpX0ZpcjBwS01iMjJoZUxkeEdmU3lPa2pwdUk3bw?oc=5",
         "published": "Fri, 11 Sep 2026 08:59:53 GMT",
         "source": "Investors King"
-      },
-      {
-        "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZlX1FHY0Z0Z1pfR0hZOGtoak9nRXNaYTVjVU4zVmJiWVJxb1FiWkoweWJ2SExuWWtPYk9fVlpfOGtCRFh0VnY2WmM2X0x4bG1GT21qQndpYjB5M2stTE54eUg4c2JxdkJkWXFta0VrbkdVQjJ4cXJlQ3o4aFdzc3JHc0hUQXd2cllyV09ReG9LVmdkZW9LdDhGSGVlQm9iVlR2XzhZcmpUSXF5ajlDYUREWdIBuAFBVV95cUxNOUgwWmV5TU81emJXcVE1LWplQTE5UW9scVJ3SUtBRU1RVnZvOFpEUEhSMEJUWXZBckh1TGtNdlU1Q2ZaUURyNVJTUy1JUU5rMGxqM2pObDV6VFpFdVNrQ1ZOTkotMVV1aTlvMG95MmpMaERvWGlpQ0c3ZHRPdWZqSXBhclA0ZGNBQVA2b3JMcHp6OXllT1lVeElmQnZycU5lY0NTYkNYVnNkVGFoelU2cm9objBaa2pk?oc=5",
-        "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-        "source": "Vanguard News"
       }
     ],
     "freight_margins": [
-      {
-        "title": "Fuel Oil Becomes Asia's Next Cost Shock - Crude Oil Prices Today | OilPrice.com",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanFVcGU2U2VGclJsa2VSUTlKUFJFalpNTy11QTd5a0pwT1hrX3dhbHZDRVIwaTRrc2sxYTd6Rk5DR3hWOURCZXJmTU16aTBPbUFnZHlKbk5VYjVWc2FmbUFMaHFWOHlhMmRySC1nX1hINS03MEhQZWsxeEFYNkpqM0JoNWkyb1FW0gGOAUFVX3lxTE0zaEoxQm5iMl9qa2RMZ0JSQlQwSVctZkVVblk2SFpTdF8yR0xoN2d2cEdmcVZqSzViMTdORGFoOVc4TjdFbk1Ec2dxempPZEt3ZUk1bmVEd1cyNGVObkx4SXlQakROUTdJZ2FVUWNQcWMtQ2p6R1VxT0wzLUZVbmNtUW8zeTVKLTRHNDFTTXc?oc=5",
-        "published": "Sat, 24 Oct 2026 21:00:00 GMT",
-        "source": "Crude Oil Prices Today | OilPrice.com"
-      },
       {
         "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
@@ -550,6 +544,12 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
         "published": "Fri, 20 Feb 2026 08:00:00 GMT",
         "source": "The Whistler Newspaper"
+      },
+      {
+        "title": "Ghana says its refineries are \u2018insignificant\u2019 compared to Nigeria\u2019s Dangote facility, but the country is ready to import - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYS1RZ2ZOVkxYamlIbnMtNGdGY3pJdGMwX1huRkw4MzBwSzVydXpROG9nZWlsc2V5QURyMnEtWG5Ibmhrejd1WDRxUVoyRS11MUxYWkJRY1hwUXloZm9HQ2FsNDd4LS1jTmZuYTNVOF9UUWRJMTFIc1diejQzU3B5aGtoRnJQdmZYbjN2dHBIMUZRM1cxWWplMzdMMkdfLWl5TnNSZEx4RXI5V0s3cE13NFY3QWxUNGt5dTNlb0lVRkdHeW9wUVFyMXVJMDlNakhfaXdyVm9zMFJaQQ?oc=5",
+        "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "source": "Business Insider Africa"
       },
       {
         "title": "Dangote Refinery positions as merchant refinery in global trade shift - Businessday NG",
@@ -578,16 +578,16 @@
         "source": "Capmad"
       },
       {
+        "title": "Dangote Refinery Will Be The Largest Company In Africa By December End \u2014 Aliko - Channels Television",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5YYmR1S251Y2ZCaTZQaWVVVkdTbDlKUTE5aHJZdWpxMXNZaXk2TkZHMURVVmZ3Y01PRjdvc1EtdUZEck9RdU5ab05xZHEwZ0RuTlZuLVVGenRrd19hazNtTE1oZndIR3dkN05nLTN3UEJMSmxMd1Q2WEl4SnpVZDNsNlBnWTUyQ1RQYmp5UWE0QmlIa3NmanFWQ0t5Qmo2UTdvX1NxcXk5TkYyaldiLWdybjEydw?oc=5",
+        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+        "source": "Channels Television"
+      },
+      {
         "title": "Investing in Scale: What the Dangote Refinery IPO Means for Institutional Portfolios - Businessday NG",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2x3UHNBMVhfaFZOMU5kQUppMG4tT0JEZGhwbmxfdDE2dUNlSnNjZGF3M2tUakx2M2tzQnI0cWlISTBGQUZDa09XeFlVdUZ4dS14aWt6MkNybVh5OE5SWF82aEZubUl6eUNkcFc2dzIzN3Q0Skg2RzJBSnc1bHgtV205MWdiR2wtak1KOExoLXA1OElQVkVuUGlpSGkyd1NWQnRVRmJkTExnQ1pjeTlZZ0E4V2VDZ2pqWXN4NmxRTXVudllVbTZGQ0dCc29iR2fSAdQBQVVfeXFMTlA5R3hEQ3BZc0h5NkoxYTUyZ1g5VnZELTRmZUJ1V0RxM0FTdGw5X3F4eVFwRmFaZGtad3p3ejJGdnpLdXdHdmNmdDlRZ1YxNC1EUlhCeEk3LTZwampleHRmUThZNXhsSmdaT2JoS3NfV3phcFB2OXdjdkxHMFluSDZrREtVd09CMmotdGdqN00zUjdyY1hFcnFqYmFKcEZwamUyd3B3TkRoQTgwVmNSaEtjTU5SX19zS2lRQVFrZlpZUmhkdXBfdkNJWXRuOHgwOEN1TkM?oc=5",
         "published": "Thu, 08 Oct 2026 07:00:00 GMT",
         "source": "Businessday NG"
-      },
-      {
-        "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
-        "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
       }
     ],
     "fx_liquidity": [
