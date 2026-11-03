@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T00:09:34.685929+00:00",
+  "last_updated": "2026-11-03T13:12:28.996026+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1348.44829,
+    "usd_ngn": 1345.872636,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-01T18:12:05.164123+00:00",
-        "rate": 1328.645734
-      },
       {
         "t": "2026-10-02T03:00:06.602920+00:00",
         "rate": 1327.682521
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-03T00:09:34.685929+00:00",
         "rate": 1348.44829
+      },
+      {
+        "t": "2026-11-03T13:12:28.996026+00:00",
+        "rate": 1345.872636
       }
     ]
   },
@@ -534,6 +534,12 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
+        "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
+        "published": "Tue, 17 Mar 2026 20:23:03 GMT",
+        "source": "Argus Media"
+      },
+      {
         "title": "Geopolitical developments contribute to elevated diesel prices - U.S. Energy Information Administration (EIA) (.gov)",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU0MzMTR4YkZyNWxnV0d1MEJjN3lsWktNM191R0VwVnY1V040UU1KaEhCT3k2eXl5RWlZZ3JUZjJTV05WSUNWYS0yR2NVbkJuRVFPUFBRdFg3a3VQNFl0Z0hSVQ?oc=5",
         "published": "Wed, 03 Dec 2025 08:00:00 GMT",
@@ -550,26 +556,20 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmVqQlhBWkVMTEhKeGRrRWM5UkhDU1JWRndXNlc0RXBheWp5VENNUEtHRGZxczJxU2E3ZmRrelRKNWpGaklKQ0xjMl9YNFZ2OWpESjZRcmw1bTkyczlrVnRWX2tzUFkwektnamdsTHcwMTZ1TE1FbW9lV29jUzNnb3BmOVhLUmxQdm9VdA?oc=5",
         "published": "Thu, 20 Aug 2026 07:00:00 GMT",
         "source": "Dabafinance"
-      },
-      {
-        "title": "Dangote Refinery positions as merchant refinery in global trade shift - Businessday NG",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2pQTndMZ1d5dGV2XzBvbGxlbnBHamptQmZhWXZ6ZmZjbHNKNE95WU1sS18yTEhLZDVNeGU5WDBBM0Z1QnJveXdITDNDNVJOSTlkVVFrNl9XQnRwOWtSeUp0Ry03SU5Wb3lhdlZFdGctTl8ydUdManRaRWt6UjhKMEtlS1pqU2JOWDZ2Y1BaY0hmNzU5NEF0a296TFNHcEdvRGlwYjJkTVIyWWE1bEVNRUNGSVpLQdIBuwFBVV95cUxOOVBINUdueHVZUmg1WFl3eFJuRjlzaGNqUGlHZ2IteFdFUFpNYkJoR3phRkNndUxsR2VTV2pmTlR1R1drS1IydTJXWkUwdW5lT28yQ2dXU05WRVBYTEs5dGZyb2VtRHhQSnNFdFYwU2ZIUXBSb2lDdzRRSzRqYk8zWDRQQUlkZ3JFUVo5ZFo1SWtRQm03ZS1pbnlwLVlrc2RVRkhNMXNkVVNmeTdpalJqbmpUZHlrWnpKZWJV?oc=5",
-        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-        "source": "Businessday NG"
       }
     ],
     "block_trades": [
-      {
-        "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
-        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-        "source": "The Guardian Nigeria News"
-      },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
         "source": "TheCable"
+      },
+      {
+        "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
+        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+        "source": "The Guardian Nigeria News"
       },
       {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
@@ -578,16 +578,16 @@
         "source": "Capmad"
       },
       {
-        "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
-        "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
-      },
-      {
         "title": "Dangote buys 25% of Kenya Pipeline in block trade of state-held shares - Oil & Gas Middle East",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLTl4dC1TZXZZTW80UkZVNGRMWVJYaEw1WFJ2U2RnbWNnbWFET2JGSUFfZ2RSVGlCbXZHc3BnR1JuNFRSdjNZSnQ5RHNSLVdxZmoyeG1VcUhwTEdJN05fS1dKc2pQX0pZMW9tOEszVkNsZEpsV1hBTw?oc=5",
         "published": "Thu, 22 Oct 2026 07:00:00 GMT",
         "source": "Oil & Gas Middle East"
+      },
+      {
+        "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlp3SFBnMGt5UXlBdVJ1VHpHZGtvckhwcFlQUm9LaEhzU29pM25EN2pYZU1TLWFRNkhzb0E4NzJXQmtwZ3o2NW9od1NtTWZCRDVZc3c0X0hyNWFVRldzMGxsRFd5V2ZtVTZlLU14YVJuY3Y2SFVDcHdlRkRBSjBvalVhS3l4VzZ2cjctQUxaN3Y3NjJJbVVIRjE0Q2xrdXpzZGMwdURpZFlnbVBvNU5vdjIzbjZYdmpR?oc=5",
+        "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+        "source": "Billionaires.Africa"
       }
     ],
     "fx_liquidity": [
