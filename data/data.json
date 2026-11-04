@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T13:26:20.778920+00:00",
+  "last_updated": "2026-11-04T22:58:35.658444+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1346.069771,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-02T21:33:04.745445+00:00",
-        "rate": 1327.682521
-      },
       {
         "t": "2026-10-03T02:46:02.384976+00:00",
         "rate": 1330.635588
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-04T13:26:20.778920+00:00",
         "rate": 1346.069771
+      },
+      {
+        "t": "2026-11-04T22:58:35.658444+00:00",
+        "rate": 1346.069771
       }
     ]
   },
@@ -528,34 +528,34 @@
     ],
     "freight_margins": [
       {
-        "title": "Oil Prices and the Dangote IPO: Why Theyre Linked - Dabafinance",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2UyRkhvUmR3RlFLRmxlbzBDNkI4Yzh1cGJUYmJGcWM5djUxTTJtMEFDZWNlNENYdUNHSDR4bzF4aUpCbUV5MXhWUXEwRF9BUHJKR3FtRDg4WUo2UmpxS05KWEN3ck9LOGlGTWNtOWIxRDJGQnRueWpnZUdhN0hTQkhfRGN6SFoyZ2p6aw?oc=5",
-        "published": "Sat, 22 Aug 2026 07:00:00 GMT",
-        "source": "Dabafinance"
+        "title": "Dangote at Full Throttle as Nigeria Becomes a Net Fuel Exporter - Crude Oil Prices Today | OilPrice.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW01N0FEcTBmVDhMM0hUMko3QUZ0ZFh2WERuTGFoOUFnR0FhUWZiNzA5N1hjLXl0dkl5QVV5czU4TWJRVFlzR1QyelQ5enJSSXJmNm5neDQ3d1EyRG8wcUpWSW8yMnpNc25TRDAzRHIxTVBGSk9IQXRpMVB0dU9pVC1FZ1dKUVp3LU9JM2oxY1VPUHhyX1Z6UUxrMDI0UkRxbFRtMDRDVXZ3UdIBrwFBVV95cUxQMFRNQ2VaS1RIS1pvOGI0Nm1SX2NBLVduVGZCWkhfSTlkNWtmbVpSUHlIdTk4RGJKc2Nuci0wRzU0NFpaMFptdFBZYTd1Tk15NjBMbEhYMlp5WWF4aThWdXFkWjFTcDYxVVRfZjlleG9BaHkwZndkZTE5TmJaT0Q0aGg3ZlhabUJLVEtpdkZSZ05tNUZfRW04WEV4OTNqR0tmWGI1WFhHNW1HamdOV2sw?oc=5",
+        "published": "Sat, 25 Apr 2026 07:00:00 GMT",
+        "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "Dangote Says Global Fuel Shortage Could Outlast Iran War - Investors King",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVW5tVXZIcnpWbGI5U2ZmMTJYMlVXZ3BxM19CZ2ZUV0lodnFpUTJkUVRmM1dNOXluMjk4Ty1IYTJNeHJMdmxjeGVvVVVmWTd6bXNyMHVFSWdQZE5fcVQ5YmZQeTJaNGdfRmZzRG1JcXlVdTBmZDhFNEs3SWVDeGlkRG1XSE9GOWhTMlRjQWdYVEdNanVGWmstTkF30gGfAUFVX3lxTE5XNVllak02dVZBbWhoVVdMdFlha01Ca2dFMnFpZWt3X2ExQ2ZCRWJoMnFvdjhmdDE4Q01iQTZTVFJDWTZyZXJuUnNrbVpJX1RsaWpHLTMyczZ5NjBvcC1HaTFEeHkwU3UwcVlwSmptWW9mMi0xRGJFQWtJcTIyeGY0dFJGbFVJTy1PX19aQUktRGxrNEpialRRMjJ1b2toTQ?oc=5",
-        "published": "Wed, 09 Sep 2026 09:44:40 GMT",
-        "source": "Investors King"
+        "title": "Geopolitical developments contribute to elevated diesel prices - U.S. Energy Information Administration (EIA) (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU0MzMTR4YkZyNWxnV0d1MEJjN3lsWktNM191R0VwVnY1V040UU1KaEhCT3k2eXl5RWlZZ3JUZjJTV05WSUNWYS0yR2NVbkJuRVFPUFBRdFg3a3VQNFl0Z0hSVQ?oc=5",
+        "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+        "source": "U.S. Energy Information Administration (EIA) (.gov)"
       },
       {
-        "title": "FG warned against importation of refined petroleum products - Tribune Online",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4Y2V5TF9pQmFULWVpc3dEYVF0Qk51TFpSdl80TjQyLUtURHJ2blFoZER2LWlMY2RFeEZBSGwwSVN1TlAxaGc5aTUweWtudkE?oc=5",
-        "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "source": "Tribune Online"
-      },
-      {
-        "title": "Low Tanks, High Margins: Why Product Cracks Are at Records, and How Long They Are Likely to Last - Stillwater Associates",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZm5naGU4Y3RrQW9SYTJUYURJVHlQRGFWa08tMl9sZ1podi0xWTdqWEI4dk53UkZ4UUJvcUJyMHpJYVRCOUNiVXZNVUdjN1I1anlGYjdVSjZmemRDX2g4MjhUNHF2eU55Z2ZYeUd0eDU2RGw1azRwaWxka1ZPcEhWWXo5c0pyRXJINTk1U1NocFRQRWxxaEIxWUtINTI3NjlQRlhoSFpTaEhHdXl0cThFR3M1bDRMYkRIWjdfY1F5WXJheHBmUmc?oc=5",
-        "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-        "source": "Stillwater Associates"
+        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "The Whistler Newspaper"
       },
       {
         "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmVqQlhBWkVMTEhKeGRrRWM5UkhDU1JWRndXNlc0RXBheWp5VENNUEtHRGZxczJxU2E3ZmRrelRKNWpGaklKQ0xjMl9YNFZ2OWpESjZRcmw1bTkyczlrVnRWX2tzUFkwektnamdsTHcwMTZ1TE1FbW9lV29jUzNnb3BmOVhLUmxQdm9VdA?oc=5",
         "published": "Thu, 20 Aug 2026 07:00:00 GMT",
         "source": "Dabafinance"
+      },
+      {
+        "title": "Gasoline E5 cracks slide on Dangote hopes, increased US capacity - Quantum Commodity Intelligence",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2JvRTg4STY5Rkx5dDBTM1JQV2hta3RkWFhyOUR3QTduQThKM1BqWXJPVVczaXVZbTBYOU9rZDVnRGlOQUxSX0Z4aHhtQVNoY2MyeFgwQUkwbEFoWnFPVlVZVF9ObjZwQnBHSDRheVJsOTN5OUxZSlh5V2h4U3o0bklfS05BOTlJbXJfS0lWYmtUczN3WUZydUNmSi1sQ2NGYWpDMzdJdmpFQQ?oc=5",
+        "published": "Mon, 20 Oct 2025 07:00:00 GMT",
+        "source": "Quantum Commodity Intelligence"
       }
     ],
     "block_trades": [
@@ -578,16 +578,16 @@
         "source": "Capmad"
       },
       {
-        "title": "Dangote buys 25% of Kenya Pipeline in block trade of state-held shares - Oil & Gas Middle East",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLTl4dC1TZXZZTW80UkZVNGRMWVJYaEw1WFJ2U2RnbWNnbWFET2JGSUFfZ2RSVGlCbXZHc3BnR1JuNFRSdjNZSnQ5RHNSLVdxZmoyeG1VcUhwTEdJN05fS1dKc2pQX0pZMW9tOEszVkNsZEpsV1hBTw?oc=5",
-        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-        "source": "Oil & Gas Middle East"
-      },
-      {
         "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlp3SFBnMGt5UXlBdVJ1VHpHZGtvckhwcFlQUm9LaEhzU29pM25EN2pYZU1TLWFRNkhzb0E4NzJXQmtwZ3o2NW9od1NtTWZCRDVZc3c0X0hyNWFVRldzMGxsRFd5V2ZtVTZlLU14YVJuY3Y2SFVDcHdlRkRBSjBvalVhS3l4VzZ2cjctQUxaN3Y3NjJJbVVIRjE0Q2xrdXpzZGMwdURpZFlnbVBvNU5vdjIzbjZYdmpR?oc=5",
         "published": "Thu, 17 Sep 2026 07:00:00 GMT",
         "source": "Billionaires.Africa"
+      },
+      {
+        "title": "Dangote launches historic refinery IPO on NGX - PM News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2tGSEVNbEp5ZjI5VFpOM0FjTmpQZFJhOElNYS1kMlM0allXQWsyNTdwQV9taTZlXzNzRjhCcEhuNk9MXzNvMjdlbHlRN182WG0yZG1lRjM3WkZhUEQ5SWh1SFJvakZTMkNtaWpsMXZUaHFKOTVZclQ4djNwZktWR2Rybi1pWm9sY01V?oc=5",
+        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+        "source": "PM News Nigeria"
       }
     ],
     "fx_liquidity": [
