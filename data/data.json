@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T04:02:13.040954+00:00",
+  "last_updated": "2026-11-06T13:24:34.049299+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1348.023447,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-04T03:16:51.341798+00:00",
-        "rate": 1330.13992
-      },
       {
         "t": "2026-10-04T11:28:35.956302+00:00",
         "rate": 1330.13992
@@ -490,17 +486,15 @@
       {
         "t": "2026-11-06T04:02:13.040954+00:00",
         "rate": 1348.023447
+      },
+      {
+        "t": "2026-11-06T13:24:34.049299+00:00",
+        "rate": 1348.023447
       }
     ]
   },
   "news": {
     "utilization": [
-      {
-        "title": "Africa\u2019s top oil producer admits crude supply limits behind Dangote\u2019s imports as the continent's largest refinery expands - Business Insider Africa",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVVpV0dWY2U3Y0JtTm13ZldYYlF4bUcwQ3h2ajRLLWxNT2NHUmVicDl5RGlabWhxYnlJc21BbmRhWm9JYzdMN0tIc1ZRd3VFandHaDJVemllRGZjRUlsc0hLSWdPRDlXelByb3VmZVNXRkJWNHM4Y3NmWXJHN0V5OUxWX3NldENFUG5WeEVHdExXTG11bF9iT29xSmRuVGkxdDRVZnNINXEzSVh6WjI2dkdDVm45ekgzLWhsUWZJeThLa2JQcG5iUEltXzN0cFBLWG9QYy1R?oc=5",
-        "published": "Sat, 10 Oct 2026 07:00:00 GMT",
-        "source": "Business Insider Africa"
-      },
       {
         "title": "Crude Contracts and Royalties Limit Oil Available for Dangote Refinery - https://www.nigeriahousingmarket.com/",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0tmdDJTNWxCZnFOMDVxN2xzNjRpNWd3dWs1SmowUThkWk9NTlk3Y0MzNGFCXzNBU19kbE0tT1VkanZMb1g2bDc4dlI0QkxWbm1hT0pLakpmSUlOVkt1Nmh5TG5wUVloaUhXQ1piVEthbjJDdHpIcklNSTlsVTViNWQzUUQ3NWc4YjlhZ2lHNXkyeERPMzU3VQ?oc=5",
@@ -512,6 +506,12 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
         "published": "Mon, 10 Aug 2026 07:00:00 GMT",
         "source": "Punch Newspapers"
+      },
+      {
+        "title": "Africa\u2019s top oil producer admits crude supply limits behind Dangote\u2019s imports as the continent's largest refinery expands - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVVpV0dWY2U3Y0JtTm13ZldYYlF4bUcwQ3h2ajRLLWxNT2NHUmVicDl5RGlabWhxYnlJc21BbmRhWm9JYzdMN0tIc1ZRd3VFandHaDJVemllRGZjRUlsc0hLSWdPRDlXelByb3VmZVNXRkJWNHM4Y3NmWXJHN0V5OUxWX3NldENFUG5WeEVHdExXTG11bF9iT29xSmRuVGkxdDRVZnNINXEzSVh6WjI2dkdDVm45ekgzLWhsUWZJeThLa2JQcG5iUEltXzN0cFBLWG9QYy1R?oc=5",
+        "published": "Sat, 10 Oct 2026 07:00:00 GMT",
+        "source": "Business Insider Africa"
       },
       {
         "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
@@ -562,20 +562,20 @@
       {
         "title": "Dangote Refinery IPO: How to Check Your Share Allotment, When Will Shares - - MSME Africa",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnJ2dXZQS0NXRGhYck02Q19yMUU0MGtaRXUyblk5Z0otUHZsN2pXZWVtLTlOSmQ4TlpyZGt0dVJmVHRkcDJYaEdhd0RrVjdBQy0xTzVfTFA0TmJXY0FrRnN4blJsUzFKTWJoYURHRkRjcU5jeUkxaEl1OW5GOURmWWtCbG9mUDM5QjBIZHpHbmFRODBNcWNETHhKWmM4NU4wUkRuSDZPbmhySWlUMkkwd09sS0I5WXJ6b0laY1Zvbk1rekNwM0NXSlRpNVFVOUhlX1ZRTlo0Y1lHQmtNd1d3Zkc3dFl4RFBhUm80ZEZn?oc=5",
-        "published": "Thu, 05 Nov 2026 11:56:21 GMT",
+        "published": "Thu, 05 Nov 2026 17:55:33 GMT",
         "source": "MSME Africa"
-      },
-      {
-        "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO could boost active investors fivefold, NGX Group CEO says - Billionaires.Africa",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTRVTGdBNVdUdnVXS2EycHhrNUlhd0JIQUNMeENMbHVXQjBPck1qRXVPT19SU2NLcGpsNkJROEFJQUVGQ1FtUkQ0VF82UmFIc1hTOW5KV1pTMDI5dm12Z2RqcmJ3ZWllRF8xQXFsU1EwTUxJRUZLczdVbnBSQXdCMmloR1U0Qlp6VVJ6Z2NxMzJsUi10aVE4bm9Ldmh3MlB3TllZQldveWhLamU3UnQtWmR6cWJEUHNYZTlDWmNHRW03ZUZ3MzdfYWJwOEtabF9kZWtFU2FFYXllLTlfT3l1V2JYaw?oc=5",
-        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-        "source": "Billionaires.Africa"
       },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
         "source": "TheCable"
+      },
+      {
+        "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO could boost active investors fivefold, NGX Group CEO says - Billionaires.Africa",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTRVTGdBNVdUdnVXS2EycHhrNUlhd0JIQUNMeENMbHVXQjBPck1qRXVPT19SU2NLcGpsNkJROEFJQUVGQ1FtUkQ0VF82UmFIc1hTOW5KV1pTMDI5dm12Z2RqcmJ3ZWllRF8xQXFsU1EwTUxJRUZLczdVbnBSQXdCMmloR1U0Qlp6VVJ6Z2NxMzJsUi10aVE4bm9Ldmh3MlB3TllZQldveWhLamU3UnQtWmR6cWJEUHNYZTlDWmNHRW03ZUZ3MzdfYWJwOEtabF9kZWtFU2FFYXllLTlfT3l1V2JYaw?oc=5",
+        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+        "source": "Billionaires.Africa"
       },
       {
         "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
