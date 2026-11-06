@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T13:24:34.049299+00:00",
+  "last_updated": "2026-11-06T22:29:49.750073+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1348.023447,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-04T11:28:35.956302+00:00",
-        "rate": 1330.13992
-      },
       {
         "t": "2026-10-04T16:07:33.128477+00:00",
         "rate": 1330.13992
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-06T13:24:34.049299+00:00",
         "rate": 1348.023447
+      },
+      {
+        "t": "2026-11-06T22:29:49.750073+00:00",
+        "rate": 1348.023447
       }
     ]
   },
@@ -516,7 +516,7 @@
       {
         "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFlWWlnd0tGMnNRVzdCQWpqRmVQRGJzOC1OdlRVOGk4c3UyYk5XWTItNnRmRzVlby1CNDB0RnRTUnJzSTBWODFPRXZHeWhQSkhrS1B5QkdGV2pVQlR1M3RCZXkyNFR6TDRfYzNoWHZGX3llck5ORE9FWDdXcG5qRENHRHlnWTBpLUpVYTNjSUNCQUxabHZ4S1RjSlJpeC1Ya2VzOTlVU295anJaSDM0dkJWUGZqdGZuMWs00gHAAUFVX3lxTE9RWE9uVTNIazBibnFlVmNZU1ZPLUFCVDFWUkZiTll1Y2szZnVxTXFmLWp0WU1oOUpJU1hNbGVIdFFKaUYtOGJIRlA5bW9ZX182Q0x0dmdPbEVYaExOem5DcFktdU1lelRlMlpObFctME51dHFtZXpkWWo1WGEyaWNpU0VPQjlEX01pUVEtUVhwdEVGMmFMTzdWNFoteXRaTXhJTTBpX0ZpcjBwS01iMjJoZUxkeEdmU3lPa2pwdUk3bw?oc=5",
-        "published": "Fri, 11 Sep 2026 08:59:53 GMT",
+        "published": "Fri, 11 Sep 2026 07:00:00 GMT",
         "source": "Investors King"
       },
       {
@@ -552,10 +552,10 @@
         "source": "Dabafinance"
       },
       {
-        "title": "Gasoline E5 cracks slide on Dangote hopes, increased US capacity - Quantum Commodity Intelligence",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2JvRTg4STY5Rkx5dDBTM1JQV2hta3RkWFhyOUR3QTduQThKM1BqWXJPVVczaXVZbTBYOU9rZDVnRGlOQUxSX0Z4aHhtQVNoY2MyeFgwQUkwbEFoWnFPVlVZVF9ObjZwQnBHSDRheVJsOTN5OUxZSlh5V2h4U3o0bklfS05BOTlJbXJfS0lWYmtUczN3WUZydUNmSi1sQ2NGYWpDMzdJdmpFQQ?oc=5",
-        "published": "Mon, 20 Oct 2025 07:00:00 GMT",
-        "source": "Quantum Commodity Intelligence"
+        "title": "Dangote Refinery positions as merchant refinery in global trade shift - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2pQTndMZ1d5dGV2XzBvbGxlbnBHamptQmZhWXZ6ZmZjbHNKNE95WU1sS18yTEhLZDVNeGU5WDBBM0Z1QnJveXdITDNDNVJOSTlkVVFrNl9XQnRwOWtSeUp0Ry03SU5Wb3lhdlZFdGctTl8ydUdManRaRWt6UjhKMEtlS1pqU2JOWDZ2Y1BaY0hmNzU5NEF0a296TFNHcEdvRGlwYjJkTVIyWWE1bEVNRUNGSVpLQQ?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "Business News Nigeria"
       }
     ],
     "block_trades": [
