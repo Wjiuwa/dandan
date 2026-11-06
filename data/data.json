@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T22:59:53.328634+00:00",
+  "last_updated": "2026-11-06T04:02:13.040954+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1346.474525,
+    "usd_ngn": 1348.023447,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-03T20:18:53.060866+00:00",
-        "rate": 1330.635588
-      },
       {
         "t": "2026-10-04T03:16:51.341798+00:00",
         "rate": 1330.13992
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-05T22:59:53.328634+00:00",
         "rate": 1346.474525
+      },
+      {
+        "t": "2026-11-06T04:02:13.040954+00:00",
+        "rate": 1348.023447
       }
     ]
   },
@@ -562,7 +562,7 @@
       {
         "title": "Dangote Refinery IPO: How to Check Your Share Allotment, When Will Shares - - MSME Africa",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnJ2dXZQS0NXRGhYck02Q19yMUU0MGtaRXUyblk5Z0otUHZsN2pXZWVtLTlOSmQ4TlpyZGt0dVJmVHRkcDJYaEdhd0RrVjdBQy0xTzVfTFA0TmJXY0FrRnN4blJsUzFKTWJoYURHRkRjcU5jeUkxaEl1OW5GOURmWWtCbG9mUDM5QjBIZHpHbmFRODBNcWNETHhKWmM4NU4wUkRuSDZPbmhySWlUMkkwd09sS0I5WXJ6b0laY1Zvbk1rekNwM0NXSlRpNVFVOUhlX1ZRTlo0Y1lHQmtNd1d3Zkc3dFl4RFBhUm80ZEZn?oc=5",
-        "published": "Thu, 05 Nov 2026 09:30:35 GMT",
+        "published": "Thu, 05 Nov 2026 11:56:21 GMT",
         "source": "MSME Africa"
       },
       {
