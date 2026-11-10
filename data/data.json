@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T13:55:23.893305+00:00",
+  "last_updated": "2026-11-10T22:38:02.848050+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1349.070025,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-07T22:24:09.971260+00:00",
-        "rate": 1328.1192
-      },
       {
         "t": "2026-10-08T03:26:09.111877+00:00",
         "rate": 1330.207024
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-10T13:55:23.893305+00:00",
         "rate": 1349.070025
+      },
+      {
+        "t": "2026-11-10T22:38:02.848050+00:00",
+        "rate": 1349.070025
       }
     ]
   },
@@ -502,16 +502,16 @@
         "source": "Business Insider Africa"
       },
       {
-        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
-        "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
-      },
-      {
         "title": "Crude Contracts and Royalties Limit Oil Available for Dangote Refinery - https://www.nigeriahousingmarket.com/",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0tmdDJTNWxCZnFOMDVxN2xzNjRpNWd3dWs1SmowUThkWk9NTlk3Y0MzNGFCXzNBU19kbE0tT1VkanZMb1g2bDc4dlI0QkxWbm1hT0pLakpmSUlOVkt1Nmh5TG5wUVloaUhXQ1piVEthbjJDdHpIcklNSTlsVTViNWQzUUQ3NWc4YjlhZ2lHNXkyeERPMzU3VQ?oc=5",
         "published": "Mon, 12 Oct 2026 07:00:00 GMT",
         "source": "https://www.nigeriahousingmarket.com/"
+      },
+      {
+        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
+        "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "source": "Punch Newspapers"
       },
       {
         "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
@@ -520,9 +520,9 @@
         "source": "Investors King"
       },
       {
-        "title": "NNPC to increase crude oil supply to Dangote Refinery to seven cargoes - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUdka3dvTlZ3MDVsdnBJeGhKWG1zM3JGMkRZYzB2N1pXc0I0TEF3UWdpVHlJTE15THdjbUFxZmpFaTFjdnVWZDIyYVlqbjlJeUxoNW1DUkYyUlNMYkJSaFlTdTFHOG54UjJIUElneTdVV19jRHlHRGgyd2hwNTZJb01kSFAwQll1SnVyUW1pWjFmOS0zNlNzRWVsMkpQa1hHaU40XzZoei0zLUHSAbABQVVfeXFMTW53LTJTaEk5QVFaZi1QVU05T0lUMmptcWhPeFlFMG15M200TDJFcllhTXBEaEc0WGp5UlpNdTlSbktKd0oyUTdNQnFETkdXc19DV0JEc1ZhZEVOT2l0RkMyOE42Wm5QWmJ4b1U5R3hROHJDMGZNSlhRZ0FySVhocE5qYk5MTXlfQVJ6SVJtVWlNSy0tLUpwLUhNblZ6eGJ0RFdhR2VDand4dlZTNmsydlE?oc=5",
-        "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+        "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others - Vanguard News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZlX1FHY0Z0Z1pfR0hZOGtoak9nRXNaYTVjVU4zVmJiWVJxb1FiWkoweWJ2SExuWWtPYk9fVlpfOGtCRFh0VnY2WmM2X0x4bG1GT21qQndpYjB5M2stTE54eUg4c2JxdkJkWXFta0VrbkdVQjJ4cXJlQ3o4aFdzc3JHc0hUQXd2cllyV09ReG9LVmdkZW9LdDhGSGVlQm9iVlR2XzhZcmpUSXF5ajlDYUREWdIBuAFBVV95cUxNOUgwWmV5TU81emJXcVE1LWplQTE5UW9scVJ3SUtBRU1RVnZvOFpEUEhSMEJUWXZBckh1TGtNdlU1Q2ZaUURyNVJTUy1JUU5rMGxqM2pObDV6VFpFdVNrQ1ZOTkotMVV1aTlvMG95MmpMaERvWGlpQ0c3ZHRPdWZqSXBhclA0ZGNBQVA2b3JMcHp6OXllT1lVeElmQnZycU5lY0NTYkNYVnNkVGFoelU2cm9objBaa2pk?oc=5",
+        "published": "Fri, 14 Aug 2026 07:00:00 GMT",
         "source": "Vanguard News"
       }
     ],
@@ -598,16 +598,16 @@
         "source": "PM News Nigeria"
       },
       {
-        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
-        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "source": "MarketForces Africa"
-      },
-      {
         "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
         "published": "Mon, 17 Mar 2025 07:00:00 GMT",
         "source": "Vanguard News"
+      },
+      {
+        "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
+        "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "MarketForces Africa"
       },
       {
         "title": "How Nigeria\u2019s Currency Lost 140.96% Of Its Value Under Emefiele- Investigation - The Whistler Newspaper",
