@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T13:08:30.076159+00:00",
+  "last_updated": "2026-11-11T23:48:34.482405+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1350.423654,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-08T22:37:23.050195+00:00",
-        "rate": 1330.207024
-      },
       {
         "t": "2026-10-09T03:31:35.189961+00:00",
         "rate": 1331.013867
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-11T13:08:30.076159+00:00",
         "rate": 1350.423654
+      },
+      {
+        "t": "2026-11-11T23:48:34.482405+00:00",
+        "rate": 1350.423654
       }
     ]
   },
@@ -508,16 +508,16 @@
         "source": "https://www.nigeriahousingmarket.com/"
       },
       {
-        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
-        "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
-      },
-      {
         "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFlWWlnd0tGMnNRVzdCQWpqRmVQRGJzOC1OdlRVOGk4c3UyYk5XWTItNnRmRzVlby1CNDB0RnRTUnJzSTBWODFPRXZHeWhQSkhrS1B5QkdGV2pVQlR1M3RCZXkyNFR6TDRfYzNoWHZGX3llck5ORE9FWDdXcG5qRENHRHlnWTBpLUpVYTNjSUNCQUxabHZ4S1RjSlJpeC1Ya2VzOTlVU295anJaSDM0dkJWUGZqdGZuMWs00gHAAUFVX3lxTE9RWE9uVTNIazBibnFlVmNZU1ZPLUFCVDFWUkZiTll1Y2szZnVxTXFmLWp0WU1oOUpJU1hNbGVIdFFKaUYtOGJIRlA5bW9ZX182Q0x0dmdPbEVYaExOem5DcFktdU1lelRlMlpObFctME51dHFtZXpkWWo1WGEyaWNpU0VPQjlEX01pUVEtUVhwdEVGMmFMTzdWNFoteXRaTXhJTTBpX0ZpcjBwS01iMjJoZUxkeEdmU3lPa2pwdUk3bw?oc=5",
         "published": "Fri, 11 Sep 2026 07:00:00 GMT",
         "source": "Investors King"
+      },
+      {
+        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
+        "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "source": "Punch Newspapers"
       },
       {
         "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others - Vanguard News",
@@ -534,22 +534,22 @@
         "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
+        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "The Whistler Newspaper"
+      },
+      {
         "title": "Geopolitical developments contribute to elevated diesel prices - U.S. Energy Information Administration (EIA) (.gov)",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU0MzMTR4YkZyNWxnV0d1MEJjN3lsWktNM191R0VwVnY1V040UU1KaEhCT3k2eXl5RWlZZ3JUZjJTV05WSUNWYS0yR2NVbkJuRVFPUFBRdFg3a3VQNFl0Z0hSVQ?oc=5",
         "published": "Wed, 03 Dec 2025 08:00:00 GMT",
         "source": "U.S. Energy Information Administration (EIA) (.gov)"
       },
       {
-        "title": "Dangote Refinery\u2019s US crude import: Nonsense or common sense? - Business News Nigeria",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUZfdjYwUzBXbXdxOHVYX3liU0h1VWEza2VYOWJfckQyYWZFRDdnclJZUXpfQ21mM01pV2JnTVdkek43Z2RFTUg2TUxsOEVfNXBFbXBCTWRCSENjSS15Z0tWRHVOTFRvX254Y1Btc0hQUGJUOGJwM0xERUJIRUk1U0g3bVZSR0NRaGk0Qlp3Sms5WWVEMFpoRWZ3M0h1T0U?oc=5",
-        "published": "Tue, 13 Feb 2024 08:00:00 GMT",
-        "source": "Business News Nigeria"
-      },
-      {
-        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
+        "title": "Dangote Refinery positions as merchant refinery in global trade shift - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2pQTndMZ1d5dGV2XzBvbGxlbnBHamptQmZhWXZ6ZmZjbHNKNE95WU1sS18yTEhLZDVNeGU5WDBBM0Z1QnJveXdITDNDNVJOSTlkVVFrNl9XQnRwOWtSeUp0Ry03SU5Wb3lhdlZFdGctTl8ydUdManRaRWt6UjhKMEtlS1pqU2JOWDZ2Y1BaY0hmNzU5NEF0a296TFNHcEdvRGlwYjJkTVIyWWE1bEVNRUNGSVpLQQ?oc=5",
         "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-        "source": "The Whistler Newspaper"
+        "source": "Business News Nigeria"
       },
       {
         "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
@@ -566,28 +566,28 @@
         "source": "MSME Africa"
       },
       {
-        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
-        "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "source": "TheCable"
-      },
-      {
-        "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO could boost active investors fivefold, NGX Group CEO says - Billionaires.Africa",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTRVTGdBNVdUdnVXS2EycHhrNUlhd0JIQUNMeENMbHVXQjBPck1qRXVPT19SU2NLcGpsNkJROEFJQUVGQ1FtUkQ0VF82UmFIc1hTOW5KV1pTMDI5dm12Z2RqcmJ3ZWllRF8xQXFsU1EwTUxJRUZLczdVbnBSQXdCMmloR1U0Qlp6VVJ6Z2NxMzJsUi10aVE4bm9Ldmh3MlB3TllZQldveWhLamU3UnQtWmR6cWJEUHNYZTlDWmNHRW03ZUZ3MzdfYWJwOEtabF9kZWtFU2FFYXllLTlfT3l1V2JYaw?oc=5",
-        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-        "source": "Billionaires.Africa"
-      },
-      {
         "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "source": "Capmad"
       },
       {
+        "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
+        "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+        "source": "TheCable"
+      },
+      {
         "title": "\u200eInvesting in Scale: What Dangote Refinery IPO means for institutional portfolios - The Guardian Nigeria News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjRMTXFrWno0bF9vMktYb2F6Slc4ZUpYajRiV0s4X2IxUXhxUENldWNFbXczSm5ZSm1yWi1YaUtwTV9FOFdWYlpFM2lwSFplM2tpcXcySjVVYXNEdGdzRGJHWi1leXdrYUFvNUtuNUtpa2hFTmdZWXU4SFdpdklUd19URkJLTDNlaUdMVDNqVncyejNDckxGZmRtQVRtUnlBS20zVHpjbnI?oc=5",
         "published": "Thu, 08 Oct 2026 07:00:00 GMT",
         "source": "The Guardian Nigeria News"
+      },
+      {
+        "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlp3SFBnMGt5UXlBdVJ1VHpHZGtvckhwcFlQUm9LaEhzU29pM25EN2pYZU1TLWFRNkhzb0E4NzJXQmtwZ3o2NW9od1NtTWZCRDVZc3c0X0hyNWFVRldzMGxsRFd5V2ZtVTZlLU14YVJuY3Y2SFVDcHdlRkRBSjBvalVhS3l4VzZ2cjctQUxaN3Y3NjJJbVVIRjE0Q2xrdXpzZGMwdURpZFlnbVBvNU5vdjIzbjZYdmpR?oc=5",
+        "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+        "source": "Billionaires.Africa"
       }
     ],
     "fx_liquidity": [
