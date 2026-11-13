@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T13:35:24.712214+00:00",
+  "last_updated": "2026-11-13T22:59:04.708114+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1350.459083,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-10T16:32:24.247372+00:00",
-        "rate": 1331.267014
-      },
       {
         "t": "2026-10-10T20:50:01.650990+00:00",
         "rate": 1331.267014
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-13T13:35:24.712214+00:00",
         "rate": 1350.459083
+      },
+      {
+        "t": "2026-11-13T22:59:04.708114+00:00",
+        "rate": 1350.459083
       }
     ]
   },
@@ -520,10 +520,10 @@
         "source": "Punch Newspapers"
       },
       {
-        "title": "Africa\u2019s largest refinery challenges Nigeria\u2019s crude supply system as middlemen add up to $4 per barrel - Business Insider Africa",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXVHOHRHOGQxcmo5Q1dzcmxFQTJ5SFh6Mm1VMWRLbk9rNE9tRmdkUUMxTmtIV1ktNk9rNnEybUlWNDFtQVVVVmJPTkU1S3AzOVdDMFF0anNMbkV5MjhWU2psZjFUUEtpeXZJeVRyMW9uTWw2d2xuV0lmU0xvUGFSUnJwSTlDNGJ1X2ZYNlcxcmZjZmhkS2pVWmpYcFBuN2Q1elhVWTVzNnhreVczU2ZuR3NWUXBCRzNmRXFWTGY1NHNwaFJHdTJVcUVUNUhHS2N0eHlUWjd0RWs?oc=5",
-        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-        "source": "Business Insider Africa"
+        "title": "Dangote, Others Get Less Than 50% Crude Allocation As NUPRC Cites Pricing Disputes For Supply Gaps - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU4zdVlBZWE1c0lXT1d3Z1k2Y0JfSkFRaFdVamZQdG5HeGM1TmFzdTBlMi1scDBVampEYnE5amJwUWpTUDVyZm1kRVlJTExaQWdkdUxOallTdThoc2VnZmRVMVFZQ0dZZ3Iwai1KXy1LSm03UzhHMWFWc2ZDc1FrSzVHRm1IOTBRd0xEUVg1aWJ3dHpZXzRCdnZrNWdnR1ZpOVdmVEhBTF96aDNSYWp2bXRFTXNya3VkOEE?oc=5",
+        "published": "Wed, 06 May 2026 07:00:00 GMT",
+        "source": "Arise News"
       }
     ],
     "freight_margins": [
@@ -552,24 +552,24 @@
         "source": "The Whistler Newspaper"
       },
       {
-        "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmVqQlhBWkVMTEhKeGRrRWM5UkhDU1JWRndXNlc0RXBheWp5VENNUEtHRGZxczJxU2E3ZmRrelRKNWpGaklKQ0xjMl9YNFZ2OWpESjZRcmw1bTkyczlrVnRWX2tzUFkwektnamdsTHcwMTZ1TE1FbW9lV29jUzNnb3BmOVhLUmxQdm9VdA?oc=5",
-        "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-        "source": "Dabafinance"
+        "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM001MGVnalZ3WWlWRjZtM19sNVFNTUdXUW9mOUY2M1NMMC1RdUF4MFRsQ0JaNVV3dWN5clpfQkNiMWJiOWgxOUw2c19RZkstMGVwNFNoQVhscEpOdjRkS3hSTW1Bb2NrenA2T2tkOGlGOExQWEhGT19vdVJVUk9Da2REaHRJb2FQZ3pMS1RicUNBVUJxQ1hSeG91eGNPMFRHYU9FLXZMM0lCOExNSEJzaTlFMF9KRFdSaF8xVFJhODRnandyRHVTcE53?oc=5",
+        "published": "Tue, 17 Mar 2026 20:23:03 GMT",
+        "source": "Argus Media"
       }
     ],
     "block_trades": [
-      {
-        "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
-        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "source": "Capmad"
-      },
       {
         "title": "Dangote Refinery IPO: How to Check Your Share Allotment, When Will Shares - - MSME Africa",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnJ2dXZQS0NXRGhYck02Q19yMUU0MGtaRXUyblk5Z0otUHZsN2pXZWVtLTlOSmQ4TlpyZGt0dVJmVHRkcDJYaEdhd0RrVjdBQy0xTzVfTFA0TmJXY0FrRnN4blJsUzFKTWJoYURHRkRjcU5jeUkxaEl1OW5GOURmWWtCbG9mUDM5QjBIZHpHbmFRODBNcWNETHhKWmM4NU4wUkRuSDZPbmhySWlUMkkwd09sS0I5WXJ6b0laY1Zvbk1rekNwM0NXSlRpNVFVOUhlX1ZRTlo0Y1lHQmtNd1d3Zkc3dFl4RFBhUm80ZEZn?oc=5",
         "published": "Thu, 05 Nov 2026 08:00:00 GMT",
         "source": "MSME Africa"
+      },
+      {
+        "title": "Dangote Petroleum Refinery closes $2.5bn raise ahead of Lagos stock market debut - Capmad",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzdOVDVaajBNc2otX2FNRU1mUVNTNkdxcGFNT1hnM0Y1WDJXbmlhSmVaQlcwUlFjQi11ckxSU3NEUUpLcDFIYURsQW4zaWJHV0Z4Z1dyLW1XMm5GQVRYaGhIWjAtM1BTY0trYjBjMWJQZklzLWtfR21xLWhQcy00a0l1b2NJZ1dyUTN6TWhTMVJ2MF9RMXBoZlFKUklGbGJ4NW56TFpsazhWUQ?oc=5",
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Capmad"
       },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
