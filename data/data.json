@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T21:47:22.621122+00:00",
+  "last_updated": "2026-11-15T03:40:13.617795+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1352.362126,
+    "usd_ngn": 1352.072165,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-11T16:57:16.530970+00:00",
-        "rate": 1330.995081
-      },
       {
         "t": "2026-10-11T21:11:23.824397+00:00",
         "rate": 1330.995081
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-14T21:47:22.621122+00:00",
         "rate": 1352.362126
+      },
+      {
+        "t": "2026-11-15T03:40:13.617795+00:00",
+        "rate": 1352.072165
       }
     ]
   },
@@ -566,28 +566,28 @@
         "source": "Capmad"
       },
       {
-        "title": "Dangote Refinery IPO: How to Check Your Share Allotment, When Will Shares - - MSME Africa",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnJ2dXZQS0NXRGhYck02Q19yMUU0MGtaRXUyblk5Z0otUHZsN2pXZWVtLTlOSmQ4TlpyZGt0dVJmVHRkcDJYaEdhd0RrVjdBQy0xTzVfTFA0TmJXY0FrRnN4blJsUzFKTWJoYURHRkRjcU5jeUkxaEl1OW5GOURmWWtCbG9mUDM5QjBIZHpHbmFRODBNcWNETHhKWmM4NU4wUkRuSDZPbmhySWlUMkkwd09sS0I5WXJ6b0laY1Zvbk1rekNwM0NXSlRpNVFVOUhlX1ZRTlo0Y1lHQmtNd1d3Zkc3dFl4RFBhUm80ZEZn?oc=5",
-        "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-        "source": "MSME Africa"
-      },
-      {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWhCaHJWNUtOeVVFeF9KeHVLbEV4SzRreGVvSzMzVzJ2bnBvczlJc1B1OGMtcVNpdGdlcHoxcmFpcHhVV2lHSmlQZlNESlNlTDZHajJCSkdLbExGa0xuRzdUZ0xfbHJuNU5GVVI4NzlvcjlaaGlMR2Q0RFF3UEZNUFM2Vm9ZNFZVa1hPWGxQUEdORWo1Z0NRbW5qejZEUndLem9R?oc=5",
         "published": "Mon, 07 Sep 2026 07:00:00 GMT",
         "source": "TheCable"
       },
       {
-        "title": "Nigerian billionaire Aliko Dangote\u2019s refinery IPO could boost active investors fivefold, NGX Group CEO says - Billionaires.Africa",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTRVTGdBNVdUdnVXS2EycHhrNUlhd0JIQUNMeENMbHVXQjBPck1qRXVPT19SU2NLcGpsNkJROEFJQUVGQ1FtUkQ0VF82UmFIc1hTOW5KV1pTMDI5dm12Z2RqcmJ3ZWllRF8xQXFsU1EwTUxJRUZLczdVbnBSQXdCMmloR1U0Qlp6VVJ6Z2NxMzJsUi10aVE4bm9Ldmh3MlB3TllZQldveWhLamU3UnQtWmR6cWJEUHNYZTlDWmNHRW03ZUZ3MzdfYWJwOEtabF9kZWtFU2FFYXllLTlfT3l1V2JYaw?oc=5",
-        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-        "source": "Billionaires.Africa"
-      },
-      {
         "title": "NGX suffers five-day rout as Dangote IPO wipes off N1.58 trillion - The Guardian Nigeria News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdURVOWdVNExNZThYT2NyakNMaFNiclBaZk8zb1ZwSUthLUFVSm4wc1lpdzlBMmlENHlUaGN4YnMtbXA3cDVoYnF0NW4yZ1RyQnNseEVYOXB3dWJWZi12MjZrc2VfSDZ4WEZFT2RKZ2VvV0lCbUxrQXloeU9BRjNVSTVrV253Y3ZkX1RiN1NDVFRTdHdxYUVkakJKZU9ZajZNMzNYQWEtYw?oc=5",
         "published": "Mon, 12 Oct 2026 07:00:00 GMT",
         "source": "The Guardian Nigeria News"
+      },
+      {
+        "title": "Investing in Scale: What the Dangote Refinery IPO Means for Institutional Portfolios - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2x3UHNBMVhfaFZOMU5kQUppMG4tT0JEZGhwbmxfdDE2dUNlSnNjZGF3M2tUakx2M2tzQnI0cWlISTBGQUZDa09XeFlVdUZ4dS14aWt6MkNybVh5OE5SWF82aEZubUl6eUNkcFc2dzIzN3Q0Skg2RzJBSnc1bHgtV205MWdiR2wtak1KOExoLXA1OElQVkVuUGlpSGkyd1NWQnRVRmJkTExnQ1pjeTlZZ0E4V2VDZ2pqWXN4NmxRTXVudllVbTZGQ0dCc29iR2c?oc=5",
+        "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "source": "Business News Nigeria"
+      },
+      {
+        "title": "BREAKING: Dangote Refinery IPO Goes Live, \u20a62.15tn Shares Up for Sale - Arbiterz",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xY1Y4WEx5akJ0RmFhU2JFWHVPNWowRXFTeVFFS1JISGFqU2w4aGFmVVRwRlR2bEhSNGNnd3J6ZE10dlczUWQ4UHRXSnVXZG15eGduVUtScWl0OUdBYkxZMUtfWlJKaWpKMDRrWHl5NGpOZGVk?oc=5",
+        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+        "source": "Arbiterz"
       }
     ],
     "fx_liquidity": [
