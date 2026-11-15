@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T03:40:13.617795+00:00",
+  "last_updated": "2026-11-15T13:06:45.822168+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1352.072165,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-11T21:11:23.824397+00:00",
-        "rate": 1330.995081
-      },
       {
         "t": "2026-10-12T03:07:52.233280+00:00",
         "rate": 1330.171897
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-15T03:40:13.617795+00:00",
         "rate": 1352.072165
+      },
+      {
+        "t": "2026-11-15T13:06:45.822168+00:00",
+        "rate": 1352.072165
       }
     ]
   },
@@ -584,10 +584,10 @@
         "source": "Business News Nigeria"
       },
       {
-        "title": "BREAKING: Dangote Refinery IPO Goes Live, \u20a62.15tn Shares Up for Sale - Arbiterz",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xY1Y4WEx5akJ0RmFhU2JFWHVPNWowRXFTeVFFS1JISGFqU2w4aGFmVVRwRlR2bEhSNGNnd3J6ZE10dlczUWQ4UHRXSnVXZG15eGduVUtScWl0OUdBYkxZMUtfWlJKaWpKMDRrWHl5NGpOZGVk?oc=5",
-        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-        "source": "Arbiterz"
+        "title": "Aliko Dangote's refinery IPO could add $60 billion to Nigeria's stock market - Billionaires.Africa",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlp3SFBnMGt5UXlBdVJ1VHpHZGtvckhwcFlQUm9LaEhzU29pM25EN2pYZU1TLWFRNkhzb0E4NzJXQmtwZ3o2NW9od1NtTWZCRDVZc3c0X0hyNWFVRldzMGxsRFd5V2ZtVTZlLU14YVJuY3Y2SFVDcHdlRkRBSjBvalVhS3l4VzZ2cjctQUxaN3Y3NjJJbVVIRjE0Q2xrdXpzZGMwdURpZFlnbVBvNU5vdjIzbjZYdmpR?oc=5",
+        "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+        "source": "Billionaires.Africa"
       }
     ],
     "fx_liquidity": [
@@ -604,12 +604,6 @@
         "source": "PM News Nigeria"
       },
       {
-        "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
-        "published": "Mon, 17 Mar 2025 07:00:00 GMT",
-        "source": "Vanguard News"
-      },
-      {
         "title": "How Nigeria\u2019s Currency Lost 140.96% Of Its Value Under Emefiele- Investigation - The Whistler Newspaper",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN24wLW9RaUhDMWpqeEtNa2pCQl9LaFRndGs2bXViSmdvcm5nU181cGMwYkRjc1Z0WDM2WHFDQnAxYzQwd1lBcUY4Qk0tLTZqQnAyZ1FJaGhSNHQzLXIwZDVPM09kUGxfellnQUR3RmkxNm5uanpYUDN0LTdqNlZpWEVwNVNYdFlsNlFPdkt3Y3VWeHpFQXlGTzFRbzZSeC1f?oc=5",
         "published": "Thu, 26 Nov 2020 08:00:00 GMT",
@@ -620,6 +614,12 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
         "published": "Mon, 23 Mar 2026 07:00:00 GMT",
         "source": "MarketForces Africa"
+      },
+      {
+        "title": "Who Will Save the Naira? - PressReader",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GOVAxUlpDT054Sk8xcTZvZElINzBEb25LeUU4WlpraEczT0hBMTFTZmFMNkFlT29feW41dGlyc0tjdGdvWFdCTGVHclNUSHFOLU5vWlgwdnZOeGludWFHWUFYTXFWSEFOSlVSTFk3b0Nsdi1oUXJj?oc=5",
+        "published": "Wed, 04 Feb 2015 08:00:00 GMT",
+        "source": "PressReader"
       }
     ]
   }
