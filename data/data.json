@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T04:55:11.696980+00:00",
+  "last_updated": "2026-11-19T14:51:58.326475+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1354.040817,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-14T16:07:21.943402+00:00",
-        "rate": 1331.275645
-      },
       {
         "t": "2026-10-14T21:04:52.134550+00:00",
         "rate": 1331.275645
@@ -490,17 +486,15 @@
       {
         "t": "2026-11-19T04:55:11.696980+00:00",
         "rate": 1354.040817
+      },
+      {
+        "t": "2026-11-19T14:51:58.326475+00:00",
+        "rate": 1354.040817
       }
     ]
   },
   "news": {
     "utilization": [
-      {
-        "title": "Prioritising crude allocation will lower inflation - Business News Nigeria",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUYwUVJIV0xuWGQ1TWdTalBZa1JQWDJYYm50cklmaFU0TnF4R01qWkJ1Rk5fR1ZlYlp3c1ZXb3BVNVcxNFFjaDdJOWg3UzFWQ3plZ3NjVDRNenRPclByM3JNalNFZE9COGt5SXY1Sk5GdmI3YUVaVEMtRnZ5QzhLTTFRblRBYnZtOXBjS2twLUtXM0kt?oc=5",
-        "published": "Thu, 29 Oct 2026 07:00:00 GMT",
-        "source": "Business News Nigeria"
-      },
       {
         "title": "Nigeria\u2019s Crude Export Supply Tightens as Dangote Refinery Buys 16 Million Barrels - Investors King",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFlWWlnd0tGMnNRVzdCQWpqRmVQRGJzOC1OdlRVOGk4c3UyYk5XWTItNnRmRzVlby1CNDB0RnRTUnJzSTBWODFPRXZHeWhQSkhrS1B5QkdGV2pVQlR1M3RCZXkyNFR6TDRfYzNoWHZGX3llck5ORE9FWDdXcG5qRENHRHlnWTBpLUpVYTNjSUNCQUxabHZ4S1RjSlJpeC1Ya2VzOTlVU295anJaSDM0dkJWUGZqdGZuMWs00gHAAUFVX3lxTE9RWE9uVTNIazBibnFlVmNZU1ZPLUFCVDFWUkZiTll1Y2szZnVxTXFmLWp0WU1oOUpJU1hNbGVIdFFKaUYtOGJIRlA5bW9ZX182Q0x0dmdPbEVYaExOem5DcFktdU1lelRlMlpObFctME51dHFtZXpkWWo1WGEyaWNpU0VPQjlEX01pUVEtUVhwdEVGMmFMTzdWNFoteXRaTXhJTTBpX0ZpcjBwS01iMjJoZUxkeEdmU3lPa2pwdUk3bw?oc=5",
@@ -520,10 +514,16 @@
         "source": "Punch Newspapers"
       },
       {
-        "title": "Dangote Refinery Ramps Up Petrol, Urea Exports to African Markets | - Business Post Nigeria",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUFRMlhiWTRIUm9DalFrM1ZxeFNlTnZYNWJwMFUtcFR1TUlRMlBSZVlEYkthbVlEM3lxdU9fMkpiUkhlaGZTT1J2bElyNXc0MFFtdHFwZmEzd1plSGNLaGtjdDJqcTZjUW1BUTlKRC1EV1NKVzB6dkFWWjNFV2tZSGFlTDVtVjhyRE52bHJnZzhlMmhKd1hsQlo1NjNkdw?oc=5",
-        "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "source": "Business Post Nigeria"
+        "title": "Dangote, Others Get Less Than 50% Crude Allocation As NUPRC Cites Pricing Disputes For Supply Gaps - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU4zdVlBZWE1c0lXT1d3Z1k2Y0JfSkFRaFdVamZQdG5HeGM1TmFzdTBlMi1scDBVampEYnE5amJwUWpTUDVyZm1kRVlJTExaQWdkdUxOallTdThoc2VnZmRVMVFZQ0dZZ3Iwai1KXy1LSm03UzhHMWFWc2ZDc1FrSzVHRm1IOTBRd0xEUVg1aWJ3dHpZXzRCdnZrNWdnR1ZpOVdmVEhBTF96aDNSYWp2bXRFTXNya3VkOEE?oc=5",
+        "published": "Wed, 06 May 2026 07:00:00 GMT",
+        "source": "Arise News"
+      },
+      {
+        "title": "Prioritising crude allocation will lower inflation - Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUYwUVJIV0xuWGQ1TWdTalBZa1JQWDJYYm50cklmaFU0TnF4R01qWkJ1Rk5fR1ZlYlp3c1ZXb3BVNVcxNFFjaDdJOWg3UzFWQ3plZ3NjVDRNenRPclByM3JNalNFZE9COGt5SXY1Sk5GdmI3YUVaVEMtRnZ5QzhLTTFRblRBYnZtOXBjS2twLUtXM0kt?oc=5",
+        "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+        "source": "Business News Nigeria"
       }
     ],
     "freight_margins": [
@@ -578,16 +578,16 @@
         "source": "Capmad"
       },
       {
-        "title": "Investing in Scale: What the Dangote Refinery IPO Means for Institutional Portfolios - Business News Nigeria",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2x3UHNBMVhfaFZOMU5kQUppMG4tT0JEZGhwbmxfdDE2dUNlSnNjZGF3M2tUakx2M2tzQnI0cWlISTBGQUZDa09XeFlVdUZ4dS14aWt6MkNybVh5OE5SWF82aEZubUl6eUNkcFc2dzIzN3Q0Skg2RzJBSnc1bHgtV205MWdiR2wtak1KOExoLXA1OElQVkVuUGlpSGkyd1NWQnRVRmJkTExnQ1pjeTlZZ0E4V2VDZ2pqWXN4NmxRTXVudllVbTZGQ0dCc29iR2c?oc=5",
-        "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-        "source": "Business News Nigeria"
-      },
-      {
         "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
         "published": "Thu, 10 Sep 2026 07:00:00 GMT",
         "source": "Punch Newspapers"
+      },
+      {
+        "title": "Dangote Refinery to be Africa\u2019s biggest IPO - African Capital Markets News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDkyMDVzTnZkdHFmeExPU3FqUVlmS1hIYTFOeDlFd1dXN2E2MlZMbHJpZUdla3Q1OXVXbVNXdWhEUUhWRElTVG11UUNvQUw1TFdVMkZ0OEoxaGkyaGJMRFNTak5kZEY2RHpSUjRUUlljdjNJZmJtRzlmSzdXQnE0RUUyRE5feEVr?oc=5",
+        "published": "Wed, 08 Apr 2026 17:54:54 GMT",
+        "source": "African Capital Markets News"
       }
     ],
     "fx_liquidity": [
