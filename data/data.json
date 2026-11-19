@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T14:51:58.326475+00:00",
+  "last_updated": "2026-11-19T23:59:13.803651+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1354.040817,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-14T21:04:52.134550+00:00",
-        "rate": 1331.275645
-      },
       {
         "t": "2026-10-15T02:14:24.029673+00:00",
         "rate": 1331.826337
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-19T14:51:58.326475+00:00",
         "rate": 1354.040817
+      },
+      {
+        "t": "2026-11-19T23:59:13.803651+00:00",
+        "rate": 1354.040817
       }
     ]
   },
@@ -578,16 +578,16 @@
         "source": "Capmad"
       },
       {
-        "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
-        "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
-      },
-      {
         "title": "Dangote Refinery to be Africa\u2019s biggest IPO - African Capital Markets News",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDkyMDVzTnZkdHFmeExPU3FqUVlmS1hIYTFOeDlFd1dXN2E2MlZMbHJpZUdla3Q1OXVXbVNXdWhEUUhWRElTVG11UUNvQUw1TFdVMkZ0OEoxaGkyaGJMRFNTak5kZEY2RHpSUjRUUlljdjNJZmJtRzlmSzdXQnE0RUUyRE5feEVr?oc=5",
         "published": "Wed, 08 Apr 2026 17:54:54 GMT",
         "source": "African Capital Markets News"
+      },
+      {
+        "title": "Dangote buys 25% of Kenya Pipeline in block trade of state-held shares - Oil & Gas Middle East",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLTl4dC1TZXZZTW80UkZVNGRMWVJYaEw1WFJ2U2RnbWNnbWFET2JGSUFfZ2RSVGlCbXZHc3BnR1JuNFRSdjNZSnQ5RHNSLVdxZmoyeG1VcUhwTEdJN05fS1dKc2pQX0pZMW9tOEszVkNsZEpsV1hBTw?oc=5",
+        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+        "source": "Oil & Gas Middle East"
       }
     ],
     "fx_liquidity": [
@@ -598,28 +598,28 @@
         "source": "MarketForces Africa"
       },
       {
+        "title": "Amid Reforms, Nigeria\u2019s Forex Market Records $1.83bn Turnover in One Week - Arise News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRpMHFpNXlJRW9lakxLTkN3b2xILWlqYnRPODhtSjJGWWExYjRSSmE5TkltYjFHR3B5bGdHWHBjTVZtM05rUndHRC16UGQzMExZQjN1ajRNblpZd3VOSzVib1JXMVJKb3c0UXp0YkFMa29IS3FMWnFUUjJkRjVHNTNISmI1UmI1WkNEMEZPdS1LZ1VYTmhZ?oc=5",
+        "published": "Sat, 10 Feb 2024 08:00:00 GMT",
+        "source": "Arise News"
+      },
+      {
+        "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS15WUdWa2czTXdyc0poUmhGQjRVRVJYdU5GazJMSzBnQkF3bWxVU0lTRVhLLWdTeWFhMHZXX3dVLUlZcnlHWGdZVFRNcU5XaU1GSGVhUTAwdGw4b1J3cW9mblU2NmFxenlYT0lFaFFWNDl1Tm5KZWdJbnczQllUdlU4NzEtYWs?oc=5",
+        "published": "Fri, 11 Oct 2024 07:00:00 GMT",
+        "source": "Channels Television"
+      },
+      {
         "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
         "published": "Mon, 23 Mar 2026 07:00:00 GMT",
         "source": "MarketForces Africa"
       },
       {
-        "title": "Big boost for naira as dollar inflows jump to new level in 2025 - Legit News",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLV9acHdTNEYtS1A1aV9qeDlVRnBIUGYzNXlMeE5qSS00Q0hDVXVjYnQyV184ZjN1WWl4bmZlaUtxTy1scnJRdG83QkIyOUdBa2l0ci1JZ2l0YVlYNHZBVllFZWhqeVJrdi0yWl9JNTVzdkxCcDIwZnljMFRvVXJxbFJDOUQ0LVdzQmJ6aTY2bHVFcHdlUGQ4eExiZ1o3OG5rTV96WmVrM3BZbmFnbXJCR2lWSGRscnYyazVmYW1PcXpyd0VKQ0g0?oc=5",
-        "published": "Wed, 24 Dec 2025 08:00:00 GMT",
-        "source": "Legit News"
-      },
-      {
         "title": "Forex Alert: CBN buys $190M to slow Naira\u2019s rapid rise - PM News Nigeria",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnR1aWZjRmNUSVRqendQX2pDOUJYdm1KbXZoMWUtWVlsX1hzSVJQRnY4ckx0eF9CQXNUcVNMbjRZWmkzS0poLWtMZ012eEkwaC1mdENEMzFDNjhPdWhTRHM5TVViaDREendCVkgzWWZOWnFHZ3FjblBTLWVDaUhRbjhGbmRXanFsMXJTVW1BV3ZwYk0?oc=5",
         "published": "Tue, 24 Feb 2026 08:00:00 GMT",
         "source": "PM News Nigeria"
-      },
-      {
-        "title": "Global trade war: Naira value depreciates amid forex outflows - Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlSRmxFUnNKckJEMjNMY1ZPQTJIZndfUjA5amFVd01kMVVaZFJGbU83N1VyajEwRmJkMThEM0FuS2J6Z3dHUTZfOE81WEtMVGREYVBfanZwTTlPaEUyWWRGb09mUzhzZ0JOMEs2WHZBRkFXOFZGUTE1VjhWazJFV2hwOFU3cXZpY0N3dUxnX1hiMTRLcGxpOVRKNkh5d9IBowFBVV95cUxPekhiTWhYVVZ6dGtHWDRYanVuczlNRjlldjk3Vmw1MFVOSmNxVWhhQlJUcTc1U09Pbmx0V2paelZ2YnFoNW5lUk5sbk1zUm9mZlpEMXRRM1ZtMWRVYXI2bU5feHp5ZFZ1T0g4d1lmRHl2OGpwSzBVOE51NS1qSjU2UkFsQXRWNkpWTDh0U1FoQWxEX0VvWDM3MWlsblRBX0hLQUow?oc=5",
-        "published": "Mon, 17 Mar 2025 07:00:00 GMT",
-        "source": "Vanguard News"
       }
     ]
   }
