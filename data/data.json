@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T13:51:15.863680+00:00",
+  "last_updated": "2026-11-21T22:33:19.902667+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1352.930642,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-16T10:18:19.608897+00:00",
-        "rate": 1331.189609
-      },
       {
         "t": "2026-10-16T15:43:31.480835+00:00",
         "rate": 1331.189609
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-21T13:51:15.863680+00:00",
         "rate": 1352.930642
+      },
+      {
+        "t": "2026-11-21T22:33:19.902667+00:00",
+        "rate": 1352.930642
       }
     ]
   },
@@ -578,16 +578,16 @@
         "source": "Capmad"
       },
       {
-        "title": "[UPDATED] FULL LIST: 40 approved channels to buy Dangote Refinery IPO - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2oxWHRUaWJPWVZxR21laFVUUmdQUTlFVUdSUjkyQUxyazZ6TVVFWnlaYjhVMUhMR2lIeWNWT2NwdVlvX2JTUzZybFl4VFN2UDdoR3Y3ZFdtMEsyZ19IdEZlQURwR2piYkZFV0R0VWI1NXpLQVB1Vi1heVhBQzJGV3BIUW1Bdw?oc=5",
-        "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
-      },
-      {
         "title": "Dangote Refinery to be Africa\u2019s biggest IPO - African Capital Markets News",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDkyMDVzTnZkdHFmeExPU3FqUVlmS1hIYTFOeDlFd1dXN2E2MlZMbHJpZUdla3Q1OXVXbVNXdWhEUUhWRElTVG11UUNvQUw1TFdVMkZ0OEoxaGkyaGJMRFNTak5kZEY2RHpSUjRUUlljdjNJZmJtRzlmSzdXQnE0RUUyRE5feEVr?oc=5",
         "published": "Wed, 08 Apr 2026 17:54:54 GMT",
         "source": "African Capital Markets News"
+      },
+      {
+        "title": "Dangote Refinery IPO 2026: Everything You Need to Know - Dabafinance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2FrNjZJUkloM0pwLVY5ck9STFlBNlRTU1loLXZBOGVnS3JvS1ZEQUhvbXNSU3o0QzdwUjM0V2ZBeE82UXRZQm1TX21Wc09mVHN3R19MRWMtUzdLSUxnUzdFUGVpa3BKWXRiQ2d4TUlwczlKOWljN0M1V28yYXdLMlJWVVR1UlFEQWpRWDdvR0E4cGM?oc=5",
+        "published": "Wed, 22 Apr 2026 07:00:00 GMT",
+        "source": "Dabafinance"
       }
     ],
     "fx_liquidity": [
