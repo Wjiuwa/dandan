@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T22:55:39.355436+00:00",
+  "last_updated": "2026-11-23T04:35:51.316272+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1376.736792,
+    "usd_ngn": 1367.642612,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-17T09:51:35.886943+00:00",
-        "rate": 1332.43205
-      },
       {
         "t": "2026-10-17T14:35:42.782054+00:00",
         "rate": 1332.43205
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-22T22:55:39.355436+00:00",
         "rate": 1376.736792
+      },
+      {
+        "t": "2026-11-23T04:35:51.316272+00:00",
+        "rate": 1367.642612
       }
     ]
   },
@@ -502,16 +502,16 @@
         "source": "Investors King"
       },
       {
-        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
-        "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-        "source": "Punch Newspapers"
-      },
-      {
         "title": "Africa\u2019s top oil producer admits crude supply limits behind Dangote\u2019s imports as the continent's largest refinery expands - Business Insider Africa",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVVpV0dWY2U3Y0JtTm13ZldYYlF4bUcwQ3h2ajRLLWxNT2NHUmVicDl5RGlabWhxYnlJc21BbmRhWm9JYzdMN0tIc1ZRd3VFandHaDJVemllRGZjRUlsc0hLSWdPRDlXelByb3VmZVNXRkJWNHM4Y3NmWXJHN0V5OUxWX3NldENFUG5WeEVHdExXTG11bF9iT29xSmRuVGkxdDRVZnNINXEzSVh6WjI2dkdDVm45ekgzLWhsUWZJeThLa2JQcG5iUEltXzN0cFBLWG9QYy1R?oc=5",
         "published": "Sat, 10 Oct 2026 07:00:00 GMT",
         "source": "Business Insider Africa"
+      },
+      {
+        "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% \u2013 NUPRC - Punch Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnNMQngzdjJKWVQ0cDZzNU41RG9XcTJma1VZODh0UDNxdlFiMVlTWlFPSmxJZExJdVctQUpESXk2UDVUV3ZzQ2NGc0RrbWtxbGVKU1F0eFZzbEl3Ni1TM1pQUElhQ0tFTTAtYXdvb1dCY3Jqb0g5YWk3aG9EZ2lRY0xUU1RPSVBnUFh1Qg?oc=5",
+        "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "source": "Punch Newspapers"
       },
       {
         "title": "Dangote, Others Get Less Than 50% Crude Allocation As NUPRC Cites Pricing Disputes For Supply Gaps - Arise News",
@@ -578,16 +578,16 @@
         "source": "Capmad"
       },
       {
+        "title": "Ecobank Enables Sales of Dangote Shares Across Africa for Retail, Institutional Investors - THISDAYLIVE",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWd2UHQ2ZE9EMzNvSWllN0VkVXpXcFJRaFVMU0QyNHBCUlpHQU41MjJfSEV6Q2RMYlNzS0ZoV1IycGVORGg1UU5zdHJkRGdSSkxnYmRFRlFhdjhmV3hjeldmeDVJQmMxM0NyUTZwOFdFcVktdTNvOHh2SkFnTlFHTTNMT1lqQXZ1a1RiOGIzYlRoelBnS1plNmlnbTFhNmdBeGtmRDQ2ZzNTbGZBX05VVnVoWEprU2hXS3JkTU5GZk5uQ0lsWnRZ?oc=5",
+        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+        "source": "THISDAYLIVE"
+      },
+      {
         "title": "Dangote Refinery to be Africa\u2019s biggest IPO - African Capital Markets News",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDkyMDVzTnZkdHFmeExPU3FqUVlmS1hIYTFOeDlFd1dXN2E2MlZMbHJpZUdla3Q1OXVXbVNXdWhEUUhWRElTVG11UUNvQUw1TFdVMkZ0OEoxaGkyaGJMRFNTak5kZEY2RHpSUjRUUlljdjNJZmJtRzlmSzdXQnE0RUUyRE5feEVr?oc=5",
         "published": "Wed, 08 Apr 2026 17:54:54 GMT",
         "source": "African Capital Markets News"
-      },
-      {
-        "title": "Dangote Refinery IPO 2026: Everything You Need to Know - Dabafinance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2FrNjZJUkloM0pwLVY5ck9STFlBNlRTU1loLXZBOGVnS3JvS1ZEQUhvbXNSU3o0QzdwUjM0V2ZBeE82UXRZQm1TX21Wc09mVHN3R19MRWMtUzdLSUxnUzdFUGVpa3BKWXRiQ2d4TUlwczlKOWljN0M1V28yYXdLMlJWVVR1UlFEQWpRWDdvR0E4cGM?oc=5",
-        "published": "Wed, 22 Apr 2026 07:00:00 GMT",
-        "source": "Dabafinance"
       }
     ],
     "fx_liquidity": [
