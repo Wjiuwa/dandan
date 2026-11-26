@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T16:23:52.919854+00:00",
+  "last_updated": "2026-11-26T01:16:54.915638+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -11,10 +11,6 @@
     "usd_ngn": 1366.832855,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-18T19:49:30.389955+00:00",
-        "rate": 1332.354946
-      },
       {
         "t": "2026-10-19T02:16:11.653256+00:00",
         "rate": 1331.61657
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-25T16:23:52.919854+00:00",
         "rate": 1366.832855
+      },
+      {
+        "t": "2026-11-26T01:16:54.915638+00:00",
+        "rate": 1366.832855
       }
     ]
   },
@@ -540,16 +540,16 @@
         "source": "Business News Nigeria"
       },
       {
-        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
-        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-        "source": "The Whistler Newspaper"
-      },
-      {
         "title": "How to Calculate Dangote Oil Refinery\u2019s Valuation - Dabafinance",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmVqQlhBWkVMTEhKeGRrRWM5UkhDU1JWRndXNlc0RXBheWp5VENNUEtHRGZxczJxU2E3ZmRrelRKNWpGaklKQ0xjMl9YNFZ2OWpESjZRcmw1bTkyczlrVnRWX2tzUFkwektnamdsTHcwMTZ1TE1FbW9lV29jUzNnb3BmOVhLUmxQdm9VdA?oc=5",
         "published": "Thu, 20 Aug 2026 07:00:00 GMT",
         "source": "Dabafinance"
+      },
+      {
+        "title": "Dangote Refinery Designed For Global Markets, Not Domestic Crude \u2014 CEO - The Whistler Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcko4ZjdsQnJWMnBLbzAtUWY3andxRDN2dGZjQXJxSVNjemhhQ3VPcF9ETFpoUmdJX3F2UTRLMk9ua0ZMSHJtQW1nVG1RM0c0ZUMybGltSHM4eWFucnhBdUU2X25TVS1qN3hfSE02eXViZkNYYlZzLWZUMEhzczF2MU5TVnotTmFvYzVNSGJjNFhtU3dIX3c?oc=5",
+        "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "source": "The Whistler Newspaper"
       },
       {
         "title": "Diesel Price News: Iran Conflict & Gulf Coast Market Shift - Argus Media",
@@ -568,7 +568,7 @@
       {
         "title": "Dangote Refinery to List on NGX December 1 - Arbiterz",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VjVNQ2VzSUFseDMyVmJxeEpYTUVHeGZsbUh4b05XX0p3X0wzVjc1VldXSS1SeUV0bklzdDhyTmpDcmp2MHotNS1WLWpLZ3RvQVc3bFdpRERCRjRSWWdyQndaTll2djBYc3VFek1PNndPZw?oc=5",
-        "published": "Wed, 25 Nov 2026 12:21:57 GMT",
+        "published": "Wed, 25 Nov 2026 13:16:20 GMT",
         "source": "Arbiterz"
       },
       {
@@ -598,16 +598,16 @@
         "source": "MarketForces Africa"
       },
       {
+        "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS15WUdWa2czTXdyc0poUmhGQjRVRVJYdU5GazJMSzBnQkF3bWxVU0lTRVhLLWdTeWFhMHZXX3dVLUlZcnlHWGdZVFRNcU5XaU1GSGVhUTAwdGw4b1J3cW9mblU2NmFxenlYT0lFaFFWNDl1Tm5KZWdJbnczQllUdlU4NzEtYWs?oc=5",
+        "published": "Fri, 11 Oct 2024 07:00:00 GMT",
+        "source": "Channels Television"
+      },
+      {
         "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
         "published": "Mon, 23 Mar 2026 07:00:00 GMT",
         "source": "MarketForces Africa"
-      },
-      {
-        "title": "How Nigeria\u2019s Currency Lost 140.96% Of Its Value Under Emefiele- Investigation - The Whistler Newspaper",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN24wLW9RaUhDMWpqeEtNa2pCQl9LaFRndGs2bXViSmdvcm5nU181cGMwYkRjc1Z0WDM2WHFDQnAxYzQwd1lBcUY4Qk0tLTZqQnAyZ1FJaGhSNHQzLXIwZDVPM09kUGxfellnQUR3RmkxNm5uanpYUDN0LTdqNlZpWEVwNVNYdFlsNlFPdkt3Y3VWeHpFQXlGTzFRbzZSeC1f?oc=5",
-        "published": "Thu, 26 Nov 2020 08:00:00 GMT",
-        "source": "The Whistler Newspaper"
       },
       {
         "title": "Big boost for naira as dollar inflows jump to new level in 2025 - Legit News",
