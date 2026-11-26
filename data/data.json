@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T01:16:54.915638+00:00",
+  "last_updated": "2026-11-26T15:57:59.912854+00:00",
   "ipo": {
     "offer_price_ngn": 525,
     "subscription_open": "2026-09-14",
@@ -8,13 +8,9 @@
     "valuation_usd_billion": 49
   },
   "fx": {
-    "usd_ngn": 1366.832855,
+    "usd_ngn": 1367.781989,
     "source": "open.er-api.com",
     "history": [
-      {
-        "t": "2026-10-19T02:16:11.653256+00:00",
-        "rate": 1331.61657
-      },
       {
         "t": "2026-10-19T11:28:53.561104+00:00",
         "rate": 1331.61657
@@ -490,6 +486,10 @@
       {
         "t": "2026-11-26T01:16:54.915638+00:00",
         "rate": 1366.832855
+      },
+      {
+        "t": "2026-11-26T15:57:59.912854+00:00",
+        "rate": 1367.781989
       }
     ]
   },
@@ -560,22 +560,22 @@
     ],
     "block_trades": [
       {
+        "title": "Dangote Refinery to begin trading on NGX December 1 after massive IPO demand - Pulse Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHoxRVhTa0EwbXJjRlpPQkJxWDJZYjd1cFozcEdpQlB1bUFvaE9pMmdxd29BSEJPNFREYWh5alZaaUZac01YVE82MzRmalY1ejhfQjEzSkFJOWhNclQ2RXF3VnYwbDRrSk9oZHhaeDhjSnk3VDk1TjhFNDVNWUl1SXVqRE9ONEs4d21McFd1cw?oc=5",
+        "published": "Thu, 26 Nov 2026 05:10:34 GMT",
+        "source": "Pulse Nigeria"
+      },
+      {
         "title": "Dangote Refinery Eyes Early December NGX Listing After SEC Clearance | - Business Post Nigeria",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3Z4X3NFY1lnVjY1ZGpBajFHTUI3QkZ5RElGOWRIbHo2bndzOUdCaTFiOGc1RHV2NnJNWGg3Q1p1WTdrLTMyd0Y4Xzc2Zzl1R0MweUVvYlNwWEJObmtIbmM4WHpETHVjc2NaWHBJalVkZjYtLVNXTnNzMkJkQ0xmWHJQdmZaUm43bFNfdW95QmVacWxPUzB6cDFkZ3pmN1JZTkhV?oc=5",
         "published": "Wed, 25 Nov 2026 08:50:15 GMT",
         "source": "Business Post Nigeria"
       },
       {
-        "title": "Dangote Refinery to List on NGX December 1 - Arbiterz",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VjVNQ2VzSUFseDMyVmJxeEpYTUVHeGZsbUh4b05XX0p3X0wzVjc1VldXSS1SeUV0bklzdDhyTmpDcmp2MHotNS1WLWpLZ3RvQVc3bFdpRERCRjRSWWdyQndaTll2djBYc3VFek1PNndPZw?oc=5",
-        "published": "Wed, 25 Nov 2026 13:16:20 GMT",
-        "source": "Arbiterz"
-      },
-      {
-        "title": "After $4.3bn IPO Oversubscription, Dangote, SEC Discuss Secondary Sale - Economic Confidential",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LWVp3a3I2ampTRHd5T2I1VkxmZG83akwyRk9NQXdUSWxFVlZpVGtXN1A1eWo4QzJjN0M0NlREcmk2YnNTS1B5N0ZoeGhuTTdUMzJvVXl4dmQ1X3U3QW1XUFhvZnExaDAwZlhQRDh6MA?oc=5",
-        "published": "Fri, 20 Nov 2026 10:08:00 GMT",
-        "source": "Economic Confidential"
+        "title": "Dangote Refinery IPO: Investors Await Share Allotment Tomorrow \u2013 What You Should Expect and What Happens Next - MSME Africa",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnlKbklZNnNDOFBBcVRZaWpfVmZNUHFhTkZ0UlhBd2hKTjhXRll2TUx3RzBmLTREa3BJd0hxWEdRamJBRnVFeDBUQmluOGlvM29XWGdWcFh2TTdyay1Jd2dpdmJfbTVNeXdQZ1RrWGdKTzZRTl83d1ktWm11QU05dlNfTl9wUUctY3pkak9HU2x1N29sQWx4SHJ3?oc=5",
+        "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+        "source": "MSME Africa"
       },
       {
         "title": "EXPLAINER: What to know about IPO as Dangote refinery prepares to list on NGX - TheCable",
@@ -598,16 +598,16 @@
         "source": "MarketForces Africa"
       },
       {
-        "title": "Net Forex Inflow Rises To $27.6bn, Says CBN - Channels Television",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS15WUdWa2czTXdyc0poUmhGQjRVRVJYdU5GazJMSzBnQkF3bWxVU0lTRVhLLWdTeWFhMHZXX3dVLUlZcnlHWGdZVFRNcU5XaU1GSGVhUTAwdGw4b1J3cW9mblU2NmFxenlYT0lFaFFWNDl1Tm5KZWdJbnczQllUdlU4NzEtYWs?oc=5",
-        "published": "Fri, 11 Oct 2024 07:00:00 GMT",
-        "source": "Channels Television"
-      },
-      {
         "title": "Naira Drops Sharply Amidst Successive FX Reserves Outflow - MarketForces Africa",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVgtUzlaLXBLUy1xakktWVU4aDJTWEM2VUVzRjJSZDVGdi0xeFRhX1dUMm9KS1JyemNPMkFPUUJLZ1hUQ0NpaVpIWHRzYzJVTGpGYUptNTZ3Q2RmazNHczVOYU9kVk45Q0tzZWVBU0ppdmVzOW5qNEZCa2FZY0NLbkswdGlKX2stdDljVQ?oc=5",
         "published": "Mon, 23 Mar 2026 07:00:00 GMT",
         "source": "MarketForces Africa"
+      },
+      {
+        "title": "How Nigeria\u2019s Currency Lost 140.96% Of Its Value Under Emefiele- Investigation - The Whistler Newspaper",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN24wLW9RaUhDMWpqeEtNa2pCQl9LaFRndGs2bXViSmdvcm5nU181cGMwYkRjc1Z0WDM2WHFDQnAxYzQwd1lBcUY4Qk0tLTZqQnAyZ1FJaGhSNHQzLXIwZDVPM09kUGxfellnQUR3RmkxNm5uanpYUDN0LTdqNlZpWEVwNVNYdFlsNlFPdkt3Y3VWeHpFQXlGTzFRbzZSeC1f?oc=5",
+        "published": "Thu, 26 Nov 2020 08:00:00 GMT",
+        "source": "The Whistler Newspaper"
       },
       {
         "title": "Big boost for naira as dollar inflows jump to new level in 2025 - Legit News",
